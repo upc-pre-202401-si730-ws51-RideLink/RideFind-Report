@@ -34,31 +34,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Competitive Analysis Landscape</title>
-    <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th, td {
-            border: 1px solid black;
-            padding: 8px;
-            text-align: center;
-        }
-        th, td[colspan="6"] {
-            text-align: center;
-        }
-        .default-size {
-            width: 200px;
-            height: auto;
-        }
-    </style>
+    
 </head>
 <body>
 
-<table>
+<table style="width: 100%;">
   <tr>
-    <td colspan="6">Competitive Analysis Landscape</td>
+    <th colspan="6" style="padding: 8px; text-align: center;"> Competitive Analysis Landscape</th>
   </tr>
   <tr>
     <td>¿Por qué llevar a cabo este análisis?</td>
@@ -165,40 +147,3 @@
     <strong>Regulaciones locales: </strong><br>Enfrenta desafíos regulatorios en diferentes ciudades y países, que pueden limitar su operación.<br>
     <strong>Dependencia de anfitriones:</strong><br> La calidad y disponibilidad de los alojamientos dependen de los anfitriones, lo cual puede afectar la experiencia del cliente.</td>
     <td><strong>Mantenimiento de la flota:</strong><br> La gestión y el mantenimiento de los scooters puede ser costoso y logísticamente desafiante.<br>
-    <strong>Problemas de regulación:</strong><br> Las normativas locales sobre el uso de scooters eléctricos pueden variar y afectar su operación.<br>
-    <strong>Problemas de seguridad:</strong><br> Los accidentes y el vandalismo pueden afectar la percepción del servicio y aumentar los costos.</td>
-  </tr>
-  <tr>
-    <td>Oportunidades</td>
-    <td><strong>Expansión Geográfica:</strong><br> Posibilidad de crecer hacia otras ciudades y regiones con necesidades similares.<br>
-    <strong>Alianzas Estratégicas:</strong><br> Colaboraciones con gobiernos locales y empresas para mejorar la infraestructura y promoción del servicio.<br>
-    <strong>Innovación Tecnológica:</strong><br> Integración de nuevas tecnologías como seguimiento en tiempo real y sistemas de seguridad avanzados.</td>
-    <td><strong>Expansión a nuevas áreas:</strong><br> Hay potencial para ampliar la red de estaciones a zonas adicionales y así captar más usuarios.<br>
-    <strong>Integración con otras formas de transporte:</strong><br> Puede colaborar con otras formas de transporte sostenible o con aplicaciones de movilidad para mejorar la oferta.<br>
-    <strong>Inversión en tecnología:</strong><br> Mejorar la tecnología de rastreo y reserva de bicicletas para ofrecer una experiencia más fluida y moderna.</td>
-    <td><strong>Expansión en nuevos mercados:</strong><br> Puede seguir expandiéndose en mercados emergentes y en áreas con alta demanda turística.<br>
-    <strong>Servicios adicionales: </strong><br>Introducción de nuevos servicios como experiencias locales o servicios adicionales para mejorar la oferta.<br>
-    <strong>Mejora en la tecnología: </strong><br>Invertir en tecnología para mejorar la experiencia del usuario, como inteligencia artificial para recomendaciones personalizadas.</td>
-    <td><strong>Expansión geográfica:</strong><br> Puede expandirse a nuevas ciudades o regiones donde la demanda de movilidad alternativa esté en crecimiento.<br>
-    <strong>Integración con otras plataformas:</strong><br> Colaborar con aplicaciones de movilidad o sistemas de transporte público para ofrecer una solución de transporte más completa.<br>
-    <strong>Desarrollo de tecnología:</strong><br> Innovar en la tecnología de los scooters, como baterías de mayor duración o mejoras en la aplicación móvil.</td>
-  </tr>
-  <tr>
-    <td>Amenazas</td>
-    <td><strong>Competencia Creciente:</strong><br> Entrada de nuevos competidores en el mercado con propuestas similares o innovadoras.<br>
-    <strong>Regulaciones Gubernamentales:</strong><br> Cambios en políticas y regulaciones que pueden afectar la operación y expansión del servicio.<br>
-    <strong>Fluctuaciones Económicas:</strong><br> Situaciones económicas adversas que disminuyan la demanda o dificulten la inversión y mantenimiento de la plataforma.</td>
-    <td><strong>Competencia creciente:</strong><br> La entrada de nuevas empresas de movilidad alternativa podría restar cuota de mercado.<br>
-    <strong>Condiciones climáticas:</strong><br> El clima adverso puede afectar la demanda de bicicletas y la experiencia del usuario.<br>
-    <strong>Regulaciones gubernamentales:</strong><br> Cambios en las políticas urbanas o restricciones en el uso de espacios públicos pueden impactar negativamente en su operación.</td>
-    <td><strong>Competencia de plataformas similares: </strong><br>La competencia de otras plataformas de alquiler de corto plazo y de hospedaje puede afectar su cuota de mercado.<br>
-    <strong>Cambios en las regulaciones:</strong><br> Nuevas leyes y regulaciones sobre alquileres a corto plazo pueden restringir la operación.<br>
-    <strong>Impacto económico:</strong><br> Factores económicos, como recesiones, pueden reducir la demanda de viajes y estancias.</td>
-    <td><strong>Competencia intensa: </strong><br>La presencia de otras empresas de scooters y bicicletas eléctricas puede aumentar la competencia en el mercado.<br>
-    <strong>Regulaciones estrictas:</strong><br> Las ciudades pueden imponer regulaciones más estrictas sobre el uso de scooters eléctricos.<br>
-    <strong>Cambio en la demanda: </strong><br>Variaciones en la demanda debido a cambios en las preferencias de los consumidores o factores económicos pueden afectar el negocio.</td>
-  </tr>
-</table>
-
-</body>
-</html>
