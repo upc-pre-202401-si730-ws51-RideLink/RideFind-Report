@@ -10,7 +10,6 @@
 
 <br><img src="./img/Chapter03/tobe2.jpg" alt="To Be Scenario Map 2" style="width: 1000px; height: auto;" ><br>
 
-
 ## 3.2. User Stories.
 
 
