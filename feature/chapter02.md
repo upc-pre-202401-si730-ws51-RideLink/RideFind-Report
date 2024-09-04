@@ -1,4 +1,3 @@
-
 # **Capítulo II: Requirements Elicitation & Analysis**
 
 ## 2.1. Competidores.
@@ -12,17 +11,17 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan align="center">CityBikeLima<img src="./img/citybike.png" alt="RideFind Logo" style="width: 250px; height: auto;" </td>
+            <td rowspan align="center">CityBikeLima<img src="./img/chapter02/citybike.png" alt="RideFind Logo" style="width: 250px; height: auto;" </td>
             <td>CityBike Lima es un servicio de bicicletas compartidas que opera en el distrito de Miraflores, Lima. Su objetivo es promover el uso de medios de transporte sostenibles y saludables, facilitando el acceso a bicicletas públicas para residentes y visitantes. El sistema de CityBike Lima permite a los usuarios alquilar bicicletas de manera sencilla y económica, contribuyendo a mejorar la movilidad urbana y reducir la congestión vehicular en la ciudad.<br>
             Página web:<a href="https://www.citybikelima.com/"> https://www.citybikelima.com/</a>
         </tr>
         <tr>
-            <td align="center">Airbnb<img src="./img/airbnb.png"alt="RideFind Logo" style="width: 700px; height: auto;"</td>
+            <td align="center">Airbnb<img src="./img/chapter02/airbnb.png"alt="RideFind Logo" style="width: 700px; height: auto;"</td>
             <td> Airbnb es una plataforma global que conecta a viajeros con anfitriones que ofrecen alojamientos únicos y variados en todo el mundo. La empresa permite a los usuarios encontrar desde habitaciones compartidas hasta casas enteras, proporcionando experiencias de viaje personalizadas y auténticas. Airbnb se enfoca en crear una comunidad donde los viajeros puedan sumergirse en culturas locales y disfrutar de estadías cómodas y asequibles, mientras los anfitriones tienen la oportunidad de generar ingresos adicionales al compartir sus espacios.<br>
             Página web:<a href="https://www.airbnb.com.pe/"> https://www.airbnb.com.pe/</a>
         </tr>
         <tr>
-           <td rowspan align="center">GrinPeru<br><img src="./img/grin.png"alt="RideFind Logo" style="width: 250px; height: auto;"</td> 
+           <td rowspan align="center">GrinPeru<br><img src="./img/chapter02/grin.png"alt="RideFind Logo" style="width: 250px; height: auto;"</td> 
            <td>Grin Perú es una empresa dedicada al alquiler de scooters eléctricos en la ciudad de Lima. Ofrece planes de suscripción flexibles que permiten a los usuarios alquilar scooters por uno, dos o tres meses, brindando una alternativa de transporte rápida, económica y ecológica. Grin busca facilitar la movilidad urbana, ayudando a las personas a evitar el tráfico congestionado mientras contribuyen a la reducción de la huella de carbono. Entre sus beneficios destacan el ahorro en costos de transporte, mantenimiento ilimitado de los scooters, atención personalizada y vehículos diseñados para adaptarse a las vías limeñas.<br>
            Página web:<a href="https://grin4u.grin-mobility.com/?status=init"> https://grin4u.grin-mobility.com/?status=init</a>
     </tbody>
@@ -40,10 +39,10 @@
   </tr>
   <tr>
     <td colspan="2"></td>
-    <td align="center">RideFind<br><img src="./img/logo.png" alt="RideFind Logo"></td>
-    <td align="center">CityBikeLima<br><img src="./img/citybike.png" alt="CityBikeLima Logo"></td>
-    <td align="center">Airbnb<br><img src="./img/airbnb.png" alt="Airbnb Logo"></td>
-    <td align="center">Grin Peru<br><img src="./img/grin.png" alt="Grin Peru Logo"></td> 
+    <td align="center">RideFind<br><img src="./img/chapter02/logo.png" alt="RideFind Logo"></td>
+    <td align="center">CityBikeLima<br><img src="./img/chapter02/citybike.png" alt="CityBikeLima Logo"></td>
+    <td align="center">Airbnb<br><img src="./img/chapter02/airbnb.png" alt="Airbnb Logo"></td>
+    <td align="center">Grin Peru<br><img src="./img/chapter02/grin.png" alt="Grin Peru Logo"></td> 
   </tr>
   <tr>
     <td rowspan="2" align="center">Perfil</td>
@@ -263,7 +262,7 @@ Entrevista N°1:
 **Edad:** 20 años
 **Inicio de la Entrevista:** 0:03
 
-<img src="./img/EntrevistaHarold.png" alt="Entrevista con Harold" style="width: 600px; height: auto;">
+<img src="./img/chapter02/EntrevistaHarold.png" alt="Entrevista con Harold" style="width: 600px; height: auto;">
 
 **Enlace:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EcCSsXuECudMq43U96doDSoBjlRz9pEakJAKjz9886APtQ?e=TCRqC8"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EcCSsXuECudMq43U96doDSoBjlRz9pEakJAKjz9886APtQ?e=TCRqC8</a>
 
@@ -278,7 +277,7 @@ Entrevista N°2:
 **Edad:** 24 años <br>
 **Inicio de la Entrevista:** 0:05 <br>
 
-<img src="./img/EntrevistaLuis.png" alt="Entrevista con Harold" style="width: 600px; height: auto;"><br>
+<img src="./img/chapter02/EntrevistaLuis.png" alt="Entrevista con Harold" style="width: 600px; height: auto;"><br>
 
 **Enlace:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EQAWSuW1CB9BhDIb-DEdFUgBE_27nMdsPVxCreJ9n0pLxQ?e=16i45B"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EQAWSuW1CB9BhDIb-DEdFUgBE_27nMdsPVxCreJ9n0pLxQ?e=16i45B</a>
 
@@ -294,7 +293,7 @@ Entrevista N°3:
 **Edad:** 20 años<br>
 **Inicio de la Entrevista:** 0:05<br>
 
-<img src="./img/EntrevistaSabiel.png" alt="Entrevista con Harold" style="width: 600px; height: auto;"><br>
+<img src="./img/chapter02/EntrevistaSabiel.png" alt="Entrevista con Harold" style="width: 600px; height: auto;"><br>
 
 **Enlace:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EdW4MG4fMRZFtuoBaQlOyW0Bv3gGBsH-9aUTnfLxTnVoUA?e=UWE5n8"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EdW4MG4fMRZFtuoBaQlOyW0Bv3gGBsH-9aUTnfLxTnVoUA?e=UWE5n8</a>
 
@@ -312,7 +311,7 @@ Entrevista N°1:
 **Edad:** 21 años<br>
 **Inicio de la Entrevista:** 0:01<br>
 
-<img src="./img/EntrevistaSteven.png" alt="Entrevista con Harold" style="width: 600px; height: auto;"><br>
+<img src="./img/chapter02/EntrevistaSteven.png" alt="Entrevista con Harold" style="width: 600px; height: auto;"><br>
 
 **Enlace:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1</a>
 
@@ -327,7 +326,7 @@ Entrevista N°2:
 **Edad:** 20 años<br>
 **Inicio de la Entrevista:** 0:03<br>
 
-<img src="./img/EntrevistaSabiel.png" alt="Entrevista con Harold" style="width: 600px; height: auto;"><br>
+<img src="./img/chapter02/EntrevistaSabiel.png" alt="Entrevista con Harold" style="width: 600px; height: auto;"><br>
 
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1</a>
 
@@ -342,7 +341,7 @@ Entrevista N°3:
 **Edad:** 19 años<br>
 **Inicio de la Entrevista:** 0:03<br>
 
-<img src="./img/EntrevistaSabiel.png" alt="Entrevista con Harold" style="width: 600px; height: auto;"><br>
+<img src="./img/chapter02/EntrevistaSabiel.png" alt="Entrevista con Harold" style="width: 600px; height: auto;"><br>
 
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1</a>
 
@@ -416,12 +415,12 @@ En este proyecto, hemos optado por interactuar con posibles usuarios a través d
 
 - **Segmento Objetivo 1 - Usuarios que Buscan Alquilar Vehículos**
 
-<img src="./img/userPersona1.png" alt="User Persona 1" style="width: 600px; height: auto;" ><br>
+<img src="./img/chapter02/userPersona1.png" alt="User Persona 1" style="width: 600px; height: auto;" ><br>
 
 
 - **Segmento Objetivo 2 - Propietarios de Vehículos Alternativos**
 
-<img src="./img/userPersona2.png" alt="User Persona 2" style="width: 600px; height: auto;" ><br>
+<img src="./img/chapter02/userPersona2.png" alt="User Persona 2" style="width: 600px; height: auto;" ><br>
 
 
 ### 2.3.2. User Task Matrix.
@@ -462,27 +461,27 @@ En este proyecto, hemos optado por interactuar con posibles usuarios a través d
 
 - **Primer segmento: Usuario que Alquila**
 
-<br><img src="./img/JourneyMap1.png" alt="Journey Map 1" style="width: 1000px; height: auto;" ><br>
+<br><img src="./img/chapter02/JourneyMap1.png" alt="Journey Map 1" style="width: 1000px; height: auto;" ><br>
 
 - **Segundo segmento: Propietario de Vehículo**
 
-<br><img src="./img/JourneyMap2.png" alt="Journey Map 2" style="width: 1000px; height: auto;" ><br>
+<br><img src="./img/chapter02/JourneyMap2.png" alt="Journey Map 2" style="width: 1000px; height: auto;" ><br>
 
 ### 2.3.4. Empathy Mapping.
 
 - **Primer segmento: Usuario que Alquila**
-<br><img src="./img/EmpathyMap1.png" alt="Empathy Map 1" style="width: 600px; height: auto;" ><br>
+<br><img src="./img/chapter02/EmpathyMap1.png" alt="Empathy Map 1" style="width: 600px; height: auto;" ><br>
 
 - **Segundo segmento: Propietario de Vehículo**
-<br><img src="./img/EmpathyMap2.png" alt="Empathy Map 2" style="width: 600px; height: auto;" ><br>
+<br><img src="./img/chapter02/EmpathyMap2.png" alt="Empathy Map 2" style="width: 600px; height: auto;" ><br>
 
 ### 2.3.5. As-is Scenario Mapping.
 
 - **Primer segmento: Usuario que Alquila**
-<br><img src="./img/Asis1.jpg" alt="As Is Scenario Map 1" style="width: 800px; height: auto;" ><br>
+<br><img src="./img/chapter02/Asis1.jpg" alt="As Is Scenario Map 1" style="width: 800px; height: auto;" ><br>
 
 - **Segundo segmento: Propietario de Vehículo**
-<br><img src="./img/Asis2.jpg" alt="As Is Scenario Map 2" style="width: 800px; height: auto;" ><br>
+<br><img src="./img/chapter02/Asis2.jpg" alt="As Is Scenario Map 2" style="width: 800px; height: auto;" ><br>
 
 
 ## 2.4. Ubiquitous Language.
@@ -503,4 +502,3 @@ En este proyecto, hemos optado por interactuar con posibles usuarios a través d
 - Tarifa de alquiler (Rental fee): Precio que cobra el propietario al cliente por el uso del vehículo durante un período específico.
 - Planes (Plans): Modelo de negocio que se utiliza para proporcionar un servicio por una cuota. En este caso, habrá tres planes para los propietarios.
 - Pago (Payment): Método que el cliente emplea para pagar el alquiler del vehículo y los planes.
-
