@@ -4,11 +4,11 @@
 
 - **Primer segmento: Usuario que Alquila**
 
-<br><img src="./img/Tobe1.jpg" alt="To Be Scenario Map 1" style="width: 1000px; height: auto;" ><br>
+<br><img src="./img/Chapter03/Tobe1.jpg" alt="To Be Scenario Map 1" style="width: 1000px; height: auto;" ><br>
 
 - **Segundo segmento: Propietario de Vehículos alternativos**
 
-<br><img src="./img/Tobe2.jpg" alt="To Be Scenario Map 2" style="width: 1000px; height: auto;" ><br>
+<br><img src="./img/Chapter03/Tobe2.jpg" alt="To Be Scenario Map 2" style="width: 1000px; height: auto;" ><br>
 
 
 ## 3.2. User Stories.
@@ -766,7 +766,7 @@
 En esta sección, debemos identificar los "Business Goals" para nuestra aplicación web, la cual conecta a personas que desean alquilar un vehículo con propietarios que desean ofrecer sus vehículos. Estos usuarios nos ayudarán a cumplir estos objetivos. Hemos identificado el "Impact" o impacto que deseamos lograr, y luego estableceremos los "Deliverables" que nos permitirán como negocio digital alcanzar estos impactos. Finalmente, incluiremos las "User Stories" para obtener las características o funcionalidades que ayudarán a producir los Deliverables.
 
 
-<br><img src="./img/Impactmap.png" alt="Impact Map" style="width: 1000px; height: auto;" ><br>
+<br><img src="./img/Chapter03/Impactmap.png" alt="Impact Map" style="width: 1000px; height: auto;" ><br>
 
 ## 3.4. Product Backlog.
 
