@@ -174,6 +174,34 @@
   </tr>
 
 
+### 2.1.2. Estrategias y tácticas frente a competidores.
+
+<table>
+    <thead>
+        <tr>
+            <th rowspan=2 colspan=2 align="center">MATRIZ FODA</th>
+            <th colspan=2 align="center">EXTERNO</th>
+        </tr>
+        <tr>
+            <td><strong>Oportunidades:</strong><br>- Creciente interés en la movilidad sostenible y alternativas de transporte ecológico.<br>- Expansión a nuevas áreas urbanas con alta demanda de movilidad alternativa.<br>- Integración de tecnología avanzada para mejorar la seguridad y la experiencia del usuario.</td>
+            <td><strong> Amenazas:</strong><br>- Competencia creciente de nuevas startups y aplicaciones de movilidad urbana.<br>	- Regulaciones gubernamentales que limiten o restrinjan el uso de bicicletas y scooters eléctricos en ciertas áreas.<br>- Desafíos relacionados con el mantenimiento de la flota y la gestión del vandalismo.</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th rowspan=2 align="center">INTERNO</th>
+            <td><strong>Fortalezas:</strong> <br>- Plataforma tecnológica avanzada que ofrece una experiencia de usuario fluida y eficiente.<br>- Flota diversificada de bicicletas y scooters eléctricos con tecnología de geolocalización.<br>- Buena reputación y reconocimiento de marca en el mercado local.</td>
+            <td><strong>Estrategias FO:</strong><br>- Expansión de la flota de bicicletas y scooters eléctricos para aprovechar la creciente demanda de movilidad sostenible.<br>- Alianzas estratégicas con gobiernos locales y empresas privadas para la promoción de la movilidad ecológica en nuevas áreas urbanas.	<br>- Inversión en tecnología avanzada, como la implementación de inteligencia artificial para optimizar la gestión de la flota y la experiencia del usuario.</td>
+            <td><strong>Estrategias FA:</strong><br>- Colaboración con gobiernos y comunidades para superar barreras regulatorias y promover políticas favorables a la movilidad eléctrica.	<br>- Desarrollo de campañas de marketing que resalten la tecnología y la innovación detrás de la plataforma, diferenciando el servicio de la competencia.<br>- Implementación de sistemas de seguridad avanzada y monitoreo en tiempo real para mitigar los riesgos de vandalismo y mejorar la seguridad de los usuarios.</td>
+        </tr>
+        <tr>
+            <td><strong>Debilidades:</strong><br>- Alta dependencia de la infraestructura pública para la instalación de estaciones de carga y estacionamiento.<br>- Costos elevados de mantenimiento y reemplazo de bicicletas y scooters eléctricos.<br>- Dificultad para competir en precio con servicios de transporte tradicional o con otras aplicaciones de movilidad.</td>
+            <td><strong>Estrategias DO:</strong><br>- Colaboración con proveedores de energía para desarrollar infraestructura de carga dedicada en áreas clave, mejorando la disponibilidad de vehículos y reduciendo los tiempos de inactividad.<br>- Ofrecer un servicio premium que incluya beneficios adicionales, como seguros para los usuarios o garantías de seguridad, diferenciando el servicio frente a la competencia tradicional. <br>- Desarrollo de programas de fidelización para atraer y retener a los usuarios, incentivando el uso recurrente de la plataforma. </td>
+            <td><strong>Estrategias DA:</strong><br>- Diversificación de los servicios, ofreciendo opciones de transporte compartido o soluciones de última milla para empresas y usuarios particulares, mitigando la dependencia de una sola fuente de ingresos.<br>- Negociación con gobiernos y organizaciones para obtener subsidios o incentivos fiscales que reduzcan los costos operativos, permitiendo competir en precio con otras alternativas de transporte.<br>- Inversión en tecnología de mantenimiento predictivo para reducir los costos asociados con la reparación y reemplazo de la flota, optimizando la eficiencia operativa y prolongando la vida útil de los vehículos.</td><br>
+        </tr>
+    </tbody>
+</table>
+
 ## 2.2. Entrevistas.
 
 El objetivo de las entrevistas es obtener una comprensión profunda de las experiencias, perspectivas y opiniones de los segmentos de mercado seleccionados. Nuestra meta es recopilar información valiosa que nos permita entender mejor a nuestro público objetivo y mejorar nuestra comprensión de los usuarios. Estas conversaciones nos proporcionarán una visión más clara de las necesidades y deseos de nuestros usuarios, lo que nos ayudará a adaptar nuestros productos o servicios de manera más efectiva a sus requisitos.
@@ -434,27 +462,27 @@ En este proyecto, hemos optado por interactuar con posibles usuarios a través d
 
 - **Primer segmento: Usuario que Alquila**
 
-<img src="./img/JourneyMap1.png" alt="Journey Map 1" style="width: 1000px; height: auto;" ><br>
+<br><img src="./img/JourneyMap1.png" alt="Journey Map 1" style="width: 1000px; height: auto;" ><br>
 
 - **Segundo segmento: Propietario de Vehículo**
 
-<img src="./img/JourneyMap2.png" alt="Journey Map 2" style="width: 1000px; height: auto;" ><br>
+<br><img src="./img/JourneyMap2.png" alt="Journey Map 2" style="width: 1000px; height: auto;" ><br>
 
 ### 2.3.4. Empathy Mapping.
 
 - **Primer segmento: Usuario que Alquila**
-<img src="./img/EmpathyMap1.png" alt="Empathy Map 1" style="width: 600px; height: auto;" ><br>
+<br><img src="./img/EmpathyMap1.png" alt="Empathy Map 1" style="width: 600px; height: auto;" ><br>
 
 - **Segundo segmento: Propietario de Vehículo**
-<img src="./img/EmpathyMap2.png" alt="Empathy Map 2" style="width: 600px; height: auto;" ><br>
+<br><img src="./img/EmpathyMap2.png" alt="Empathy Map 2" style="width: 600px; height: auto;" ><br>
 
 ### 2.3.5. As-is Scenario Mapping.
 
 - **Primer segmento: Usuario que Alquila**
-<img src="./img/Asis1.jpg" alt="As Is Scenario Map 1" style="width: 800px; height: auto;" ><br>
+<br><img src="./img/Asis1.jpg" alt="As Is Scenario Map 1" style="width: 800px; height: auto;" ><br>
 
 - **Segundo segmento: Propietario de Vehículo**
-<img src="./img/Asis2.jpg" alt="As Is Scenario Map 2" style="width: 800px; height: auto;" ><br>
+<br><img src="./img/Asis2.jpg" alt="As Is Scenario Map 2" style="width: 800px; height: auto;" ><br>
 
 
 ## 2.4. Ubiquitous Language.
