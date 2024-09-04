@@ -172,3 +172,335 @@
     <strong>Regulaciones estrictas:</strong><br> Las ciudades pueden imponer regulaciones más estrictas sobre el uso de scooters eléctricos.<br>
     <strong>Cambio en la demanda: </strong><br>Variaciones en la demanda debido a cambios en las preferencias de los consumidores o factores económicos pueden afectar el negocio.</td>
   </tr>
+
+
+### 2.1.2. Estrategias y tácticas frente a competidores.
+
+<table>
+    <thead>
+        <tr>
+            <th rowspan=2 colspan=2 align="center">MATRIZ FODA</th>
+            <th colspan=2 align="center">EXTERNO</th>
+        </tr>
+        <tr>
+            <td><strong>Oportunidades:</strong><br>- Creciente interés en la movilidad sostenible y alternativas de transporte ecológico.<br>- Expansión a nuevas áreas urbanas con alta demanda de movilidad alternativa.<br>- Integración de tecnología avanzada para mejorar la seguridad y la experiencia del usuario.</td>
+            <td><strong> Amenazas:</strong><br>- Competencia creciente de nuevas startups y aplicaciones de movilidad urbana.<br>	- Regulaciones gubernamentales que limiten o restrinjan el uso de bicicletas y scooters eléctricos en ciertas áreas.<br>- Desafíos relacionados con el mantenimiento de la flota y la gestión del vandalismo.</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th rowspan=2 align="center">INTERNO</th>
+            <td><strong>Fortalezas:</strong> <br>- Plataforma tecnológica avanzada que ofrece una experiencia de usuario fluida y eficiente.<br>- Flota diversificada de bicicletas y scooters eléctricos con tecnología de geolocalización.<br>- Buena reputación y reconocimiento de marca en el mercado local.</td>
+            <td><strong>Estrategias FO:</strong><br>- Expansión de la flota de bicicletas y scooters eléctricos para aprovechar la creciente demanda de movilidad sostenible.<br>- Alianzas estratégicas con gobiernos locales y empresas privadas para la promoción de la movilidad ecológica en nuevas áreas urbanas.	<br>- Inversión en tecnología avanzada, como la implementación de inteligencia artificial para optimizar la gestión de la flota y la experiencia del usuario.</td>
+            <td><strong>Estrategias FA:</strong><br>- Colaboración con gobiernos y comunidades para superar barreras regulatorias y promover políticas favorables a la movilidad eléctrica.	<br>- Desarrollo de campañas de marketing que resalten la tecnología y la innovación detrás de la plataforma, diferenciando el servicio de la competencia.<br>- Implementación de sistemas de seguridad avanzada y monitoreo en tiempo real para mitigar los riesgos de vandalismo y mejorar la seguridad de los usuarios.</td>
+        </tr>
+        <tr>
+            <td><strong>Debilidades:</strong><br>- Alta dependencia de la infraestructura pública para la instalación de estaciones de carga y estacionamiento.<br>- Costos elevados de mantenimiento y reemplazo de bicicletas y scooters eléctricos.<br>- Dificultad para competir en precio con servicios de transporte tradicional o con otras aplicaciones de movilidad.</td>
+            <td><strong>Estrategias DO:</strong><br>- Colaboración con proveedores de energía para desarrollar infraestructura de carga dedicada en áreas clave, mejorando la disponibilidad de vehículos y reduciendo los tiempos de inactividad.<br>- Ofrecer un servicio premium que incluya beneficios adicionales, como seguros para los usuarios o garantías de seguridad, diferenciando el servicio frente a la competencia tradicional. <br>- Desarrollo de programas de fidelización para atraer y retener a los usuarios, incentivando el uso recurrente de la plataforma. </td>
+            <td><strong>Estrategias DA:</strong><br>- Diversificación de los servicios, ofreciendo opciones de transporte compartido o soluciones de última milla para empresas y usuarios particulares, mitigando la dependencia de una sola fuente de ingresos.<br>- Negociación con gobiernos y organizaciones para obtener subsidios o incentivos fiscales que reduzcan los costos operativos, permitiendo competir en precio con otras alternativas de transporte.<br>- Inversión en tecnología de mantenimiento predictivo para reducir los costos asociados con la reparación y reemplazo de la flota, optimizando la eficiencia operativa y prolongando la vida útil de los vehículos.</td><br>
+        </tr>
+    </tbody>
+</table>
+
+## 2.2. Entrevistas.
+
+El objetivo de las entrevistas es obtener una comprensión profunda de las experiencias, perspectivas y opiniones de los segmentos de mercado seleccionados. Nuestra meta es recopilar información valiosa que nos permita entender mejor a nuestro público objetivo y mejorar nuestra comprensión de los usuarios. Estas conversaciones nos proporcionarán una visión más clara de las necesidades y deseos de nuestros usuarios, lo que nos ayudará a adaptar nuestros productos o servicios de manera más efectiva a sus requisitos.
+
+### 2.2.1. Diseño de entrevistas.
+
+En esta parte, se han formulado varias preguntas destinadas a nuestros segmentos de interés con el fin de obtener información cualitativa, como opiniones o descripciones. Esta información será crucial para el desarrollo de nuestra solución.
+
+<strong>Breve descripción de nuestra aplicación</strong>
+
+RideFind es una plataforma que facilita el alquiler de vehículos alternativos y sostenibles, como autos eléctricos, motos eléctricas, scooters y bicicletas. Nuestra misión es ofrecer una solución de transporte eficiente, ecológica y accesible, ayudando a reducir la congestión vehicular y la contaminación en las ciudades. Ya sea que necesites un medio de transporte flexible y rápido, o que quieras alquilar un vehículo que no utilizas con frecuencia para obtener ingresos adicionales, RideFind está diseñada para satisfacer esas necesidades de manera segura y conveniente.
+
+
+**Preguntas Generales:**
+
+- ¿Cuál es tu nombre?
+- ¿Cuántos años tienes?
+- ¿Cuál es tu ocupación?
+
+**Preguntas para el Segmento Objetivo 1 - Propietarios de Vehículos Alternativos**
+
+- ¿Con qué frecuencia utilizas medios de transporte alternativos como scooters o autos eléctricos?
+- ¿Qué te motiva a elegir un vehículo alternativo en lugar de un transporte tradicional?
+- ¿Has utilizado alguna plataforma de alquiler de vehículos antes? ¿Cuál fue tu experiencia?
+- ¿Qué aspectos valoras más en una plataforma de alquiler (precio, variedad, facilidad de uso, etc.)?
+- ¿Qué te motivaría a utilizar una plataforma de alquiler de vehículos como RideFind?
+- ¿Cuáles son tus principales preocupaciones al alquilar un vehículo (seguridad, calidad, disponibilidad)?
+- ¿Qué características consideras indispensables en una plataforma de alquiler de vehículos?
+- ¿Cómo debería ser la experiencia de usuario ideal para ti al alquilar un vehículo?
+- ¿Qué te haría volver a utilizar la plataforma después de tu primer alquiler?
+- ¿Recomendarías una plataforma que cumpla con tus expectativas? ¿Por qué?
+
+
+**Preguntas para el Segmento Objetivo 2 - Propietarios de Vehículos Alternativos:**
+
+
+- ¿Cuántos vehículos alternativos posees? ¿Con qué frecuencia los utilizas?
+- ¿Estás interesado en compartir tu vehículo a través de una plataforma de alquiler? ¿Por qué?
+- ¿Has alquilado tu vehículo anteriormente? ¿Cómo fue la experiencia?
+- ¿Qué aspectos consideras importantes al alquilar tu vehículo a otras personas (precio, seguro, condiciones)?
+- ¿Qué te motivaría a alquilar tu vehículo en una plataforma como RideFind?
+- ¿Cuáles son tus principales preocupaciones al poner tu vehículo en alquiler (daños, uso indebido, retorno de inversión)?
+- ¿Qué características te harían sentir más cómodo al ofrecer tu vehículo en alquiler?
+- ¿Cómo debería ser la experiencia ideal para ti como propietario en la plataforma?
+- ¿Qué te haría continuar utilizando la plataforma para alquilar tu vehículo a largo plazo?
+- ¿Recomendarías la plataforma a otros propietarios? ¿Qué te motivaría a hacerlo?
+
+
+### 2.2.2. Registro de entrevistas.
+
+**Entrevista para el Segmento Objetivo 1 - Propietarios de Vehículos:**
+
+---
+
+Entrevista N°1:
+
+**Entrevistado:** Harold Jaime Mayta Lopez
+**Sexo:** Masculino
+**Edad:** 20 años
+**Inicio de la Entrevista:** 0:03
+
+<img src="./img/EntrevistaHarold.png" alt="Entrevista con Harold" style="width: 600px; height: auto;">
+
+**Enlace:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EcCSsXuECudMq43U96doDSoBjlRz9pEakJAKjz9886APtQ?e=TCRqC8"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EcCSsXuECudMq43U96doDSoBjlRz9pEakJAKjz9886APtQ?e=TCRqC8</a>
+
+**Resumen de la Entrevista**: Harold, un estudiante de 20 años de Ingeniería de Software, fue entrevistado sobre su interés en la plataforma Ridefind, dedicada al alquiler de vehículos alternativos y sostenibles. Aunque no utiliza estos medios de transporte con frecuencia, muestra interés por su impacto ecológico. Valora la facilidad de uso, la disponibilidad y un precio accesible en una plataforma de alquiler. Sus principales preocupaciones son la seguridad y la calidad de los vehículos. Harold también sugiere que la plataforma podría educar a sus usuarios y fomentar una comunidad. Está dispuesto a recomendar la plataforma si cumple con sus expectativas.
+
+---
+
+Entrevista N°2:
+
+**Entrevistad:** Luis Quispe<br>
+**Sexo:** Masculino <br>
+**Edad:** 24 años <br>
+**Inicio de la Entrevista:** 0:05 <br>
+
+<img src="./img/EntrevistaLuis.png" alt="Entrevista con Harold" style="width: 600px; height: auto;"><br>
+
+**Enlace:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EQAWSuW1CB9BhDIb-DEdFUgBE_27nMdsPVxCreJ9n0pLxQ?e=16i45B"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EQAWSuW1CB9BhDIb-DEdFUgBE_27nMdsPVxCreJ9n0pLxQ?e=16i45B</a>
+
+
+**Resumen de la Entrevista:** 	Luis Anthony, un comprador de autos de 24 años, usa medios de transporte alternativos ocasionalmente, valorando su flexibilidad, conveniencia y menor impacto ambiental. Aunque ha tenido experiencias positivas con plataformas de alquiler, sus principales preocupaciones son la seguridad, calidad y disponibilidad de los vehículos. Le interesaría usar RideFind sí ofrece tarifas competitivas, una variedad adecuada de vehículos y promociones. Recomendaría la plataforma si cumple con sus expectativas de calidad y facilidad de uso.
+
+---
+
+Entrevista N°3:
+
+**Entrevistado:** Sabiel Surichaqui <br>
+**Sexo:** Masculino<br>
+**Edad:** 20 años<br>
+**Inicio de la Entrevista:** 0:05<br>
+
+<img src="./img/EntrevistaSabiel.png" alt="Entrevista con Harold" style="width: 600px; height: auto;"><br>
+
+**Enlace:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EdW4MG4fMRZFtuoBaQlOyW0Bv3gGBsH-9aUTnfLxTnVoUA?e=UWE5n8"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EdW4MG4fMRZFtuoBaQlOyW0Bv3gGBsH-9aUTnfLxTnVoUA?e=UWE5n8</a>
+
+**Resumen de la Entrevista:** Sabiel, un estudiante de 20 años de Ingeniería Mecánica, utiliza frecuentemente una bicicleta eléctrica para movilizarse a su universidad, motivado por el ahorro de dinero y la comodidad. Nunca ha utilizado una plataforma de alquiler de vehículos, pero considera importantes la calidad, seguridad, y la facilidad de uso en una plataforma.
+ Además, valora que los precios sean justos y la variedad de vehículos. Estaría motivado a volver a utilizar la plataforma si esta ofrece descuentos o cupones para usuarios frecuentes. Sabiel también mencionó que recomendaría la plataforma a amigos y familiares si cumple con sus expectativas.
+
+---
+
+**Entrevista para el Segmento Objetivo 1 - Propietarios de Vehículos Alternativos:**
+
+Entrevista N°1:
+
+**Entrevistado:** Steven Quito<br>
+**Sexo:** Masculino<br>
+**Edad:** 21 años<br>
+**Inicio de la Entrevista:** 0:01<br>
+
+<img src="./img/EntrevistaSteven.png" alt="Entrevista con Harold" style="width: 600px; height: auto;"><br>
+
+**Enlace:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1</a>
+
+**Resumen de la Entrevista:** Stiven, un profesional de 35 años que posee una bicicleta eléctrica y un scooter eléctrico, fue entrevistado sobre su disposición e interés en compartir sus vehículos a través de la plataforma RideFind. Utiliza su bicicleta eléctrica a diario para ir al trabajo, mientras que el scooter lo utiliza principalmente los fines de semana. Aunque nunca ha alquilado sus vehículos antes, Stiven está interesado en hacerlo, especialmente con su scooter, con la intención de generar ingresos adicionales. Para él, los aspectos más importantes al alquilar su vehículo son la seguridad y un precio justo. Sus principales preocupaciones incluyen posibles daños a sus vehículos y asegurarse de que el alquiler sea rentable. Stiven considera que un seguro integral y un sistema de calificaciones para los usuarios serían características clave para sentirse cómodo al ofrecer su vehículo en alquiler. Él espera que la experiencia en la plataforma sea simple y transparente, y estaría dispuesto a continuar utilizando y recomendar la plataforma si cumple con sus expectativas de rentabilidad, seguridad y facilidad de uso.
+
+---
+
+Entrevista N°2:
+
+**Entrevistada:** Nombre Nombre<br>
+**Sexo:** Masculino<br>
+**Edad:** 20 años<br>
+**Inicio de la Entrevista:** 0:03<br>
+
+<img src="./img/EntrevistaSabiel.png" alt="Entrevista con Harold" style="width: 600px; height: auto;"><br>
+
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1</a>
+
+**Resumen de la Entrevista**: Resumen de la entrevista aquí.
+
+---
+
+Entrevista N°3:
+
+**Entrevistada:** Nombre<br>
+**Sexo:** Masculino<br>
+**Edad:** 19 años<br>
+**Inicio de la Entrevista:** 0:03<br>
+
+<img src="./img/EntrevistaSabiel.png" alt="Entrevista con Harold" style="width: 600px; height: auto;"><br>
+
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1</a>
+
+**Resumen de la Entrevista:** Resumen de la entrevista aquí.
+
+### 2.2.3. Análisis de entrevistas.
+
+
+<table border>
+  <tr>
+    <td align="center"><b>Características</b></td>
+    <td align="center"><b>Propietario de Vehículo</b></td>
+    <td align="center"><b>Usuario que Alquila</b></td>
+  </tr>
+  <tr>
+    <td>Interés en la plataforma RideFind</td>
+    <td>Stiven está interesado en alquilar su scooter eléctrico para generar ingresos.</td>
+    <td>Todos los usuarios muestran interés en la plataforma por su impacto ecológico y conveniencia.</td>
+  </tr>
+  <tr>
+    <td>Uso frecuente de vehículos alternativos</td>
+    <td>Utiliza su bicicleta eléctrica a diario y el scooter los fines de semana.</td>
+    <td>Sabiel usa una bicicleta eléctrica regularmente, mientras que Harold y Luis los usan ocasionalmente.</td>
+  </tr>
+  <tr>
+    <td>Preocupaciones principales</td>
+    <td>Preocupado por la seguridad de sus vehículos y la rentabilidad del alquiler.</td>
+    <td>Principales preocupaciones incluyen la seguridad, calidad y disponibilidad de los vehículos.</td>
+  </tr>
+  <tr>
+    <td>Experiencia previa con plataformas similares</td>
+    <td>Nunca ha alquilado sus vehículos, pero está dispuesto a probar RideFind.</td>
+    <td>Sabiel nunca ha usado plataformas de alquiler, mientras que Harold y Luis tienen experiencia previa positiva.</td>
+  </tr>
+  <tr>
+    <td>Preferencias en la plataforma</td>
+    <td>Desea un seguro integral y un sistema de calificaciones para los usuarios.</td>
+    <td>Valoran la facilidad de uso, precios accesibles, y promociones para usuarios frecuentes.</td>
+  </tr>
+  <tr>
+    <td>Disposición a recomendar la plataforma</td>
+    <td>Dispuesto a recomendarla si cumple con sus expectativas de seguridad y rentabilidad.</td>
+    <td>Todos estarían dispuestos a recomendar la plataforma si cumple con sus expectativas de calidad, precio, y facilidad de uso.</td>
+  </tr>
+  <tr>
+    <td>Motivación principal para usar la plataforma</td>
+    <td>Generar ingresos adicionales al alquilar su scooter.</td>
+    <td>Ahorro de dinero, comodidad, y menor impacto ambiental son las principales motivaciones.</td>
+  </tr>
+  <tr>
+    <td>Sugerencias para mejorar la plataforma</td>
+    <td>Considera importante la transparencia en el proceso de alquiler.</td>
+    <td>Sugieren educar a los usuarios y fomentar una comunidad dentro de la plataforma.</td>
+  </tr>
+  <tr>
+    <td>Preferencia por características adicionales</td>
+    <td>Valora un proceso de alquiler simple y transparente.</td>
+    <td>Valoran una variedad adecuada de vehículos, tarifas competitivas, y la oferta de descuentos/cupones.</td>
+  </tr>
+</table>
+
+
+
+## 2.3. Needfinding.
+
+El Needfinding es una metodología cualitativa centrada en captar las opiniones y sentimientos de los usuarios. Su propósito, como su nombre sugiere, es identificar, explorar, analizar, descubrir, y valorar de manera sencilla las necesidades que pueden dirigir y orientar el desarrollo y diseño de cualquier proyecto.
+
+En este proyecto, hemos optado por interactuar con posibles usuarios a través de entrevistas y cuestionarios. A continuación, se presentan diversos análisis derivados de estas entrevistas en los siguientes artefactos.
+
+### 2.3.1. User Personas.
+
+- **Segmento Objetivo 1 - Usuarios que Buscan Alquilar Vehículos**
+
+<img src="./img/userPersona1.png" alt="User Persona 1" style="width: 600px; height: auto;" ><br>
+
+
+- **Segmento Objetivo 2 - Propietarios de Vehículos Alternativos**
+
+<img src="./img/userPersona2.png" alt="User Persona 2" style="width: 600px; height: auto;" ><br>
+
+
+### 2.3.2. User Task Matrix.
+
+**Segmento Objetivo 1 - Usuarios que Buscan Alquilar Vehículos**<br><br><br>
+**Roberto Perez**
+
+---
+
+| Tareas                                   | Frecuencia                          | Importancia                          |
+| ---------------------------------------- | ----------------------------------- | ------------------------------------ |
+| Buscar y seleccionar un vehículo         | Alta                                | Alta                                 |
+| Recoger y verificar el estado del vehículo | Alta                              | Alta                                 |
+| Regresar el vehículo rentado al propietario según los términos acordados | Media  | Media                                |
+| Gestionar el pago y revisar los costos finales | Media                            | Alta                                 |
+| Comparar precios y beneficios entre las opciones disponibles | Baja | Media                                |
+
+---
+
+<br>**Segmento Objetivo 2 - Propietarios de Vehículos Alternativos**<br><br><br>
+**Santiago Garcia**
+
+---
+
+| Tareas                                                  | Frecuencia | Importancia |
+| ------------------------------------------------------- | ---------- | ----------- |
+| Configurar y ajustar las tarifas de alquiler            | Baja       | Alta        |
+| Mantener el vehículo en buenas condiciones              | Alta       | Alta        |
+| Gestionar las solicitudes de alquiler y comunicarse con los interesados | Media      | Media       |
+| Monitorear el estado del vehículo durante el alquiler   | Media      | Alta        |
+| Recibir y verificar el estado del vehículo al final del alquiler | Media      | Alta        |
+
+---
+
+
+
+### 2.3.3. User Journey Mapping.
+
+- **Primer segmento: Usuario que Alquila**
+
+<br><img src="./img/JourneyMap1.png" alt="Journey Map 1" style="width: 1000px; height: auto;" ><br>
+
+- **Segundo segmento: Propietario de Vehículo**
+
+<br><img src="./img/JourneyMap2.png" alt="Journey Map 2" style="width: 1000px; height: auto;" ><br>
+
+### 2.3.4. Empathy Mapping.
+
+- **Primer segmento: Usuario que Alquila**
+<br><img src="./img/EmpathyMap1.png" alt="Empathy Map 1" style="width: 600px; height: auto;" ><br>
+
+- **Segundo segmento: Propietario de Vehículo**
+<br><img src="./img/EmpathyMap2.png" alt="Empathy Map 2" style="width: 600px; height: auto;" ><br>
+
+### 2.3.5. As-is Scenario Mapping.
+
+- **Primer segmento: Usuario que Alquila**
+<br><img src="./img/Asis1.jpg" alt="As Is Scenario Map 1" style="width: 800px; height: auto;" ><br>
+
+- **Segundo segmento: Propietario de Vehículo**
+<br><img src="./img/Asis2.jpg" alt="As Is Scenario Map 2" style="width: 800px; height: auto;" ><br>
+
+
+## 2.4. Ubiquitous Language.
+
+- Usuario (User): Persona que interactúa con la plataforma para alquilar o gestionar vehículos eléctricos. Se clasifica en dos categorías:
+
+    - Propietario de Vehículo (Owner): Usuario que pone a disposición su vehículo para alquilar a otros.
+    - Usuario que Alquila (Renting User): Usuario que busca alquilar un vehículo a través de la plataforma.
+- Vehículo (Vehicle): Cualquier medio de transporte eléctrico disponible en la plataforma, incluyendo bicicletas, scooters, patinetas, motos, etc.
+
+- Plataforma (Platform): Sistema digital donde se gestionan los alquileres de vehículos, incluyendo la interfaz de usuario, el panel de control y las funcionalidades de búsqueda y gestión.
+
+- Alquiler (Rental): Proceso mediante el cual un usuario paga por el uso de un vehículo durante un período determinado. Incluye la solicitud, confirmación y devolución del vehículo.
+
+- Seguridad (Security): Conjunto de medidas para proteger los vehículos y asegurar la confianza en la plataforma, incluyendo el seguro de vehículo y la verificación de identidad.
+
+- Experiencia del Usuario (User Experience): Impresión y satisfacción general del usuario al interactuar con la plataforma, abarcando la facilidad de uso, el tiempo de respuesta y el soporte al cliente.
+- Tarifa de alquiler (Rental fee): Precio que cobra el propietario al cliente por el uso del vehículo durante un período específico.
+- Planes (Plans): Modelo de negocio que se utiliza para proporcionar un servicio por una cuota. En este caso, habrá tres planes para los propietarios.
+- Pago (Payment): Método que el cliente emplea para pagar el alquiler del vehículo y los planes.
+
