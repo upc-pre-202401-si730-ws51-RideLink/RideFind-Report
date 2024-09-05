@@ -322,9 +322,9 @@ Entrevista N°1:
 
 Entrevista N°2:
 
-**Entrevistada:** Nombre Nombre<br>
-**Sexo:** Masculino<br>
-**Edad:** 20 años<br>
+**Entrevistada:** Gimena Huanca<br>
+**Sexo:** Femenino<br>
+**Edad:** 26 años<br>
 **Inicio de la Entrevista:** 0:03<br>
 
 <img src="./img/Chapter02/EntrevistaSabiel.png" alt="Entrevista con Harold" style="width: 600px; height: auto;"><br>
@@ -333,20 +333,22 @@ Entrevista N°2:
 
 **Resumen de la Entrevista**: Resumen de la entrevista aquí.
 
----
+Gimena, una emprendedora de 26 años, es propietaria de una moto eléctrica que utiliza para ir a reuniones y un scooter que rara vez usa. Aunque nunca ha alquilado sus vehículos antes, está interesada en hacerlo para generar ingresos adicionales, siempre y cuando la plataforma proporcione garantías y sea confiable. La seguridad del vehículo y un precio competitivo son sus principales prioridades, así como que las condiciones del alquiler estén claramente establecidas. Sus preocupaciones incluyen que el vehículo sufra daños y asegurarse de que el alquiler sea rentable. Para sentirse cómoda, considera que la plataforma debería ofrecer un seguro y un sistema de calificaciones. Gimena espera que la experiencia sea rápida, sencilla y automatizada. Continuaría usando RideFind si la plataforma es rentable y sus vehículos son bien cuidados, y estaría dispuesta a recomendarla si tiene una experiencia positiva.
 
 Entrevista N°3:
 
-**Entrevistada:** Nombre<br>
+**Entrevistada:** Juan Diaz<br>
 **Sexo:** Masculino<br>
-**Edad:** 19 años<br>
+**Edad:** 25 años<br>
 **Inicio de la Entrevista:** 0:03<br>
 
 <img src="./img/Chapter02/EntrevistaSabiel.png" alt="Entrevista con Harold" style="width: 600px; height: auto;"><br>
 
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1</a>
 
-**Resumen de la Entrevista:** Resumen de la entrevista aquí.
+**Resumen de la Entrevista:** 
+
+Juan Sebastián, de 25 años, es dueño de cinco bicicletas eléctricas y tres scooters, que alquila en su tienda física. A pesar de su experiencia previa en el alquiler de vehículos, está interesado en ampliar su mercado a través de una plataforma como RideFind, para llegar a más clientes potenciales. Considera que la seguridad, un precio competitivo y condiciones claras son fundamentales. Sus principales preocupaciones son los posibles daños a los vehículos y la falta de retorno de inversión. Para sentirse cómodo, busca un seguro completo y un proceso de verificación riguroso para los usuarios. Juan Sebastián espera que la plataforma sea fácil de usar y que le permita gestionar todo desde un solo lugar. Continuaría usando RideFind si incrementa sus ingresos y los vehículos son bien cuidados. También recomendaría la plataforma si cumple con sus expectativas en términos de seguridad y rentabilidad.
 
 ### 2.2.3. Análisis de entrevistas.
 
