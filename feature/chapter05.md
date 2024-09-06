@@ -135,6 +135,42 @@ Estas convenciones nos ayudan a mantener el código organizado, legible y cohere
 
 ![image.png](img/feature05.png)
 
+#### 5.1.4. Software Deployment Configuration.
 
+Explicaremos cómo realizar el despliegue de nuestra Landing Page utilizando el servicio automatizado en la nube de GitHub Pages. A continuación, detallaremos los pasos necesarios para lograr este proceso.<br>
+
+1. Es fundamental asegurarnos de que la configuración del repositorio sea correcta, ya que será desplegado posteriormente con GitHub Pages:<br>
+<br>
+
+![image.png](img/deployment01.png)
+
+<br>
+<br>
+2. Accedemos a GitHub Pages:
+<br>
+<br>
+
+![image.png](img/deployment02.png)
+
+<br>
+<br>
+3. Tras guardar la configuración adecuada, GitHub Pages comenzará automáticamente el despliegue de nuestra Landing Page. En este caso, trabajamos con tres ramas clave: main, develop, y releases. El contenido más estable y listo para producción se encuentra en main, mientras que develop se utiliza para integrar nuevas características en desarrollo, y releases nos ayuda a preparar versiones finales. Una vez completado el despliegue, se generará un enlace que nos permitirá acceder directamente a nuestra Landing Page.
+<br>
+<br>
+
+![image.png](img/deployment03.png)
+
+<br>
+<br>
+4. Una vez que hayamos ajustado la configuración, GitHub Pages dará inicio al despliegue automático de nuestra Landing Page. Durante este proceso, podremos monitorear el progreso, y cuando se complete exitosamente, se nos proporcionará un enlace directo para acceder a la Landing Page.
+<br>
+<br>
+
+
+![image.png](img/deployment04.png)
+
+<br>
+<br>
+### 5.2. Landing Page, Services & Applications Implementation.
 
 
