@@ -171,6 +171,9 @@ Explicaremos cómo realizar el despliegue de nuestra Landing Page utilizando el 
 
 <br>
 <br>
+
+<b> Link de nuestra Landing Page: </b> https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/
+
 ### 5.2. Landing Page, Services & Applications Implementation.
 
 
