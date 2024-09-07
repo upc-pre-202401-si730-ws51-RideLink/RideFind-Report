@@ -171,6 +171,7 @@
     <strong>Regulaciones estrictas:</strong><br> Las ciudades pueden imponer regulaciones más estrictas sobre el uso de scooters eléctricos.<br>
     <strong>Cambio en la demanda: </strong><br>Variaciones en la demanda debido a cambios en las preferencias de los consumidores o factores económicos pueden afectar el negocio.</td>
   </tr>
+  <table>
 
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
@@ -201,6 +202,44 @@
     </tbody>
 </table>
 
+---
+
+### Modelos de Suscripción
+
+En RideFind, ofrecemos planes de suscripción diferenciados para adaptarnos a las necesidades específicas de nuestros dos principales segmentos de usuarios: aquellos que buscan alquilar vehículos y los propietarios de vehículos alternativos. A continuación, se detallan los beneficios de cada plan para cada segmento:
+
+**Segmento 1: Usuarios que Buscan Alquilar Vehículos**
+- **Plan Gratis (Ride Start)**
+  - Alquiler: Permite alquilar 1 vehículo cada 2 semanas.
+  - Anuncios: Incluye anuncios en la aplicación.
+  - Promociones: No permite promocionar vehículos.
+
+- **Plan Básico (Ride Plus)**
+  - Alquiler: Permite alquilar hasta 3 vehículos por semana.
+  - Anuncios: Libre de anuncios en la aplicación.
+  - Promociones: Permite promocionar un vehículo.
+
+- **Plan Premium (Ride Pro)**
+  - Alquiler: Alquileres ilimitados.
+  - Descuentos: 20% de descuento en alquileres.
+
+**Segmento 2: Propietarios de Vehículos Alternativos**
+
+- **Plan Gratis**
+  - Alquiler: Permite alquilar 1 vehículo cada 2 semanas.
+  - Anuncios: Incluye anuncios en la aplicación.
+  - Promociones: No permite promocionar vehículos.
+
+- **Plan Básico**
+  - Alquiler: Permite alquilar hasta 3 vehículos por semana.
+  - Anuncios: Libre de anuncios en la aplicación.
+  - Promociones: Permite promocionar un vehículo.
+
+- **Plan Premium**
+  - Alquiler: Alquileres ilimitados.
+  - Comisión: Solo el 10% de comisión sobre las ganancias de alquiler.
+  - Promociones: Promoción de todos los vehículos.
+
 ## 2.2. Entrevistas.
 
 El objetivo de las entrevistas es obtener una comprensión profunda de las experiencias, perspectivas y opiniones de los segmentos de mercado seleccionados. Nuestra meta es recopilar información valiosa que nos permita entender mejor a nuestro público objetivo y mejorar nuestra comprensión de los usuarios. Estas conversaciones nos proporcionarán una visión más clara de las necesidades y deseos de nuestros usuarios, lo que nos ayudará a adaptar nuestros productos o servicios de manera más efectiva a sus requisitos.
@@ -220,7 +259,7 @@ RideFind es una plataforma que facilita el alquiler de vehículos alternativos y
 - ¿Cuántos años tienes?
 - ¿Cuál es tu ocupación?
 
-**Preguntas para el Segmento Objetivo 1 - Propietarios de Vehículos Alternativos**
+**Preguntas para el Segmento Objetivo 1 - Usuarios que Buscan Alquilar Vehículos**
 
 - ¿Con qué frecuencia utilizas medios de transporte alternativos como scooters o autos eléctricos?
 - ¿Qué te motiva a elegir un vehículo alternativo en lugar de un transporte tradicional?
@@ -251,7 +290,7 @@ RideFind es una plataforma que facilita el alquiler de vehículos alternativos y
 
 ### 2.2.2. Registro de entrevistas.
 
-**Entrevista para el Segmento Objetivo 1 - Propietarios de Vehículos:**
+**Entrevista para el Segmento Objetivo 1 - Usuarios que Buscan Alquilar Vehículos**
 
 ---
 
@@ -302,7 +341,7 @@ Entrevista N°3:
 
 ---
 
-**Entrevista para el Segmento Objetivo 1 - Propietarios de Vehículos Alternativos:**
+**Entrevista para el Segmento Objetivo 2 - Propietarios de Vehículos Alternativos:**
 
 Entrevista N°1:
 
@@ -332,7 +371,7 @@ Entrevista N°2:
 
 **Resumen de la Entrevista**: Gimena, una emprendedora de 26 años, posee una moto eléctrica que utiliza regularmente para reuniones y un scooter eléctrico que apenas utiliza. Está interesada en compartir sus vehículos a través de la plataforma RideFind para aprovechar su scooter y generar ingresos adicionales. Aunque nunca ha alquilado sus vehículos antes, está dispuesta a probar la plataforma si esta ofrece garantías adecuadas. Los aspectos más importantes para Gimena al alquilar sus vehículos son la seguridad, un precio competitivo y condiciones claras. Sus principales preocupaciones son que el vehículo sufra daños o que no sea cuidado adecuadamente. Valora que la plataforma ofrezca un seguro y un sistema de calificaciones para los usuarios, lo que le daría más confianza. Espera una experiencia rápida, sencilla y automatizada. Gimena continuaría utilizando la plataforma a largo plazo si le resulta rentable y sus vehículos son bien cuidados, y estaría dispuesta a recomendarla si tiene una experiencia positiva.
 
----
+Gimena, una emprendedora de 26 años, es propietaria de una moto eléctrica que utiliza para ir a reuniones y un scooter que rara vez usa. Aunque nunca ha alquilado sus vehículos antes, está interesada en hacerlo para generar ingresos adicionales, siempre y cuando la plataforma proporcione garantías y sea confiable. La seguridad del vehículo y un precio competitivo son sus principales prioridades, así como que las condiciones del alquiler estén claramente establecidas. Sus preocupaciones incluyen que el vehículo sufra daños y asegurarse de que el alquiler sea rentable. Para sentirse cómoda, considera que la plataforma debería ofrecer un seguro y un sistema de calificaciones. Gimena espera que la experiencia sea rápida, sencilla y automatizada. Continuaría usando RideFind si la plataforma es rentable y sus vehículos son bien cuidados, y estaría dispuesta a recomendarla si tiene una experiencia positiva.
 
 Entrevista N°3:
 
@@ -346,8 +385,6 @@ Entrevista N°3:
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ES6SusUIAe1Evh6zgGRi5AoBH-SerCMW3tTJta2Bj9vpzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gWHAek"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ES6SusUIAe1Evh6zgGRi5AoBH-SerCMW3tTJta2Bj9vpzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gWHAek</a>
 
 **Resumen de la Entrevista:** Juan Sebastián, de 25 años, es dueño de una pequeña flota de vehículos eléctricos, compuesta por cinco bicicletas eléctricas y tres scooters, que alquila en su tienda física. Utiliza regularmente uno de sus scooters y está interesado en compartir sus vehículos a través de RideFind para ampliar su mercado y llegar a más clientes potenciales. Ya tiene experiencia en el alquiler de vehículos, pero quiere expandir su negocio. Para él, la seguridad de los vehículos, un precio competitivo y condiciones claras son esenciales. Sus principales preocupaciones incluyen daños significativos a los vehículos y un retorno de inversión insuficiente. Juan Sebastián se sentiría más cómodo si la plataforma ofrece un seguro completo y un riguroso proceso de verificación de usuarios. Considera que la plataforma debe ser fácil de usar, con una interfaz intuitiva. Continuaría usando RideFind si le ayuda a incrementar sus ingresos y a mantener sus vehículos en buen estado, y la recomendaría a otros propietarios si cumple con sus expectativas de seguridad, rentabilidad y facilidad de uso.
-
----
 
 ### 2.2.3. Análisis de entrevistas.
 
