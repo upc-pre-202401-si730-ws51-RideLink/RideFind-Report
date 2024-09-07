@@ -167,7 +167,7 @@ Explicaremos cómo realizar el despliegue de nuestra Landing Page utilizando el 
 <br>
 
 
-![image.png](img/deployment04.png)
+![image.png](img/deploymentfinal.png)
 
 <br>
 <br>
