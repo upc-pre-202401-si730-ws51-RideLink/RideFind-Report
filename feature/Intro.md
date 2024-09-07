@@ -4,11 +4,11 @@
 
 | Versión | Fecha | Autor | Descripción de la modificación |
 |----|----|----|----|
-| TB1 | 25/08/2024 | RideFind | Redacció n de los Capítulos I: Introduction, II: Requirements Elicitation & Analysis, III: Requirements Specification, IV: Product Design, V: Product Implementation, Validation & Deployment. |
+| TB1 | 25/08/2024 | RideFind | Redacción de los Capítulos I: Introduction, II: Requirements Elicitation & Analysis, III: Requirements Specification, IV: Product Design, V: Product Implementation, Validation & Deployment. |
 
 # Project Report Collaboration Insights
 
-Las tareas correspondientes a la TB1 han sido completadas y están debidamente documentadas en el repositorio de GitHub para ReideFind-Report. Puedes acceder al repositorio a través del siguiente enlace: [https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Report.git](https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Report.git)
+Las tareas correspondientes a la TB1 han sido completadas y están debidamente documentadas en el repositorio de GitHub para RideFind-Report. Puedes acceder al repositorio a través del siguiente enlace: [https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Report.git](https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Report.git)
 
 Durante la fase de elaboración del informe, se realizaron las siguientes actividades:
 
