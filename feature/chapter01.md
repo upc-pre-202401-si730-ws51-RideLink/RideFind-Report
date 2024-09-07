@@ -220,7 +220,9 @@ Para asegurar que nuestra aplicación RideFind satisfaga las necesidades especí
 **Segmento Objetivo 1 - Usuarios que Buscan Alquilar Vehículos**
 
 Son individuos de cualquier edad que viven en áreas urbanas del Perú y buscan una solución de transporte flexible y conveniente. Utilizan el servicio de alquiler para facilitar sus desplazamientos en entornos con alta congestión vehicular. Estos usuarios están dispuestos a probar diferentes medios de transporte según sus necesidades y valoran la opción de contribuir a una movilidad más sostenible al optar por alquileres en lugar de la propiedad individual de vehículos.
+
 **Segmento Objetivo 2 - Propietarios de Vehículos Alternativos:**
 
 Son personas de cualquier edad que poseen vehículos alternativos como bicicletas, scooters, patinetes eléctricos y motos eléctricas. Residen en diferentes partes del Perú y están interesados en reducir su impacto ambiental. Estos usuarios pueden tener un vehículo que no utilizan con frecuencia y buscan oportunidades para compartirlo y obtener ingresos adicionales. Además, valoran la posibilidad de promover un estilo de vida saludable y activo.
+
 ---
