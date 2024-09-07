@@ -10,6 +10,7 @@
 
 <br><img src="./img/Chapter03/tobe2.jpg" alt="To Be Scenario Map 2" style="width: 1000px; height: auto;" ><br>
 
+
 ## 3.2. User Stories.
 
 
@@ -39,23 +40,23 @@
   <tbody>
     <tr>
       <td>US01</td>
-      <td>Barra de navegación en la Landing Page</td>
+      <td>Barra de navegación Principal</td>
     </tr>
     <tr>
       <td>US02</td>
-      <td>Sección de beneficios en la Landing Page</td>
+      <td>Sección de beneficios de la Aplicación</td>
     </tr>
     <tr>
       <td>US03</td>
-      <td>Sección de nosotros en la Landing Page</td>
+      <td>Información sobre Nosotros</td>
     </tr>
     <tr>
       <td>US04</td>
-      <td>Sección de redes sociales/Footer</td>
+      <td>Redes Sociales y Footer</td>
     </tr>
     <tr>
       <td>US05</td>
-      <td>Sección de contacto en la Landing Page</td>
+      <td>Sección de contacto</td>
     </tr>
   </tbody>
 </table>
@@ -91,7 +92,7 @@
     </tr>
     <tr>
       <td>US07</td>
-      <td>El usuario va a registrar y vincular su cuenta usando Google o Outlook</td>
+      <td>Registro con Google u Outlook</td>
     </tr>
     <tr>
       <td>US08</td>
@@ -133,6 +134,18 @@
       <td>US10</td>
       <td>Filtro de búsqueda de vehículos</td>
     </tr>
+    <tr>
+      <td>US18</td>
+      <td>Publicar un Vehículo</td>
+    </tr>
+    <tr>
+      <td>US19</td>
+      <td>Alquilar un Vehículo</td>
+    </tr>
+    <tr>
+      <td>US20</td>
+      <td>Selección de Vehículo entre Opciones</td>
+    </tr>
   </tbody>
 </table>
 
@@ -163,11 +176,11 @@
   <tbody>
     <tr>
       <td>US11</td>
-      <td>Beneficios por influenciar la movilidad sostenible</td>
+      <td>Beneficios por Promoción de Movilidad Sostenible</td>
     </tr>
     <tr>
       <td>US12</td>
-      <td>Beneficios por influenciar la movilidad eléctrica</td>
+      <td>Beneficios por Promoción de Movilidad Eléctrica</td>
     </tr>
     <tr>
       <td>US13</td>
@@ -187,20 +200,13 @@
     </tr>
     <tr>
       <td>US17</td>
-      <td>Personalización de perfil del usuario que desea alquilar</td>
-    </tr>
-    <tr>
-      <td>US18</td>
-      <td>Comunicación con el propietario</td>
-    </tr>
-    <tr>
-      <td>US19</td>
-      <td>Ver recomendaciones de vehículos</td>
+      <td>Personalización del Perfil del Usuario de Alquiler</td>
     </tr>
   </tbody>
 </table>
 
 ---
+
 <br><br>
 <table>
     <thead>
@@ -214,7 +220,7 @@
     <tbody>
         <tr>
             <td class= "red">Título</td>
-            <th colspan=3 align= "justify">Barra de navegación en la Landing Page</th>
+            <th colspan=3 align= "justify">Barra de navegación Principal</th>
         </tr>
         <tr>
             <td class= "red">Descripción</td>
@@ -222,14 +228,14 @@
         </tr>
         <tr> 
             <td colspan=4><b class= "red">Criterios de Aceptación:</b>
-            <br><b><span>Scenario 1:</span></b> El usuario necesita el menú para visualizar las secciones de la Landing page.
-            <br><b><span>Dado que</b></span> el usuario se encuentra en la Landing Page.
-            <br><b><span>Cuando</b></span> visualice la barra de navegación.
-            <br><b><span>Entonces</b></span> podrá interactuar con las diferentes secciones y botones de la página.
-            <br><b><span>Scenario 2:</span></b> El usuario necesita navegar por la Landing Page.
-            <br><b><span>Dado que</b></span> el usuario se encuentra en la Landing Page.
-            <br><b><span>Cuando</b></span> de clic en algún botón o sección de la barra de navegación.
-            <br><b><span>Entonces</b></span> podrá ser redirigido a esa sección de la página.</td>
+            <br><b><span>Scenario 1:</span></b> El usuario debe poder ver el menú de navegación.
+            <br><b><span>Dado que</b></span> el usuario se encuentra en la página principal.
+            <br><b><span>Cuando</b></span> visualiza la barra de navegación.
+            <br><b><span>Entonces</b></span> podrá interactuar con las secciones y botones disponibles.
+            <br><b><span>Scenario 2:</span></b> El usuario debe ser redirigido a la sección deseada.
+            <br><b><span>Dado que</b></span> el usuario está en la página principal,
+            <br><b><span>Cuando</b></span> haga clic en un botón de la barra de navegación,
+            <br><b><span>Entonces</b></span> será redirigido a la sección correspondiente.</td>
         </tr>
     </tbody>
 </table>
@@ -245,18 +251,18 @@
     <tbody>
         <tr>
             <td class= "red">Título</td>
-            <th colspan=3 align= "justify">Sección de beneficios del Landing Page</th>
+            <th colspan=3 align= "justify">Beneficios de la Aplicación</th>
         </tr>
         <tr>
             <td class= "red">Descripción</td>
-            <th colspan=3 align= "justify">Como usuario quiero saber los servicios que ofrece la aplicación web para optar por las características que ofrece</th>
+            <th colspan=3 align= "justify">Como usuario, quiero conocer los beneficios y servicios ofrecidos en la página principal para tomar una decisión informada.</th>
         </tr>
         <tr> 
             <td colspan=4><b class= "red">Criterios de Aceptación:</b>
-            <br><b><span>Scenario 1:</span></b> El usuario quiere ver la sección de beneficios.
-            <br><b><span>Dado que</b></span> el usuario se encuentra en la Landing Page.
-            <br><b><span>Cuando</b></span> se encuentre en la sección de Beneficios.
-            <br><b><span>Entonces</b></span> podrá visualizar sobre nuestros servicios de movilidad sostenible.</td>
+            <br><b><span>Scenario 1:</span></b> El usuario debe poder ver los beneficios ofrecidos.
+            <br><b><span>Dado que</b></span> el usuario se encuentra en la página principal,
+            <br><b><span>Cuando</b></span> acceda a la sección de beneficios.
+            <br><b><span>Entonces</b></span> podrá visualizar información sobre los servicios de movilidad sostenible.</td>
         </tr>
     </tbody>
 </table>
@@ -273,18 +279,18 @@
     <tbody>
         <tr>
             <td class= "red">Título</td>
-            <th colspan=3 align= "justify">Sección de nosotros del Landing Page</th>
+            <th colspan=3 align= "justify">Información sobre Nosotros</th>
         </tr>
         <tr>
             <td class= "red">Descripción</td>
-            <th colspan=3 align= "justify">Como usuario quiero saber quiénes son y que ofrece la aplicación para optar por ellos</th>
+            <th colspan=3 align= "justify">Como usuario, quiero saber quiénes están detrás de la aplicación y qué ofrece para confiar en el servicio.</th>
         </tr>
         <tr> 
             <td colspan=4><b class= "red">Criterios de Aceptación:</b>
-            <br><b><span>Scenario 1:</span></b> El usuario quiere ver la sección de Nosotros.
-            <br><b><span>Dado que</b></span> el usuario se encuentra en la Landing Page.
-            <br><b><span>Cuando</b></span> se encuentre en la sección de Nosotros.
-            <br><b><span>Entonces</b></span> podrá visualizar las personas detrás de la aplicación y saber sobre nuestros servicios de movilidad sostenible.</td>
+            <br><b><span>Scenario 1:</span></b> EEl usuario debe poder conocer al equipo y los servicios.
+            <br><b><span>Dado que</b></span> que el usuario está en la página principal,
+            <br><b><span>Cuando</b></span> acceda a la sección "Nosotros",
+            <br><b><span>Entonces</b></span> podrá ver información sobre el equipo y los servicios ofrecidos.</td>
         </tr>
     </tbody>
 </table>
@@ -301,18 +307,18 @@
     <tbody>
         <tr>
             <td class= "red">Título</td>
-            <th colspan=3 align= "justify">Sección de las redes sociales/Footer del Landing Page</th>
+            <th colspan=3 align= "justify">Redes Sociales y Footer</th>
         </tr>
         <tr>
             <td class= "red">Descripción</td>
-            <th colspan=3 align= "justify">Como usuario quiero visualizar en una sección las redes sociales de la aplicación</th>
+            <th colspan=3 align= "justify">Como usuario, deseo ver las redes sociales de la aplicación para seguirnos y estar al tanto de las actualizaciones.</th>
         </tr>
         <tr> 
             <td colspan=4><b class= "red">Criterios de Aceptación:</b>
-            <br><b><span>Scenario 1:</span></b> El usuario necesita una sección de redes sociales de Ruedarent para que pueda seguirnos.
-            <br><b><span>Dado que</b></span> el usuario se encuentra en la Landing Page.
-            <br><b><span>Cuando</b></span> se encuentre con el footer.
-            <br><b><span>Entonces</b></span> podrá visualizar diversas redes sociales de Ruedarent.</td>
+            <br><b><span>Scenario 1:</span></b> El usuario debe ver las redes sociales de RideFind.
+            <br><b><span>Dado que</b></span> el usuario está en la pagina principal.
+            <br><b><span>Cuando</b></span> llegue al footer,
+            <br><b><span>Entonces</b></span> podrá ver los enlaces a las redes sociales de la aplicación.</td>
         </tr>
     </tbody>
 </table>
@@ -329,18 +335,18 @@
     <tbody>
         <tr>
             <td class= "red">Título</td>
-            <th colspan=3 align= "justify">Sección de contactos en la Landing Page</th>
+            <th colspan=3 align= "justify">Sección de contacto en la pagina web.</th>
         </tr>
         <tr>
             <td class= "red">Descripción</td>
-            <th colspan=3 align= "justify">Como usuario quiero contactar a alguna persona para resolver dudas o problemas</th>
+            <th colspan=3 align= "justify">Como usuario, quiero poder contactarnos para resolver dudas o problemas.</th>
         </tr>
         <tr> 
             <td colspan=4><b class= "red">Criterios de Aceptación:</b>
-            <br><b><span>Scenario 1:</span></b> El usuario necesita una sección de contacto.
-            <br><b><span>Dado que</b></span> el usuario se encuentra en la Landing Page.
-            <br><b><span>Cuando</b></span> se encuentre con el contacto.
-            <br><b><span>Entonces</b></span> podrá darnos sus datos y posteriormente darle solución.</td>
+            <br><b><span>Scenario 1:</span></b> El usuario debe tener acceso a una sección de contacto.
+            <br><b><span>Dado que</b></span> el usuario está en la página principal,
+            <br><b><span>Cuando</b></span> acceda a la sección de contacto,
+            <br><b><span>Entonces</b></span> podrá enviar sus datos y recibir asistencia.</td>
         </tr>
     </tbody>
 </table>
@@ -361,10 +367,14 @@
         </tr>
         <tr>
             <td class= "red">Descripción</td>
-            <th colspan=3 align= "justify">Como usuario quiero registrarme rápidamente para empezar a usar la aplicación al instante</th>
+            <th colspan=3 align= "justify">Como usuario, quiero registrarme para empezar a usar la aplicación.</th>
         </tr>
-        <tr> 
-            <td colspan=4><b class= "red">Criterios de Aceptación:</b><br><b><span>Scenario:</span></b>El usuario se va registrar en la aplicación ingresando sus datos.<br><b><span>Dado que</b></span> el usuario se encuentra en la pantalla de Registro.<br><b><span>Y </b>coloque sus datos personales.</span><br><b><span>Cuando</b></span> presione el botón “Enviar datos”.<br><b><span>Entonces</b></span> se validarán y guardarán los datos del usuario. Posteriormente, se le mostrará la pantalla principal de la aplicación con un mensaje.</td>
+         <tr> 
+            <td colspan=4><b class= "red">Criterios de Aceptación:</b>
+            <br><b><span>Scenario 1:</span></b> El usuario debe completar el registro exitosamente.
+            <br><b><span>Dado que</b></span>el usuario está en la pantalla de registro,
+            <br><b><span>Cuando</b></span> ingrese sus datos y haga clic en "Enviar",
+            <br><b><span>Entonces</b></span> sus datos serán guardados y se mostrará la pantalla principal con un mensaje de bienvenida.</td>
         </tr>
     </tbody>
 </table>
@@ -381,20 +391,22 @@
     <tbody>
         <tr>
             <td class= "red">Título</td>
-            <th colspan=3 align= "justify">El usuario va a registrar y vincular su cuenta usando Google o Outlook.</th>
+            <th colspan=3 align= "justify">Registro con Google u Outlook</th>
         </tr>
         <tr>
             <td class= "red">Descripción</td>
-            <th colspan=3 align= "justify">Como usuario quiero registrarme y vincular mi cuenta en la aplicación Google o Outlook para empezar a usar la aplicación al instante</th>
+            <th colspan=3 align= "justify">Como usuario, quiero registrarme utilizando Google u Outlook para un proceso más rápido.</th>
         </tr>
-        <tr>
-            <td colspan=4><b class= "red">Criterios de Aceptación:</b><br>
-            <b><span>Scenario:</span></b> Registro y vinculación de cuenta usando Google o Outlook.<br>
-            <b><span>Dado que</span></b> el usuario se encuentra en la pantalla de Registro.<br>
-            <b><span>Cuando</b></span> presione el botón "Registrarse con Google o Outlook".<br><b><span>Entonces</b></span> se le permitirá registrarse rápidamente usando su cuenta de Google o Outlook. También, se validarán y guardarán los datos del usuario. Se le mostrará un mensaje "Registrado" en la pantalla principal de la aplicación.</td>
+         <tr> 
+            <td colspan=4><b class= "red">Criterios de Aceptación:</b>
+            <br><b><span>Scenario 1:</span></b>  El usuario debe poder registrarse usando una cuenta de Google u Outlook.
+            <br><b><span>Dado que</b></span> El usuario debe poder registrarse usando una cuenta de Google u Outlook.
+            <br><b><span>Cuando</b></span> haga clic en "Registrarse con Google u Outlook",
+            <br><b><span>Entonces</b></span> será registrado rápidamente y se le mostrará un mensaje de confirmación.</td>
         </tr>
     </tbody>
 </table>
+
 <table>
     <thead>
         <tr>
@@ -407,16 +419,18 @@
     <tbody>
         <tr>
             <td class= "red">Título</td>
-            <th colspan=3 align= "justify">Inicio de sesión</th>
+            <th colspan=3 align= "justify">Inicio de Sesión</th>
         </tr>
         <tr>
             <td class= "red">Descripción</td>
-            <th colspan=3 align= "justify"><b>Como usuario quiero poder iniciar sesión para usar la aplicación</th>
+            <th colspan=3 align= "justify">Como usuario, deseo iniciar sesión para acceder a la aplicación.</th>
         </tr>
-        <tr>
-            <td colspan=4><b class= "red">Criterios de Aceptación:</b><br>
-            <b><span>Scenario:</b></span> El usuario va a iniciar sesión en la aplicación con sus datos.
-            <br><b><span>Dado que</b></span> el usuario se encuentra en la pantalla "Inicio de sesión".<br><b><span>Y</b></span> coloque sus credenciales.<br><b><span>Cuando</b></span> presione el botón "Iniciar sesión".<br><b><span>Entonces</b></span> se validará sus datos y se le mostrará la pantalla principal de la aplicación y se mostrará un mensaje.</td>
+        <tr> 
+            <td colspan=4><b class= "red">Criterios de Aceptación:</b>
+            <br><b><span>Scenario 1:</span></b> El usuario debe iniciar sesión exitosamente.
+            <br><b><span>Dado que</b></span>el usuario está en la pantalla de inicio de sesión,
+            <br><b><span>Cuando</b></span> ingrese sus credenciales y haga clic en "Iniciar sesión",
+            <br><b><span>Entonces</b></span> se validarán sus datos y se le mostrará la pantalla principal con un mensaje de bienvenida.</td>
         </tr>
     </tbody>
 </table>
@@ -433,17 +447,18 @@
     <tbody>
         <tr>
             <td class= "red">Título</td>
-            <th colspan=3 align= "justify">Ver vehículos disponibles</th>
+            <th colspan=3 align= "justify">Visualización y Filtro de Vehículos</th>
         </tr>
         <tr>
             <td class= "red">Descripción</td>
-            <th colspan=3 align= "justify"><b>Como persona interesada en alquilar un vehículo quiero poder visualizar los vehículos para poder elegirlos</th>
+            <th colspan=3 align= "justify"><b>Como usuario, quiero ver todos los vehículos disponibles para seleccionar el que desee alquilar.</th>
         </tr>
-        <tr>
+        <tr> 
             <td colspan=4><b class= "red">Criterios de Aceptación:</b>
-            <br><b><span>Scenario:</b></span> El usuario usa la aplicación y visualiza el catálogo de vehículos.
-            <br><b><span>Dado que</b></span> la persona que desea alquilar a iniciado sesión en la aplicación.
-            <br><b><span>Cuando</b></span> presione el icono "Vehículos".<br><b><span>Entonces</b></span> se muestra los vehiculos registrados en el sistema y sus respectivas características.</td>
+            <br><b><span>Scenario 1:</span></b> El usuario debe ver una lista de vehículos.
+            <br><b><span>Dado que</b></span> el usuario está en la sección de vehículos,
+            <br><b><span>Cuando</b></span> acceda al catálogo,
+            <br><b><span>Entonces</b></span> podrá ver todos los vehículos registrados y sus características.</td>
         </tr>
     </tbody>
 </table>
@@ -464,14 +479,14 @@
         </tr>
         <tr>
             <td class= "red">Descripción</td>
-            <th colspan=3 align= "justify"><b>Como persona que desea alquilar quiero poder visualizar un filtro para poder encontrar el vehículo adecuado</th>
+            <th colspan=3 align= "justify"><b>Como usuario, quiero filtrar los vehículos según mis preferencias para encontrar el adecuado.</th>
         </tr>
-        <tr>
+         <tr> 
             <td colspan=4><b class= "red">Criterios de Aceptación:</b>
-            <br><b><span>Scenario:</b></span> El usuario desea filtrar los vehiculos
-            <br><b><span>Dado que</b></span> la persona que desea alquilar a iniciado sesión en la aplicación.
-            <br><b><span>Y</b></span> este en la sección de vehículos.
-            <br><b><span>Cuando</b></span>presione el filtro se desplegará los distintos filtros,  entre ellos "Tipo vehiculo", "Marca" y "Modelo".<br><b><span>Entonces</b></span> podrá ver sus vehiculos filtrados.</td>
+            <br><b><span>Scenario 1:</span></b> El usuario debe usar filtros para buscar vehículos.
+            <br><b><span>Dado que</b></span> el usuario está en la sección de vehículos,
+            <br><b><span>Cuando</b></span> seleccione los filtros (por tipo, marca, modelo),
+            <br><b><span>Entonces</b></span> podrá ver los vehículos que cumplen con los criterios seleccionados.</td>
         </tr>
     </tbody>
 </table>
@@ -488,15 +503,18 @@
     <tbody>
         <tr>
             <td class= "red">Título</td>
-            <th colspan=3 align= "justify">Beneficios por influenciar la movilidad sostenible</th>
+            <th colspan=3 align= "justify">Beneficios por Promoción de Movilidad Sostenible</th>
         </tr>
         <tr>
             <td class= "red">Descripción</td>
-            <th colspan=3 align= "justify"><b>Como la persona que desea alquilar, deseo recibir beneficios al compartir contenido de lo relacionado con Ruedarent en mis redes sociales, para sentirme motivado y valorado al contribuir a la concientización sobre la importancia de la movilidad sostenible.</th>
+            <th colspan=3 align= "justify"><b>Como usuario, quiero recibir beneficios al compartir contenido sobre la movilidad sostenible en mis redes sociales.</th>
         </tr>
-        <tr>
-            <td colspan=4><b class= "red">Criterios de Aceptación:</b><br><b><span>Scenario:</span></b> El usuario usa la aplicación y comparte su salida con amigos gracias a Ruedarent.<br><b><span>Dado que</b></span> el usuario se encuentre en una sección de "Reserva de vehículo".
-            <br><b><span>Cuando</b></span> presione el icono "Compartir".<br><b><span>Entonces</b></span> se le mostrará algunos beneficios por compartir su uso en la aplicación.</td>
+         <tr> 
+            <td colspan=4><b class= "red">Criterios de Aceptación:</b>
+            <br><b><span>Scenario 1:</span></b> El usuario debe recibir beneficios al compartir en redes
+            <br><b><span>Dado que</b></span> el usuario está en la sección de reservas,
+            <br><b><span>Cuando</b></span> comparta la información en redes sociales,
+            <br><b><span>Entonces</b></span> verá los beneficios asociados a su acción.</td>
         </tr>
     </tbody>
 </table>
@@ -513,14 +531,18 @@
     <tbody>
         <tr>
             <td class= "red">Título</td>
-            <th colspan=3 align= "justify">Beneficios por influenciar la movilidad sostenible</th>
+            <th colspan=3 align= "justify">Beneficios por Promoción de Movilidad Eléctrica</th>
         </tr>
         <tr>
             <td class= "red">Descripción</td>
-            <th colspan=3 align= "justify"><b>Como la persona que desea alquilar, deseo recibir beneficios al compartir contenido de lo relacionado con Ruedarent en mis redes sociales, para sentirme motivado y valorado al contribuir a la concientización sobre la importancia de la movilidad eléctrica.</th>
+            <th colspan=3 align= "justify"><b>Como usuario, quiero recibir beneficios al compartir contenido sobre la movilidad eléctrica en mis redes sociales.</th>
         </tr>
-        <tr>
-            <td colspan=4><b class= "red">Criterios de Aceptación:</b><br><b><span>Scenario:</span></b> El usuario usa la aplicación y comparte su salida con amigos gracias a Ruedarent.<br><b><span>Dado que</b></span> el usuario se encuentra en la pantalla principal de la aplicación.<br><b><span>Y</b></span> presiona el botón.<br><b><span>Cuando</b></span> presione el icono "Vehículos".<br><b><span>Entonces</b></span> se le mostrará los vehículos en curso dentro de la zona.</td>
+         <tr> 
+            <td colspan=4><b class= "red">Criterios de Aceptación:</b>
+            <br><b><span>Scenario 1:</span></b> El usuario debe recibir beneficios por compartir sobre movilidad eléctrica.
+            <br><b><span>Dado que</b></span> el usuario está en la pantalla principal,
+            <br><b><span>Cuando</b></span> comparta información sobre movilidad eléctrica,
+            <br><b><span>Entonces</b></span> verá los beneficios relacionados.</td>
         </tr>
     </tbody>
 </table>
@@ -537,15 +559,18 @@
     <tbody>
         <tr>
             <td class= "red">Título</td>
-            <th colspan=3 align= "justify">Sección de testimonios</th>
+            <th colspan=3 align= "justify">Sección de Testimonios</th>
         </tr>
         <tr>
             <td class= "red">Descripción</td>
-            <th colspan=3 align= "justify"><b>Como la persona que desea alquilar, deseo leer testimonios de otros usuarios que han experimentado beneficios al utilizar la plataforma, como su estilo de vida, para sentirme inspirado y tomar decisiones informadas.</th>
+            <th colspan=3 align= "justify"><b>Como usuario, quiero leer testimonios de otros usuarios para tomar decisiones basadas en experiencias previas.</th>
         </tr>
-        <tr>
-            <td colspan=4><b class= "red">Criterios de Aceptación:</b><br><b><span>Scenario:</span></b> El usuario tendrá una sección de testimonios.<br><b><span>Dado que</b></span> el usuario se encuentra en la pantalla principal de la aplicación.<br>
-            <br><b><span>Cuando</b></span> presione el botón de testimonios.<br><b><span>Entonces</b></span> se le mostrará los testimonios de las personas y podrá adjuntar el suyo.</td>
+         <tr> 
+            <td colspan=4><b class= "red">Criterios de Aceptación:</b>
+            <br><b><span>Scenario 1:</span></b> El usuario debe acceder a la sección de testimonios.
+            <br><b><span>Dado que</b></span>el usuario está en la pantalla principal,
+            <br><b><span>Cuando</b></span>  acceda a la sección de testimonios,
+            <br><b><span>Entonces</b></span> podrá leer y agregar su propio testimonio.</td>
         </tr>
     </tbody>
 </table>
@@ -566,28 +591,19 @@
         </tr>
         <tr>
             <td class= "red">Descripción</td>
-            <th colspan=3 align= "justify">Como propietario quiero realizar el pago de un plan para acceder a características y beneficios adicionales</th>
+            <th colspan=3 align= "justify">Como propietario, deseo pagar por un plan de suscripción para acceder a características adicionales.</th>
         </tr>
-        <tr> 
+         <tr> 
             <td colspan=4><b class= "red">Criterios de Aceptación:</b>
-            <br><b><span>Scenario 1:</span></b> Pago exitoso
-            <br><b><span>Dado que</b></span> el propietario desea adquirir un plan de suscripción 
-            <br><b><span>Cuando</b></span> elige un plan de suscripción
-            <br><b><span>Y</b></span> va a la sección de detalles del pedido
-             <br><b><span>Y</b></span> selecciona el botón de pagar con PayPal
-             <br><b><span>Y</b></span> confirma el pago en la plataforma de PayPal
-            <br><b><span>Entonces</b></span> el sistema procesa con éxito el pago.
-             <br><b><span>Y</b></span> se actualiza la cuenta del propietario
-             <br><b><span>Y</b></span> el sistema concede acceso a las características y beneficios adicionales asociados al plan
-               <br><b><span>Scenario 2:</span></b> Pago fallido
-            <br><b><span>Dado que</b></span> el propietario desea adquirir un plan de suscripción 
-            <br><b><span>Cuando</b></span> elige un plan de suscripción
-            <br><b><span>Y</b></span> va a la sección de detalles del pedido
-             <br><b><span>Y</b></span> selecciona el botón de pagar con PayPal
-             <br><b><span>Y</b></span> intenta realizar el pago en la plataforma de PayPal
-              <br><b><span>Y</b></span> el pago falla debido a problemas con PayPal
-            <br><b><span>Entonces</b></span> el sistema muestra un mensaje de error
-          </td>
+            <br><b><span>Scenario 1:</span></b> El usuario completa el Pago de manera exitosa.
+            <br><b><span>Dado que</b></span> el propietario selecciona un plan,
+            <br><b><span>Cuando</b></span> proceda al pago con PayPal y confirme,
+            <br><b><span>Entonces</b></span> el pago se procesará y se actualizará la cuenta con las nuevas características.
+            <br><b><span>Scenario 2:</span></b> El usuario presenta fallo en el pago.
+            <br><b><span>Dado que</b></span> el propietario intenta pagar y el pago falla
+            <br><b><span>Cuando</b></span> intente confirmar el pago,
+            <br><b><span>Entonces</b></span> se mostrará un mensaje de error.
+            </td>
         </tr>
     </tbody>
 </table>
@@ -608,14 +624,14 @@
         </tr>
         <tr>
             <td class= "red">Descripción</td>
-            <th colspan=3 align= "justify">Como propietario quiero visualizar la información del pedido para revisar los detalles antes de realizar el pago</th>
+            <th colspan=3 align= "justify">Como propietario, quiero revisar la información del pedido antes de confirmar el pago.</th>
         </tr>
         <tr> 
             <td colspan=4><b class= "red">Criterios de Aceptación:</b>
-            <br><b><span>Scenario :</span></b> Visualización de Información del Pedido
-            <br><b><span>Dado que</b></span> el propietario desea adquirir un plan de suscripción 
-            <br><b><span>Cuando</b></span> el propietario elige un plan de suscripción
-            <br><b><span>Entonces</b></span> el propietario va a la sección de detalles del pedido
+            <br><b><span>Scenario :</span></b> Visualización de detalles del pedido
+            <br><b><span>Dado que</b></span> el propietario está eligiendo un plan,
+            <br><b><span>Cuando</b></span> acceda a la sección de detalles del pedido,
+            <br><b><span>Entonces</b></span> podrá revisar la información antes de proceder al pago.
         </tr>
     </tbody>
 </table>
@@ -636,22 +652,19 @@
         </tr>
         <tr>
             <td class= "red">Descripción</td>
-            <th colspan=3 align= "justify">Como propietario de vehículos, quiero poder personalizar mi perfil para mostrar información relevante y mejorar mi visibilidad dentro de la plataforma</th>
+            <th colspan=3 align= "justify">Como propietario, deseo personalizar mi perfil para mejorar mi visibilidad y mostrar información relevante.</th>
         </tr>
-        <tr> 
+         <tr> 
             <td colspan=4><b class= "red">Criterios de Aceptación:</b>
-            <br><b><span>Scenario 1:</span></b> Acceso a la Sección de Mi de Perfil
-            <br><b><span>Dado que</b></span> el propietario se ha registrado en la plataforma 
-             <br><b><span>Y</b></span> se encuentra en la página principal de la aplicación
-            <br><b><span>Cuando</b></span> desea personalizar su perfil
-            <br><b><span>Entonces</b></span> el propietario puede acceder fácilmente a la sección de mi perfil desde el menú de navegación principal
-               <br><b><span>Scenario 2:</span></b> Edición de Información del Perfil
-            <br><b><span>Dado que</b></span> el propietario está en la sección de mi perfil
-            <br><b><span>Cuando</b></span> desea actualizar su información 
-            <br><b><span>Y</b></span> realiza los cambios
-            <br><b><span>Entonces</b></span> los cambios se guardan automáticamente
-              <br><b><span>Y</b></span> el perfil se actualiza con la nueva información proporcionada
-          </td>
+            <br><b><span>Scenario 1:</span></b> Acceso a la sección de perfil.
+            <br><b><span>Dado que</b></span> el propietario está registrado,
+            <br><b><span>Cuando</b></span> acceda a la sección de perfil,
+            <br><b><span>Entonces</b></span> podrá personalizar su información fácilmente.
+            <br><b><span>Scenario 2:</span></b>  Edición y actualización del perfil.
+            <br><b><span>Dado que</b></span> el propietario está en la sección de perfil,
+            <br><b><span>Cuando</b></span> realice cambios en su información
+            <br><b><span>Entonces</b></span> los cambios se guardarán y actualizarán automáticamente.
+            </td>
         </tr>
     </tbody>
 </table>
@@ -668,29 +681,23 @@
     <tbody>
         <tr>
             <td class= "red">Título</td>
-            <th colspan=3 align= "justify">Personalización de perfil del usuario que desea alquilar</th>
+            <th colspan=3 align= "justify">Personalización del Perfil del Usuario de Alquiler</th>
         </tr>
         <tr>
             <td class= "red">Descripción</td>
-            <th colspan=3 align= "justify">Como usuario que desea alquilar, deseo poder personalizar mi perfil para reflejar mis preferencias y necesidades</th>
+            <th colspan=3 align= "justify">Como usuario de alquiler, quiero personalizar mi perfil para mejorar mi experiencia en la aplicación.</th>
         </tr>
-        <tr> 
+         <tr> 
             <td colspan=4><b class= "red">Criterios de Aceptación:</b>
-            <br><b><span>Scenario 1:</span></b> Acceso a la Sección de Mi Perfil
-            <br><b><span>Dado que</b></span> el usuario que desea alquilar se ha registrado en la plataforma 
-             <br><b><span>Y</b></span> se encuentra en la página principal de la aplicación
-            <br><b><span>Cuando</b></span> desea personalizar su perfil
-            <br><b><span>Entonces</b></span> el usuario que desea alquilar puede acceder fácilmente a la sección de mi perfil desde el menú de navegación principal
-               <br><b><span>Scenario 2:</span></b> Edición de Información del Perfil
-            <br><b><span>Dado que</b></span> el usuario que desea alquilar está en la sección de mi perfil
-            <br><b><span>Cuando</b></span> desea actualizar su información 
-            <br><b><span>Y</b></span> realiza los cambios
-            <br><b><span>Entonces</b></span> los cambios se guardan automáticamente
-              <br><b><span>Y</b></span> el perfil se actualiza con la nueva información proporcionada
-          </td>
+            <br><b><span>Scenario 1:</span></b> Acceso a la sección de perfil.
+            <br><b><span>Dado que</b></span> el usuario está registrado,
+            <br><b><span>Cuando</b></span> acceda a la sección de perfil,
+            <br><b><span>Entonces</b></span> podrá personalizar su información y preferencias.</td>
         </tr>
     </tbody>
 </table>
+
+<!-- nuevas US -->
 
 <table>
     <thead>
@@ -698,30 +705,24 @@
             <th class= "red">Epic/Story ID</th>
             <th class= "red">US18</th>
             <th class= "red">Relacionado con (Epic ID)</th>
-            <th class= "red">EP4</th>
+            <th class= "red">EP3</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td class= "red">Título</td>
-            <th colspan=3 align= "justify">Comunicación con el propietario</th>
+            <th colspan=3 align= "justify">Publicar un Vehículo</th>
         </tr>
         <tr>
             <td class= "red">Descripción</td>
-            <th colspan=3 align= "justify">Como usuario que desea alquilar quiero comunicarme con el propietario del vehículo para coordinar más detalles sobre el alquiler</th>
+            <th colspan=3 align= "justify"><b>Como usuario, quiero publicar un vehículo en la plataforma para que otros usuarios puedan alquilarlo.</th>
         </tr>
         <tr> 
             <td colspan=4><b class= "red">Criterios de Aceptación:</b>
-            <br><b><span>Scenario 1:</span></b> Selección de Vehículo y Navegación a la Página de Rent Vehicle
-            <br><b><span>Dado que</b></span> el usuario que desea alquilar un vehículo busca un vehículo
-            <br><b><span>Cuando</b></span> selecciona un vehículo específico de la lista de vehículos disponibles
-            <br><b><span>Entonces</b></span> es redirigido a una página que muestra información detallada sobre el vehículo seleccionado
-               <br><b><span>Scenario 2:</span></b> Comunicación con el Propietario
-            <br><b><span>Dado que</b></span> el usuario que desea alquilar está en la página de Rent Vehicle
-               <br><b><span>Y</b></span> desea obtener más detalles o realizar consultas adicionales al propietario
-            <br><b><span>Cuando</b></span> hace clic en el botón de contacto por WhatsApp
-            <br><b><span>Entonces</b></span> se abre la aplicación de WhatsApp en su dispositivo con el número del propietario
-          </td>
+            <br><b><span>Scenario 1:</span></b> El usuario debe poder añadir un vehículo a la plataforma.
+            <br><b><span>Dado que</b></span> el usuario está en la sección de publicación de vehículos,
+            <br><b><span>Cuando</b></span>  ingrese los detalles del vehículo y presione el botón "Publicar",
+            <br><b><span>Entonces</b></span> el vehículo se añadirá a la plataforma y estará visible para otros usuarios.</td>
         </tr>
     </tbody>
 </table>
@@ -732,34 +733,61 @@
             <th class= "red">Epic/Story ID</th>
             <th class= "red">US19</th>
             <th class= "red">Relacionado con (Epic ID)</th>
-            <th class= "red">EP4</th>
+            <th class= "red">EP3</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td class= "red">Título</td>
-            <th colspan=3 align= "justify">Ver recomendaciones de vehículos</th>
+            <th colspan=3 align= "justify">Alquilar un Vehículo</th>
         </tr>
         <tr>
             <td class= "red">Descripción</td>
-            <th colspan=3 align= "justify">Como usuario que desea alquilar quiero ver recomendaciones de los vehículos más usados para poder tomar decisiones fácilmente</th>
+            <th colspan=3 align= "justify"><b>Como usuario, quiero alquilar un vehículo disponible en la plataforma.</th>
         </tr>
         <tr> 
             <td colspan=4><b class= "red">Criterios de Aceptación:</b>
-            <br><b><span>Scenario 1:</span></b> Acceso a la Sección de Recomendaciones
-            <br><b><span>Dado que</b></span> el usuario que desea alquilar un vehículo está navegando por la plataforma
-            <br><b><span>Cuando</b></span> desea obtener recomendaciones de vehículos populares
-            <br><b><span>Entonces</b></span> puede acceder fácilmente a la sección de recomendaciones desde el menú de navegación
-               <br><b><span>Scenario 2:</span></b> Visualización de Vehículos Recomendados
-            <br><b><span>Dado que</b></span> el usuario que desea alquilar está en la sección de recomendaciones de vehículos 
-            <br><b><span>Cuando</b></span> navega por la galería de vehículos recomendados
-              <br><b><span>Y</b></span> presiona el botón Ver más
-            <br><b><span>Entonces</b></span> es redirigido a la página de visualización de más vehículos disponibles
-          </td>
+            <br><b><span>Scenario 1:</span></b> El usuario debe poder alquilar un vehículo
+            <br><b><span>Dado que</b></span>  el usuario ha seleccionado un vehículo,
+            <br><b><span>Cuando</b></span> haga clic en el botón "Alquilar",
+            <br><b><span>Entonces</b></span> el sistema iniciará el proceso de alquiler y mostrará una confirmación de la transacción.</td>
         </tr>
     </tbody>
 </table>
 
+<table>
+    <thead>
+        <tr>
+            <th class= "red">Epic/Story ID</th>
+            <th class= "red">US20</th>
+            <th class= "red">Relacionado con (Epic ID)</th>
+            <th class= "red">EP3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class= "red">Título</td>
+            <th colspan=3 align= "justify">Selección de Vehículo entre Opciones</th>
+        </tr>
+        <tr>
+            <td class= "red">Descripción</td>
+            <th colspan=3 align= "justify"><b>Como usuario, quiero seleccionar un vehículo entre varias opciones disponibles para alquilar.</th>
+        </tr>
+        <tr> 
+            <td colspan=4><b class= "red">Criterios de Aceptación:</b>
+            <br><b><span>Scenario 1:</span></b> El usuario debe poder elegir entre múltiples vehículos
+            <br><b><span>Dado que</b></span> que el usuario está en la sección de selección de vehículos,
+            <br><b><span>Cuando</b></span> vea una lista de vehículos disponibles,
+            <br><b><span>Entonces</b></span> podrá seleccionar el vehículo que prefiera y proceder con el alquiler.</td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+<!-- Fin nuevas US -->
+
+---
 ## 3.3. Impact Mapping.
 
 En esta sección, debemos identificar los "Business Goals" para nuestra aplicación web, la cual conecta a personas que desean alquilar un vehículo con propietarios que desean ofrecer sus vehículos. Estos usuarios nos ayudarán a cumplir estos objetivos. Hemos identificado el "Impact" o impacto que deseamos lograr, y luego estableceremos los "Deliverables" que nos permitirán como negocio digital alcanzar estos impactos. Finalmente, incluiremos las "User Stories" para obtener las características o funcionalidades que ayudarán a producir los Deliverables.
@@ -771,7 +799,7 @@ En esta sección, debemos identificar los "Business Goals" para nuestra aplicaci
 
 Con el fin de simplificar la complejidad de las tareas, hemos utilizado la escala de Fibonacci (1/2/3/5/8) para crear nuestro product backlog.
 Historia de usuario base:
-Tomamos como referencia US09: Como persona interesada en alquilar un vehículo quiero poder visualizar los vehículos para poder elegirlos. (Posee 3 puntos de historia).
+Tomamos como referencia US09: Como persona interesada en alquilar un vehículo, quiero poder visualizar todos los vehículos disponibles para poder elegir. (Posee 3 puntos de historia).
 Asimismo, utilizamos la herramienta “Planning Poker Online” para poder votar en grupo y decidir la dificultad de cada historia de usuario, tomando como punto intermedio el User Story 09
 
 <table>
@@ -788,137 +816,144 @@ Asimismo, utilizamos la herramienta “Planning Poker Online” para poder votar
     <tr>
       <td>1</td>
       <td>US01</td>
-      <td>Barra de navegación en la Landing Page</td>
-      <td>Como usuario quiero un menú para ver las secciones de la aplicación</td>
+      <td>Barra de navegación en la Principal</td>
+      <td>Como usuario, quiero ver una barra de navegación en la Landing Page para acceder fácilmente a las secciones principales.</td>
       <td>3</td>
     </tr>
     <tr>
       <td>2</td>
       <td>US02</td>
-      <td>Sección de beneficios del Landing Page</td>
-      <td>Como usuario quiero saber los servicios que ofrece la aplicación web para optar por las características que ofrece</td>
-      <td>2</td>
+      <td>Como usuario, quiero ver una sección de beneficios de la aplicación en la Landing Page para entender las ventajas que ofrece.</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>3</td>
       <td>US03</td>
-      <td>Sección de nosotros del Landing Page</td>
-      <td>Como usuario quiero saber quiénes son y qué ofrece la aplicación para optar por ellos</td>
+      <td>Información sobre Nosotros</td>
+      <td>Como usuario, quiero conocer más sobre nosotros en la Landing Page para saber quién está detrás de la aplicación.</td>
       <td>2</td>
     </tr>
     <tr>
       <td>4</td>
       <td>US04</td>
-      <td>Sección de las redes sociales/Footer del Landing Page</td>
-      <td>Como usuario quiero visualizar en una sección las redes sociales de la aplicación</td>
+      <td>Redes Sociales y Footer</td>
+      <td>Como usuario, quiero ver enlaces a redes sociales y un footer en la Landing Page para conectar con nosotros y tener información adicional.</td>
       <td>2</td>
     </tr>
     <tr>
       <td>5</td>
       <td>US05</td>
-      <td>Sección de contactos en la Landing Page</td>
-      <td>Como usuario quiero contactar a alguna persona para resolver dudas o problemas</td>
-      <td>2</td>
+      <td>Sección de contacto</td>
+      <td>Como usuario, quiero tener una sección de contacto en la Landing Page para poder comunicarme con el soporte.</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>6</td>
       <td>US06</td>
       <td>Registro de cuenta</td>
-      <td>Como usuario quiero registrarme rápidamente para empezar a usar la aplicación al instante</td>
-      <td>3</td>
+      <td>Como usuario, quiero registrarme en la aplicación con un formulario de registro para crear una cuenta.</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>7</td>
       <td>US07</td>
-      <td>Registro y vinculación de cuenta usando Google o Outlook</td>
-      <td>Como usuario quiero registrarme y vincular mi cuenta en la aplicación Google o Outlook para empezar a usar la aplicación al instante</td>
+      <td>Registro con Google u Outlook</td>
+      <td>Como usuario, quiero registrarme usando Google u Outlook para simplificar el proceso de registro.</td>
       <td>3</td>
     </tr>
     <tr>
       <td>8</td>
       <td>US08</td>
       <td>Inicio de sesión</td>
-      <td>Como usuario quiero poder iniciar sesión para usar la aplicación</td>
-      <td>2</td>
+      <td>Como usuario, quiero iniciar sesión en la aplicación para acceder a mi cuenta.</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>9</td>
       <td>US09</td>
       <td>Ver vehículos disponibles</td>
-      <td>Como persona interesada en alquilar un vehículo quiero poder visualizar los vehículos para poder elegirlos.</td>
+      <td>Como persona interesada en alquilar un vehículo, quiero poder visualizar todos los vehículos disponibles para poder elegir.</td>
       <td>3</td>
     </tr>
     <tr>
       <td>10</td>
       <td>US10</td>
       <td>Filtro de búsqueda de vehículos</td>
-      <td>Como persona que desea alquilar quiero poder visualizar un filtro para poder encontrar el vehículo adecuado</td>
+      <td>Como usuario, quiero usar filtros para buscar vehículos específicos en la plataforma para encontrar rápidamente el que necesito.</td>
       <td>5</td>
     </tr>
     <tr>
       <td>11</td>
-      <td>US11</td>
-      <td>Beneficios por influenciar la movilidad sostenible</td>
-      <td>Como persona que desea alquilar, deseo recibir beneficios al compartir contenido relacionado con Ruedarent en mis redes sociales, para sentirme motivado y valorado al contribuir a la concientización sobre la importancia de la movilidad sostenible</td>
+      <td>US18</td>
+      <td>Publicar un Vehículo</td>
+      <td>Como propietario, quiero publicar un vehículo en la plataforma para que otros usuarios puedan alquilarlo.</td>
       <td>5</td>
     </tr>
     <tr>
       <td>12</td>
-      <td>US12</td>
-      <td>Beneficios por influenciar la movilidad eléctrica</td>
-      <td>Como persona que desea alquilar, deseo recibir beneficios al compartir contenido relacionado con Ruedarent en mis redes sociales, para sentirme motivado y valorado al contribuir a la concientización sobre la importancia de la movilidad eléctrica</td>
+      <td>US19</td>
+      <td>Alquilar un Vehículo</td>
+      <td>Como usuario, quiero alquilar un vehículo publicado para utilizarlo según mis necesidades.</td>
       <td>5</td>
     </tr>
     <tr>
       <td>13</td>
-      <td>US13</td>
-      <td>Sección de testimonios</td>
-      <td>Como persona que desea alquilar, deseo leer testimonios de otros usuarios que han experimentado beneficios al utilizar la plataforma para sentirme inspirado y tomar decisiones informadas.</td>
-      <td>3</td>
+      <td>US20</td>
+      <td>Selección de Vehículo entre Opciones</td>
+      <td>Como usuario, quiero seleccionar un vehículo entre varias opciones disponibles para tomar una decisión informada.</td>
+      <td>8</td>
     </tr>
     <tr>
       <td>14</td>
-      <td>US14</td>
-      <td>Pago de plan de suscripción</td>
-      <td>Como propietario quiero realizar el pago de un plan para acceder a características y beneficios adicionales</td>
-      <td>5</td>
+      <td>US11</td>
+      <td>Beneficios por Promoción de Movilidad Sostenible</td>
+      <td>Como usuario, quiero conocer los beneficios por promover la movilidad sostenible para tomar decisiones alineadas con el medio ambiente.</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>15</td>
-      <td>US15</td>
-      <td>Información de pedido</td>
-      <td>Como propietario quiero visualizar la información del pedido para revisar los detalles antes de realizar el pago</td>
-      <td>2</td>
+      <td>US12</td>
+      <td>Beneficios por Promoción de Movilidad Eléctrica</td>
+      <td>Como usuario, quiero conocer los beneficios por promover la movilidad eléctrica para aprovechar las ventajas ofrecidas.</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>16</td>
-      <td>US16</td>
-      <td>Personalización de perfil de propietario</td>
-      <td>Como propietario de vehículos, quiero poder personalizar mi perfil para mostrar información relevante y mejorar mi visibilidad dentro de la plataforma</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>US17</td>
-      <td>Personalización de perfil del usuario que desea alquilar</td>
-      <td>Como usuario que desea alquilar, deseo poder personalizar mi perfil para reflejar mis preferencias y necesidades.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>US18</td>
-      <td>Comunicación con el propietario</td>
-      <td>Como usuario que desea alquilar quiero comunicarme con el propietario del vehículo para coordinar más detalles sobre el alquiler.</td>
+      <td>US13</td>
+      <td>Sección de testimonios</td>
+      <td>Como usuario, quiero ver testimonios en la aplicación para conocer las experiencias de otros usuarios.</td>
       <td>5</td>
     </tr>
     <tr>
+      <td>17</td>
+      <td>US14</td>
+      <td>Pago de plan de suscripción</td>
+      <td>Como usuario, quiero pagar mi plan de suscripción para acceder a las funcionalidades según el plan seleccionado.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>US15</td>
+      <td>Información de pedido</td>
+      <td>Como usuario, quiero recibir información detallada sobre mi pedido de suscripción para tener claro el estado y detalles del mismo.</td>
+      <td>3</td>
+    </tr>
+    <tr>
       <td>19</td>
-      <td>US19</td>
-      <td>Ver recomendaciones de vehículos</td>
-      <td>Como usuario que desea alquilar quiero ver recomendaciones de los vehículos más usados para poder tomar decisiones fácilmente</td>
+      <td>US16</td>
+      <td>Personalización de perfil de propietario</td>
+      <td>Como propietario, quiero personalizar mi perfil en la plataforma para reflejar mejor mis vehículos y mi identidad.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>US17</td>
+      <td>Personalización del Perfil del Usuario de Alquiler</td>
+      <td>Como usuario de alquiler, quiero personalizar mi perfil para mejorar la experiencia de uso y gestión de mis alquileres.</td>
       <td>5</td>
     </tr>
   </tbody>
 </table>
 
 ---
+
