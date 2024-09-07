@@ -1,23 +1,53 @@
-
-
 # Registro de Versiones del Informe
 
-| Versión | Fecha | Autor | Descripción de la modificación |
-|----|----|----|----|
-| TB1 | 25/08/2024 | RideFind | Redacción de los Capítulos I: Introduction, II: Requirements Elicitation & Analysis, III: Requirements Specification, IV: Product Design, V: Product Implementation, Validation & Deployment. |
+<table >
+        <tr>
+            <th style="text-align:center;">Versión</th>
+            <th style="text-align:center;">Fecha</th>
+            <th style="text-align:center;">Autor</th>
+            <th style="text-align:center;">Descripción de la modificación</th>
+        </tr>
+        <tr>
+            <td align = "center">TB1</td>
+            <td>05/09/2024</td>
+            <td> 
 
+Briceño De La Cruz, Farid Sebastian
+
+Gutierrez Garcia, Jose Eduardo 
+
+Huamani Aguilar, Jhon Rony 
+
+Huanca Zevallos, Cristhian Joel 
+
+Sanchez Ignacio, Jefrey Martin 
+
+</td>
+            <td>Se ha incorporado el contenido correspondiente al capítulo 1, abarcando los apartados 1.1, 1.2 y 1.3; al capítulo 2, con los apartados 2.1, 2.2, 2.3 y 2.4; al capítulo 3, cubriendo los apartados 3.1, 3.2, 3.3 y 3.4; al capítulo 4, que incluye los apartados 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7 y 4.8; así como al capítulo 5, con los apartados 5.1 y 5.2.</td>
+        <tr>
+
+<table>
+
+<br>
+  
+---
+  
 # Project Report Collaboration Insights
+TB1: Las tareas asignadas para la entrega TB1 se han completado exitosamente y están debidamente documentadas en el repositorio de GitHub, el cual pertenece a la organización del equipo. Este repositorio refleja los avances y colaboraciones de cada integrante a través de los commits y evidencia todo el ciclo de trabajo hasta la culminación de esta entrega.: [Repositorio Github](https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Report).
 
-Las tareas correspondientes a la TB1 han sido completadas y están debidamente documentadas en el repositorio de GitHub para RideFind-Report. Puedes acceder al repositorio a través del siguiente enlace: [https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Report.git](https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Report.git)
+Durante la preparación del informe, se realizaron las siguientes actividades clave:
 
-Durante la fase de elaboración del informe, se realizaron las siguientes actividades:
+- Cada miembro escribió y diagramó sus contenidos asignados en formato Markdown, realizando commits frecuentes para reflejar el progreso en el repositorio.
+- Se generaron los artefactos necesarios utilizando las herramientas recomendadas, y se obtuvieron enlaces de imágenes desde la carpeta “assets” en la rama develop del repositorio del informe.
+- Se organizaron reuniones periódicas para coordinar el avance de los elementos del informe y comunicar los resultados del Sprint 1, que estuvo centrado en el desarrollo de la Landing Page.
 
-- Se crearon y redactaron los contenidos asignados a cada miembro utilizando formato Markdown, y se realizaron "Conventional Commits" para registrar el progreso en el repositorio.
+<img src="img" alt="img1" style="width: 100%;">
 
--  Se generaron los recursos necesarios y agregaron las imagenes al repositorio en la carpeta "assets" en cada rama del informe.
+<img src="img" alt="img2" style="width: 100%;">
 
-- Se organizaron reuniones para coordinar el avance de los componentes del informe y para proporcionar actualizaciones sobre los progresos del Sprint 1, que se centró en el desarrollo de la Landing Page.
-
+<img src="img" alt="img3" style="width: 100%;">
+  
+---
 
 # Contenido
 ## Tabla de contenidos
@@ -120,14 +150,87 @@ Durante la fase de elaboración del informe, se realizaron las siguientes activi
 - [**Bibliografía**](#bibliografía)
 - [**Anexos**](#anexos)
 
+---  
+  
 # Student Outcome
 
-| Criterio específico | Acciones realizadas | Conclusiones |
-|----|----|----|
-|Trabaja en equipo para proporcionar liderazgo en forma conjunta. | **Briceño De La Cruz, Farid Sebastian**<br>*TB1*<br>Escribe Aqui.<br></br>**Gutierrez Garcia, Jose Eduardo**<br>*TB1*<br>Escribe Aqui.<br></br>**Huamani Aguilar, Jhon Rony**<br>*TB1*<br>Escribe Aqui.<br></br>**Huanca Zevallos, Cristhian Joel**<br>*TB1*<br>Escribe Aqui.<br></br>**Sanchez Ignacio, Jefrey Martin**<br>*TB1*<br>Escribe Aqui. | TB1: Elegimos el tema del proyecto, se realizaron asimismo varias reuniones para conocer los puntos de vista de cada integrante y para que ninguno tenga ninguna duda. |
+<table>
+        <tr>
+            <th style="text-align:center;">Criterio específico</th>
+            <th style="text-align:center;">Acciones realizadas</th>
+            <th style="text-align:center;">Conclusiones</th>
+        </tr>
+        <tr>
+            <td align = "center">Trabaja en equipo para proporcionar
+liderazgo en forma conjunta</td>
+            <td> 
 
-| Criterio específico | Acciones realizadas | Conclusiones |
-|----|----|----|
-|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | **Briceño De La Cruz, Farid Sebastian**<br>*TB1*<br>Escribe Aqui.<br></br>**Gutierrez Garcia, Jose Eduardo**<br>*TB1*<br>Escribe Aqui.<br></br>**Huamani Aguilar, Jhon Rony**<br>*TB1*<br>Escribe Aqui.<br></br>**Huanca Zevallos, Cristhian Joel**<br>*TB1*<br>Escribe Aqui.<br></br>**Sanchez Ignacio, Jefrey Martin**<br>*TB1*<br>Escribe Aqui. | TB1: Elegimos el tema del proyecto, se realizaron asimismo varias reuniones para conocer los puntos de vista de cada integrante y para que ninguno tenga ninguna duda.|
+Briceño De La Cruz, Farid Sebastian <br>
+TB1 <br>
+Se encargó de la planificación inicial del proyecto y la distribución de roles entre los integrantes, promoviendo la equidad y una buena comunicación. Coordinó efectivamente al equipo, facilitando un entorno inclusivo y colaborativo que permitió una buena organización del trabajo.
 
-----
+
+Gutierrez Garcia, Jose Eduardo <br>
+TB1 <br>
+Colaboró en la creación del Landing Page, asegurándose de que la implementación fuera consistente con los requisitos del proyecto. Proporcionó liderazgo técnico al definir las mejores prácticas de desarrollo para la primera versión del Landing Page, logrando un resultado funcional y estéticamente coherente.
+
+
+Huamani Aguilar, Jhon Rony <br>
+TB1 <br>
+Lideró la integración del sistema con el servicio RESTful, asegurando que el equipo comprendiera cómo utilizar y probar la API correctamente. Aportó un enfoque de liderazgo técnico y colaborativo, guiando al equipo en la integración exitosa del backend con el frontend.
+
+
+Huanca Zevallos, Cristhian Joel <br>
+TB1 <br>
+Supervisó las sesiones de validación y pruebas iniciales, recopilando retroalimentación del equipo para mejorar la interfaz de usuario. Proporcionó un liderazgo centrado en la calidad, asegurando que las pruebas reflejaran el feedback real y contribuyendo a mejoras tangibles en el producto.
+
+
+Sanchez Ignacio, Jefrey Martin <br>
+TB1 <br>
+Dirigió las tareas relacionadas con la documentación, asegurándose de que todos los entregables cumplieran con las especificaciones del curso. A través de un liderazgo en la documentación, garantizó que todos los artefactos se presentaran de manera clara y organizada, facilitando el trabajo colaborativo.
+
+
+</td>
+ <td> TB1: En este primer logro, el equipo demostró una sólida capacidad de liderazgo colaborativo. Cada integrante asumió roles clave que facilitaron la gestión del proyecto, desde la planificación inicial hasta la ejecución técnica. Gracias a un liderazgo compartido, el equipo mantuvo una comunicación constante y efectiva, lo que permitió alcanzar los objetivos propuestos dentro de los plazos estipulados. La sinergia entre los miembros fue crucial para crear un entorno de trabajo en el que las decisiones se tomaron en conjunto y donde cada persona aportó valor al éxito del proyecto. <br>
+            
+</td>        
+
+   <tr>
+            <td align = "center">Crea un entorno colaborativo e
+inclusivo, establece metas, planifica tareas
+y cumple objetivos</td>
+            <td> 
+
+Briceño De La Cruz, Farid Sebastian <br>
+TB1 <br>
+Planificó y organizó las reuniones de equipo, asegurando que todos los integrantes pudieran participar activamente y se respetaran las opiniones de todos. Creó un entorno inclusivo y promovió la colaboración, logrando que las reuniones fueran productivas y que los objetivos del sprint se alcanzaran.
+
+Gutierrez Garcia, Jose Eduardo <br>
+TB1 <br>
+Desarrolló la primera versión del sistema backend, asegurándose de que las metas técnicas se alinearan con las necesidades del negocio. Ayudó a establecer metas claras y planificar el desarrollo técnico, asegurando que el equipo cumpliera con las expectativas del cliente y las necesidades funcionales.
+
+Huamani Aguilar, Jhon Rony <br>
+TB1 <br>
+Facilitó la comunicación entre los miembros del equipo técnico y los encargados del diseño, asegurando una integración armoniosa de los componentes visuales y funcionales. Su enfoque en la colaboración permitió una correcta integración de las interfaces de usuario y los servicios del backend, cumpliendo con los objetivos del proyecto.
+
+Huanca Zevallos, Cristhian Joel <br>
+TB1<br>
+Se encargó de documentar las métricas del sprint y garantizar que todos los miembros cumplieran con sus tareas asignadas dentro del plazo. A través de una planificación eficaz, contribuyó a que se cumplieran todos los objetivos del sprint, promoviendo una colaboración constante y organizada.
+
+Sanchez Ignacio, Jefrey Martin <br>
+TB1 <br>
+Validó las decisiones tomadas en relación con la estructura del proyecto y la implementación de los sprints, asegurando que todas las partes estuvieran alineadas con los objetivos finales. Se aseguró de que el equipo mantuviera una planificación clara y alcanzara los objetivos propuestos, integrando continuamente las mejoras sugeridas durante el desarrollo.
+
+</td>
+</td>
+            <td>TB1: El equipo destacó por la creación de un entorno altamente colaborativo e inclusivo, donde cada miembro tuvo un rol activo en la planificación y ejecución de las tareas. La claridad en las metas y una adecuada distribución de las responsabilidades fueron fundamentales para el progreso fluido del proyecto. Al establecer una cultura de respeto y comunicación abierta, se logró cumplir con todos los objetivos propuestos de manera eficiente, lo que no solo permitió una mejor organización, sino que también mejoró el desempeño individual y grupal.<br>
+            
+
+</td>
+
+  </tr>
+</table>
+
+<br>
+  
+---
