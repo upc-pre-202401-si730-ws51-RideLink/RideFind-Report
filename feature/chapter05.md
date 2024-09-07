@@ -175,5 +175,63 @@ Explicaremos cómo realizar el despliegue de nuestra Landing Page utilizando el 
 <b> Link de nuestra Landing Page: </b> https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/
 
 ### 5.2. Landing Page, Services & Applications Implementation.
-
+## 5.2.1.1. Sprint Planning 1
+<table>
+  <tr>
+    <th> Sprint # </th>
+    <th> Sprint 1 </th>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Planning Background </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Date </td>
+    <td> 5/09/2024 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Time </td>
+    <td> 19:00 horas (GMT-5) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Location </td>
+    <td> Modalidad remota a través de la plataforma Google Meets </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Prepared By </td>
+    <td> Huamani Aguilar, Jhon Rony </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+    <td>
+      Huamani Aguilar, Jhon Rony<br>
+      Sanchez Ignacio, Jefrey Martin<br>
+      Gutierrez Garcia, Jose Eduardo<br>
+      Briceño De La Cruz, Farid Sebastian<br>
+      Huamani Aguilar, Jhon Rony
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 0 Review Summary </td>
+    <td> Dado que es nuestro primer sprint de desarrollo no existe un review summary del sprint </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 0 Retrospective Summary </td>
+    <td> Dado que nos encontramos en nuestro primer sprint aún no identificamos planes de mejora. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 1 Goal </td>
+    <td> En este sprint se espera implementar el landing page con las secciones de login de inicio, secciones de orientación para el usuario, como por ejemplo el footer. Al finalizar este sprint la landing page debe estar desplegada con GitHub Pages y cualquier usuario debería poder acceder y visualizar la página a través de un enlace. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 1 Velocity </td>
+    <td> 19 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sum of Story Points </td>
+    <td> 19 </td>
+  </tr>
+</table>
 
