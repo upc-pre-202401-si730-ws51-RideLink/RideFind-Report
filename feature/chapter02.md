@@ -322,31 +322,33 @@ Entrevista N°1:
 
 Entrevista N°2:
 
-**Entrevistada:** Nombre Nombre<br>
-**Sexo:** Masculino<br>
-**Edad:** 20 años<br>
+**Entrevistada:** Gimena Huanca<br>
+**Sexo:** Femenino<br>
+**Edad:** 26 años<br>
 **Inicio de la Entrevista:** 0:03<br>
 
-<img src="./img/Chapter02/EntrevistaSabiel.png" alt="Entrevista con Harold" style="width: 600px; height: auto;"><br>
+<img src="./img/Chapter02/EntrevistaGimena.png" alt="Entrevista con Gimena" style="width: 600px; height: auto;"><br>
 
-<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1</a>
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EZot7z-5ZzxJiBx9pe2-4YMBjAaj3e8lpuOhQ7c0G4UFRQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dWx1gU"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EZot7z-5ZzxJiBx9pe2-4YMBjAaj3e8lpuOhQ7c0G4UFRQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dWx1gU </a>
 
-**Resumen de la Entrevista**: Resumen de la entrevista aquí.
+**Resumen de la Entrevista**: Gimena, una emprendedora de 26 años, posee una moto eléctrica que utiliza regularmente para reuniones y un scooter eléctrico que apenas utiliza. Está interesada en compartir sus vehículos a través de la plataforma RideFind para aprovechar su scooter y generar ingresos adicionales. Aunque nunca ha alquilado sus vehículos antes, está dispuesta a probar la plataforma si esta ofrece garantías adecuadas. Los aspectos más importantes para Gimena al alquilar sus vehículos son la seguridad, un precio competitivo y condiciones claras. Sus principales preocupaciones son que el vehículo sufra daños o que no sea cuidado adecuadamente. Valora que la plataforma ofrezca un seguro y un sistema de calificaciones para los usuarios, lo que le daría más confianza. Espera una experiencia rápida, sencilla y automatizada. Gimena continuaría utilizando la plataforma a largo plazo si le resulta rentable y sus vehículos son bien cuidados, y estaría dispuesta a recomendarla si tiene una experiencia positiva.
 
 ---
 
 Entrevista N°3:
 
-**Entrevistada:** Nombre<br>
+**Entrevistada:** Juan Diaz<br>
 **Sexo:** Masculino<br>
-**Edad:** 19 años<br>
+**Edad:** 25 años<br>
 **Inicio de la Entrevista:** 0:03<br>
 
-<img src="./img/Chapter02/EntrevistaSabiel.png" alt="Entrevista con Harold" style="width: 600px; height: auto;"><br>
+<img src="./img/Chapter02/EntrevistaSebas.png" alt="Entrevista con Sebastian" style="width: 600px; height: auto;"><br>
 
-<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1</a>
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ES6SusUIAe1Evh6zgGRi5AoBH-SerCMW3tTJta2Bj9vpzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gWHAek"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ES6SusUIAe1Evh6zgGRi5AoBH-SerCMW3tTJta2Bj9vpzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gWHAek</a>
 
-**Resumen de la Entrevista:** Resumen de la entrevista aquí.
+**Resumen de la Entrevista:** Juan Sebastián, de 25 años, es dueño de una pequeña flota de vehículos eléctricos, compuesta por cinco bicicletas eléctricas y tres scooters, que alquila en su tienda física. Utiliza regularmente uno de sus scooters y está interesado en compartir sus vehículos a través de RideFind para ampliar su mercado y llegar a más clientes potenciales. Ya tiene experiencia en el alquiler de vehículos, pero quiere expandir su negocio. Para él, la seguridad de los vehículos, un precio competitivo y condiciones claras son esenciales. Sus principales preocupaciones incluyen daños significativos a los vehículos y un retorno de inversión insuficiente. Juan Sebastián se sentiría más cómodo si la plataforma ofrece un seguro completo y un riguroso proceso de verificación de usuarios. Considera que la plataforma debe ser fácil de usar, con una interfaz intuitiva. Continuaría usando RideFind si le ayuda a incrementar sus ingresos y a mantener sus vehículos en buen estado, y la recomendaría a otros propietarios si cumple con sus expectativas de seguridad, rentabilidad y facilidad de uso.
+
+---
 
 ### 2.2.3. Análisis de entrevistas.
 
