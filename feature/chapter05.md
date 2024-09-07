@@ -1,60 +1,78 @@
 ## Capítulo V: Product Implementation, Validation & Deployment
-
 ### 5.1. Software Configuration Management.
-
 #### 5.1.1. Software Development Environment Configuration.
+En esta sección, detallaremos las herramientas y plataformas que hemos utilizado como equipo para la realización de nuestro startup. Estas herramientas son esenciales para el desarrollo, la colaboración y la gestión del proyecto. A continuación, se presenta un resumen de cada una de las herramientas utilizadas:
 
-En esta sección describiremos y detallaremos las plataformas y el software que utilizamos como equipo para el desarrollo de nuestro proyecto.
+- **GitHub**
 
-1. <b>Visual Studio Code</b>: Es un editor de código que, aunque es ligero, tiene mucha potencia. Fue desarrollado por Microsoft y cuenta con un montón de características útiles para programadores. Tiene soporte para varios lenguajes de programación, permite agregar extensiones personalizadas, se integra fácilmente con control de versiones y herramientas de depuración. Además, su interfaz es bastante intuitiva y se puede personalizar mucho, lo que lo convierte en una opción muy popular entre los desarrolladores de software a nivel mundial.
-<b>https://code.visualstudio.com/</b>
-<br>
-<br>
+    **Descripción:** GitHub es una plataforma de alojamiento de código fuente y colaboración basada en Git. Nos permite gestionar el código del proyecto, realizar revisiones de código, y colaborar de manera eficiente con nuestro equipo.<br>
+    **Uso:** Se utilizó para el versionado del código, gestión de ramas y pull requests, así como para la documentación del proyecto.
 
-2. <b>GitHub</b>: Esta es la plataforma que utilizaremos para crear el repositorio de nuestro startup y llevar un registro de nuestros avances. Nos facilita un mejor control del trabajo en equipo, ya que permite ver el progreso de cada miembro mediante los commits que realizan. <br>
-<b>https://github.com</b>
-<br>
-<br>
+- **Git**
 
-3. <b>Git</b>: Es el sistema de control de versiones más utilizado y es fundamental para poder realizar los commits en GitHub. <br>
-<b>https://git-scm.com/</b>
-<br>
-<br>
+    **Descripción:** Git es un sistema de control de versiones distribuido que facilita la gestión de cambios en el código fuente.<br> **Uso:** Se empleó para realizar commits, push y pull de cambios, así como para la gestión de ramas, permitiendo una colaboración fluida y eficiente en el desarrollo del proyecto.
 
-4. <b>Whatsapp</b>: Es una aplicación de mensajería instantánea que funciona en varias plataformas y permite a los usuarios enviar mensajes de texto, notas de voz, archivos multimedia, y realizar llamadas y videollamadas sin costo usando una conexión a Internet. Su interfaz sencilla y su disponibilidad tanto en dispositivos móviles como en computadoras la han convertido en una herramienta muy utilizada para la comunicación, tanto personal como profesional, a nivel global. <br>
-<b>https://whatsapp.com/</b>
-<br>
-<br>
+- **Canva**
 
- 5. <b>Zoom</b>: Es una plataforma de videoconferencias que permite realizar reuniones virtuales con video y audio en tiempo real. Ofrece opciones para compartir pantalla, grabar sesiones y colaborar a través de chats, lo que la convierte en una herramienta ideal para trabajo remoto y reuniones en equipo. Gracias a su fácil acceso desde dispositivos móviles y de escritorio, Zoom se ha consolidado como una opción popular para la comunicación en el ámbito profesional y educativo. <br>
- <b>https://zoom.us/es</b>
- <br>
- <br>
+    **Descripción:** Canva es una herramienta de diseño gráfico en línea que permite crear gráficos y elementos visuales de manera intuitiva.<br> **Uso:** Se utilizó para diseñar gráficos y elementos visuales para la landing page del proyecto, incluyendo banners, íconos y otros elementos de diseño que mejoran la presentación visual de la aplicación.
 
- #### 5.1.2. Source Code Management.
+- **Visual Studio Code**
 
-##### Gestión del Código Fuente:
+    **Descripción:** Visual Studio Code (VS Code) es un editor de código fuente ligero y extensible que soporta una amplia variedad de lenguajes de programación.<br> **Uso:** Se utilizó como el principal editor de código para escribir y editar el código del proyecto, aprovechando sus extensiones para mejorar la productividad y facilitar el desarrollo.
 
-En esta sección, describiremos cómo gestionamos y monitoreamos el desarrollo del código en Ridefind. Empleamos GitHub como plataforma principal y Git como nuestro sistema de control de versiones.
+- **WhatsApp**
+
+    **Descripción:** WhatsApp es una aplicación de mensajería instantánea que facilita la comunicación rápida y efectiva.<br> **Uso:** Se empleó para la comunicación diaria entre los miembros del equipo, coordinando tareas, resolviendo problemas y organizando reuniones informales.
+
+- **Google Meet**
+
+    **Descripción:** Google Meet es una herramienta de videoconferencia que permite realizar reuniones virtuales con facilidad.<br> **Uso:** Se utilizó para llevar a cabo reuniones virtuales de equipo, facilitando discusiones en tiempo real y presentaciones de avances del proyecto a los stakeholders y al equipo.
+
+- **Figma**
+
+    **Descripción:** Figma es una herramienta de diseño colaborativo en línea que permite crear y prototipar interfaces de usuario.<br> **Uso:** Se empleó para el diseño de interfaces y prototipos del proyecto, permitiendo la colaboración en tiempo real entre diseñadores y desarrolladores para ajustar y revisar el diseño de la aplicación.
+
+
+<br></br>
+
+#### 5.1.2. Source Code Management.
+
+**Gestión del Código Fuente:**
+
+
+En esta sección, se detalla cómo gestionamos y supervisamos el desarrollo del código para el proyecto RideFind. Utilizamos GitHub como nuestra plataforma principal para la gestión del código fuente, complementada por Git como sistema de control de versiones. Además, seguimos el flujo de trabajo GitFlow para estructurar el desarrollo de manera eficiente.
 
 - Repositorio GitHub para nuestra Landing Page:
 <b>https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind.github.io</b>
 
-1. **main**: Esta rama, también conocida como "master", contiene la versión más estable y final del proyecto, lista para ser desplegada en producción.
 
-2. **Develop**: En esta rama se integran las nuevas funcionalidades en desarrollo. Su progreso corre en paralelo a la rama main.
+**Ramas Principales:**
+- **main:** Esta rama, a menudo llamada "master", contiene la versión más estable y final del proyecto, lista para ser desplegada en producción. Los cambios integrados en esta rama han pasado todas las pruebas y revisiones necesarias, y se consideran completamente preparados para su lanzamiento.
 
-Además de estas ramas principales, se pueden utilizar unas que otras ramas auxiliares para diferentes propósitos:
+- **develop:** La rama develop es el punto central de integración para las nuevas funcionalidades y mejoras en desarrollo. Las características y correcciones se fusionan en esta rama, donde se realizan pruebas adicionales antes de su eventual integración en la rama main.
 
-1. **releases**: Estas ramas se emplean para preparar la siguiente versión del proyecto. En ellas se realizan las pruebas finales y se solucionan pequeños errores antes del lanzamiento oficial. Una vez finalizado este proceso, los cambios se integran primero en la rama develop y posteriormente en la rama main.
+**Ramas Auxiliares:**
 
-##### - Commits Conventions:
+- **releases:** Las ramas de tipo releases se crean para preparar nuevas versiones del proyecto. En estas ramas se llevan a cabo las pruebas finales y se corrigen errores menores antes del lanzamiento oficial. Una vez que una versión ha sido validada, los cambios se integran en la rama develop para futuros desarrollos y luego se fusionan en la rama main para su despliegue.
+
+**Uso de GitFlow:**
+
+- **Feature Branches:** Se utilizan ramas de características para desarrollar nuevas funcionalidades. Estas ramas se crean a partir de la rama develop y, una vez que se completa el desarrollo y se aprueban las revisiones, se fusionan nuevamente en la rama develop.
+
+- **Bugfix Branches:** Para solucionar errores que necesitan ser corregidos antes de la siguiente versión, se utilizan ramas de corrección de errores. Estas ramas se crean a partir de la rama develop o, en casos críticos, desde la rama main.
+
+- **Hotfix Branches:** Se emplean para abordar errores críticos que requieren una solución urgente en producción. Estas ramas se crean a partir de la rama main, y una vez que el problema se resuelve, los cambios se fusionan tanto en la rama main como en la rama develop.
+
+Este enfoque estructurado con GitFlow nos permite gestionar el desarrollo del código de manera eficiente, facilitando la integración de nuevas características, la corrección de errores y la preparación de versiones estables para producción.
+
+
+
+**Commits Conventions:**
 
 En RideFind, los commits se nombran de acuerdo con el avance y el contenido específico del trabajo realizado. No seguimos una convención rígida para los nombres de los commits; en su lugar, los desarrolladores utilizan descripciones claras y concisas para reflejar las modificaciones implementadas. Esto nos permite una mayor flexibilidad a la hora de registrar el progreso, asegurando que cada commit tenga un nombre que represente con precisión el trabajo efectuado.
 
 #### 5.1.3. Source Code Style Guide & Conventions.
-
-En RideFind hemos implementado varias convenciones de estilo para asegurar un desarrollo de código claro y consistente en distintos lenguajes y tecnologías:
+n RideFind hemos implementado varias convenciones de estilo para asegurar un desarrollo de código claro y consistente en distintos lenguajes y tecnologías:
 
 <b>HTML y CSS:</b> <br>
 
@@ -117,23 +135,23 @@ Estas convenciones nos ayudan a mantener el código organizado, legible y cohere
 
 - US01:
 
-![image.png](img/feature01.png)
+![Gherkin1](img/Chapter05/feature01.png)
 
 - US02:
 
-![image.png](img/feature02.png)
+![Gherkin2](img/Chapter05/feature02.png)
 
 - US03:
 
-![image.png](img/feature03.png)
+![Gherkin3](img/Chapter05/feature03.png)
 
 - US04:
 
-![image.png](img/feature04.png)
+![Gherkin4](img/Chapter05/feature04.png)
 
 - US05:
 
-![image.png](img/feature05.png)
+![Gherkin5](img/Chapter05/feature05.png)
 
 #### 5.1.4. Software Deployment Configuration.
 
@@ -142,7 +160,7 @@ Explicaremos cómo realizar el despliegue de nuestra Landing Page utilizando el 
 1. Es fundamental asegurarnos de que la configuración del repositorio sea correcta, ya que será desplegado posteriormente con GitHub Pages:<br>
 <br>
 
-![image.png](img/deployment01.png)
+![deployment1](img/Chapter05/deployment01.png)
 
 <br>
 <br>
@@ -150,7 +168,7 @@ Explicaremos cómo realizar el despliegue de nuestra Landing Page utilizando el 
 <br>
 <br>
 
-![image.png](img/deployment02.png)
+![deployment2](img/Chapter05/deployment02.png)
 
 <br>
 <br>
@@ -158,7 +176,7 @@ Explicaremos cómo realizar el despliegue de nuestra Landing Page utilizando el 
 <br>
 <br>
 
-![image.png](img/deployment03.png)
+![deployment3](img/Chapter05/deployment03.png)
 
 <br>
 <br>
@@ -167,15 +185,18 @@ Explicaremos cómo realizar el despliegue de nuestra Landing Page utilizando el 
 <br>
 
 
-![image.png](img/deploymentfinal.png)
+![deployment4](img/Chapter05/deploymentfinal.png)
 
 <br>
 <br>
 
 <b> Link de nuestra Landing Page: </b> https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/
 
+
 ### 5.2. Landing Page, Services & Applications Implementation.
-## 5.2.1.1. Sprint Planning 1
+#### 5.2.1. Sprint 1.
+#### 5.2.1.1. Sprint Planning 1.
+
 <table>
   <tr>
     <th> Sprint # </th>
@@ -234,4 +255,3 @@ Explicaremos cómo realizar el despliegue de nuestra Landing Page utilizando el 
     <td> 19 </td>
   </tr>
 </table>
-
