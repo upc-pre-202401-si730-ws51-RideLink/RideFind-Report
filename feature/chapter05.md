@@ -118,19 +118,6 @@ n RideFind hemos implementado varias convenciones de estilo para asegurar un des
 
 11. Se separan los escenarios con un comentario y dos líneas en blanco.
 
-
-<b>C# (Convenciones de Codificación de Microsoft para C#)</b>
-
-1. Los nombres de los paquetes van en minúsculas, mientras que las clases se nombran usando UpperCamelCase y los métodos en lowerCamelCase.
-
-2. La indentación se realiza con 2 o 4 espacios, evitando el uso de tabulaciones.
-
-3. Las líneas de código que superen los 100 caracteres se dividen.
-
-4. El nombre del archivo C# debe coincidir con el de la clase que contiene, y la clase debe ser única y pública.
-
-5. Después de cada declaración se deja un espacio en blanco.
-
 Estas convenciones nos ayudan a mantener el código organizado, legible y coherente a lo largo del proyecto.
 
 - US01:
