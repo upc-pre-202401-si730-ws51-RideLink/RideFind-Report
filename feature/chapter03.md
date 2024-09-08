@@ -823,6 +823,7 @@ Asimismo, utilizamos la herramienta “Planning Poker Online” para poder votar
     <tr>
       <td>2</td>
       <td>US02</td>
+      <td>Sección de beneficios</td>
       <td>Como usuario, quiero ver una sección de beneficios de la aplicación en la Landing Page para entender las ventajas que ofrece.</td>
       <td>3</td>
     </tr>
