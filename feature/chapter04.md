@@ -165,26 +165,57 @@ Meta Description Tag: "Explora las características y funcionalidades de RideFin
   En la parte inferior de la página, se incluye una navegación adicional que proporciona acceso rápido a información importante y complementaria, como "Contáctanos.
 
 #### 4.2.5. Navigation Systems.
+Utilizaremos un sistema de navegación conocido como "Hamburger Menú" que consiste en un panel izquierdo de navegación. Este panel nos permitirá aplicar filtros y subfiltros durante la búsqueda, lo que nos ayudará a organizar y presentar varias opciones de navegación de forma clara y concisa, manteniendo así la aplicación ordenada y fácil de usar.
+Asimismo se usará la barra de búsqueda para que las personas busquen sus necesidades.
 
+<a href="navigation"><img src="./img/Chapter04/hamburguermenu01.png" alt="Homepage" border="0"></a>
+<a href="navigation"><img src="./img/Chapter04/hamburguermenu02.png" alt="Homepage" border="0"></a>
 
 ### 4.3. Landing Page UI Design.
 
+El diseño de la interfaz de usuario para la landing page es crucial para causar una buena primera impresión en los usuarios. Aquí mostramos los wireframes y mockups creados para asegurar una navegación eficiente y clara.
+
 #### 4.3.1. Landing Page Wireframe.
+
+<a href="landing"><img src="./img/Chapter04/wireframe01.png" alt="wireframe1" border="0"></a><br>
+<a href="landing"><img src="./img/Chapter04/wireframe02.png" alt="wireframe2" border="0"></a><br>
+<a href="landing"><img src="./img/Chapter04/wireframe03.png" alt="wireframe3" border="0"></a><br>
+<a href="landing"><img src="./img/Chapter04/wireframe04.png" alt="wireframe4" border="0"></a><br>
+<a href="landing"><img src="./img/Chapter04/wireframe05.png" alt="wireframe5" border="0"></a><br>
+<a href="landing"><img src="./img/Chapter04/wireframe06.png" alt="wireframe6" border="0"></a><br>
+
+Enlace de los Wireframes: https://www.figma.com/design/3wujndmKi1aJfHe56S9odg/app-web-project?node-id=0-1&node-type=CANVAS&t=ahCrmvbCCl8cgM8n-0
 
 #### 4.3.2. Landing Page Mock-up.
 
+<a href="landing"><img src="./img/Chapter04/mockup01.png" alt="wireframe1" border="0"></a>
+<a href="landing"><img src="./img/Chapter04/mockup02.png" alt="wireframe2" border="0"></a>
+<a href="landing"><img src="./img/Chapter04/mockup03.png" alt="wireframe3" border="0"></a>
+<a href="landing"><img src="./img/Chapter04/mockup04.png" alt="wireframe4" border="0"></a>
+<a href="landing"><img src="./img/Chapter04/mockup05.png" alt="wireframe5" border="0"></a>
+<a href="landing"><img src="./img/Chapter04/mockup06.png" alt="wireframe6" border="0"></a>
 
 ### 4.4. Web Applications UX/UI Design.
 
+Diseñar la experiencia de usuario para las aplicaciones web implica pensar en cada paso que los usuarios darán. Esta sección presenta los wireframes, flujos de usuario, y mockups que garantizan una experiencia intuitiva.
 
 #### 4.4.1. Web Applications Wireframes.
 
+En esta sección, se pueden encontrar los wireframes relacionados con nuestra aplicación web, RideFind.
 
+<a href="web"><img src="./img/Chapter04/web01.png" alt="web1" border="0"></a><br>
+<a href="web"><img src="./img/Chapter04/web02.png" alt="web2" border="0"></a><br>
+<a href="web"><img src="./img/Chapter04/web03.png" alt="web3" border="0"></a><br>
+<a href="web"><img src="./img/Chapter04/web04.png" alt="web4" border="0"></a><br>
+<a href="web"><img src="./img/Chapter04/web05.png" alt="web5" border="0"></a><br>
+<a href="web"><img src="./img/Chapter04/web06.png" alt="web6" border="0"></a><br>
+<a href="web"><img src="./img/Chapter04/web07.png" alt="web7" border="0"></a><br>
+<a href="web"><img src="./img/Chapter04/web08.png" alt="web8" border="0"></a><br>
+<a href="web"><img src="./img/Chapter04/web09.png" alt="web9" border="0"></a><br>
+<a href="web"><img src="./img/Chapter04/web10.png" alt="web10" border="0"></a><br>
 
 
   
-
-
 ### 4.4.2. wireflow diagrams
 inicio de sesion
 ![inicio_sesion](https://github.com/user-attachments/assets/a4e62045-0662-4eeb-8228-5bca818fd737)
