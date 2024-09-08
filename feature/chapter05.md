@@ -194,51 +194,129 @@ Explicaremos cómo realizar el despliegue de nuestra Landing Page utilizando el 
   </tr>
   <tr>
     <td style="font-weight: bold;"> Date </td>
-    <td> 5/09/2024 </td>
+    <td> 08-09-2024 </td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Time </td>
-    <td> 19:00 horas (GMT-5) </td>
+    <td> 10:00 AM </td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Location </td>
-    <td> Modalidad remota a través de la plataforma Google Meets </td>
+    <td> Modalidad remota a través de la plataforma Zoom </td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Prepared By </td>
-    <td> Huamani Aguilar, Jhon Rony </td>
+    <td> Jimenéz Rosas, Arturo Eduardo </td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
     <td>
-      Huamani Aguilar, Jhon Rony<br>
-      Sanchez Ignacio, Jefrey Martin<br>
-      Gutierrez Garcia, Jose Eduardo<br>
-      Briceño De La Cruz, Farid Sebastian<br>
-      Huamani Aguilar, Jhon Rony
+      Jimenéz Rosas, Arturo Eduardo<br>
+      Rodriguez Peña, Jorge Andrés<br>
     </td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Sprint 0 Review Summary </td>
-    <td> Dado que es nuestro primer sprint de desarrollo no existe un review summary del sprint </td>
+    <td> Se completó la Landing Page, que permite a los usuarios explorar las secciones principales. El equipo recibió feedback positivo de parte del Product Owner respecto a la claridad del diseño y la funcionalidad básica implementada. </td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Sprint 0 Retrospective Summary </td>
-    <td> Dado que nos encontramos en nuestro primer sprint aún no identificamos planes de mejora. </td>
+    <td> El equipo se siente satisfecho con el progreso en la Landing Page. Como oportunidad de mejora, se mencionó optimizar la colaboración entre los miembros del equipo para evitar bloqueos técnicos. </td>
   </tr>
   <tr>
     <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Sprint 1 Goal </td>
-    <td> En este sprint se espera implementar el landing page con las secciones de login de inicio, secciones de orientación para el usuario, como por ejemplo el footer. Al finalizar este sprint la landing page debe estar desplegada con GitHub Pages y cualquier usuario debería poder acceder y visualizar la página a través de un enlace. </td>
+    <td> Implementar las funcionalidades básicas para el registro e inicio de sesión de usuarios en la plataforma. </td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Sprint 1 Velocity </td>
-    <td> 19 </td>
+    <td> 20 Story Points </td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Sum of Story Points </td>
-    <td> 19 </td>
+    <td> 20 Story Points </td>
   </tr>
 </table>
+
+#### 5.2.1.2. Sprint Backlog 1.
+
+| **Sprint** | Sprint 1 |
+|------------|----------|
+
+| **User Story**  | **Work-Item / Task**      | **Id**  | **Title**                    | **Description**                                                  | **Estimation (Hours)** | **Assigned To**                 | **Status**   |
+|---------------|----------------------------|---------|------------------------------|------------------------------------------------------------------|------------------------|---------------------------------|--------------|
+| **Epic02**    | Task 1                      | 01      | Crear interfaz de registro    | Diseño de la interfaz de usuario para el formulario de registro.  | 5                      | Jiménez Rosas, Arturo Eduardo   | InProcess    |
+| **Epic02**    | Task 2                      | 02      | Crear interfaz de inicio de sesión | Diseño de la interfaz de usuario para el formulario de login.     | 5                      | Rodríguez Peña, Jorge Andrés    | To-do        |
+| **Epic02**    | Task 3                      | 03      | Validar datos de registro     | Implementar validaciones de campos en el formulario de registro.  | 4                      | Jiménez Rosas, Arturo Eduardo   | To-do        |
+| **Epic02**    | Task 4                      | 04      | Conectar API de registro      | Implementar conexión con la API para el registro de usuarios.     | 6                      | Rodríguez Peña, Jorge Andrés    | To-do        |
+| **Epic02**    | Task 5                      | 05      | Conectar API de inicio de sesión | Implementar conexión con la API para el inicio de sesión de usuarios. | 6                    | Jiménez Rosas, Arturo Eduardo   | To-do        |
+| **Epic02**    | Task 6                      | 06      | Test de integración           | Realizar pruebas de integración de las funcionalidades desarrolladas. | 4                    | Rodríguez Peña, Jorge Andrés    | To-do        |
+
+---
+
+#### 5.2.1.3. Development Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
+|:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
+| RideFind | main | 7f2e29691448144300e3a8c4a1a6078841206486 | Initial commit |  | 07/09/2024 |
+| Landing | develop | 45ebb06fb1cd8f33405b7545ce698b0f39848447 | feat: add footer |  | 07/09/2024 |
+| Landing | develop | 9841da5fd418fe9618ea0a58a9b45ab3a4a943f1 | feat: Add Customers feedback |  | 07/09/2024 |
+| Landing | develop | 87aea777d2da7e056a3f63bda68a52f52e7a4c9a | feat: added service |  | 07/09/2024 |
+| Landing | develop | a0cab30644d8c7166c7f5d31f8d63541dd33f718 | Add: Update section 1 index.html |  | 07/09/2024 |
+| Landing | develop | c0c2c323a498f48408239ba36bc2b9179806d638 | feat: Add headers |  | 07/09/2024 |
+| Landing | develop  | 8c13ce84d24ccdd7d924dbd58d03917cfe49bb3c | feat: Update styles |  | 07/09/2024 |
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando la herramienta Gherkin. Puedes encontrar los escenarios de estas pruebas dando click aqui: [https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Acceptance-Tests](https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Acceptance-Tests).
+
+| Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
+|:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
+| RideLink | main | a4398b440f4935619dccd14ee2c75b8815409834 | Initial commit |  | 07/09/2024 |
+|  | main | de33ade90354d7ca9156ec92f80d2747d1335edc | feat: add .feature in Epic-01 |  | 07/09/2024 |
+
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+
+En esta entrega, el equipo Ruedarent ha logrado completar con éxito la creación de la Landing Page. Esta proporcionará detalles precisos sobre nuestra misión como startup, además de ofrecer información sobre los servicios que proporcionamos en nuestra aplicación web.
+
+Enlace del deploy del Landing Page de RideLink en GitHub Pages: https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/
+
+Sección de header donde se encuentra el menu de navegación principal y el Banner donde  se muestra un mensaje con una imagen acerca de Ruedarent:
+
+<a href="deploy01"><img src="./img/Chapter05/mockup01.png" alt="type" border="0"></a>
+
+
+Sección para saber que ofrecemos en nuestra plataforma:
+
+<a href="deploy01"><img src="./img/Chapter05/mockup02.png" alt="type" border="0"></a>
+
+
+Sección para ver las ventajas
+
+<a href="deploy01"><img src="./img/Chapter05/mockup03.png" alt="type" border="0"></a>
+
+Sección para ver las suscripciones:
+
+<a href="deploy01"><img src="./img/Chapter05/mockup04.png" alt="type" border="0"></a>
+
+Sección para ver las reseñas de nuestros clientes:
+
+<a href="deploy01"><img src="./img/Chapter05/mockup05.png" alt="type" border="0"></a>
+
+Sección de contacto y footer con enlaces a redes sociales y un formulario de contacto:
+
+<a href="deploy01"><img src="./img/Chapter05/mockup06.png" alt="type" border="0"></a>
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+En esta entrega, nos enfocamos en Landing page, por lo que no fue necesario ningún servicio adicional.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+En este caso se uso GitHub Pages, para desplegar la Landing page, el cual nos sirvio para, a partir de un código en un repositorio poder desplegar la página. Enlace de la landing page: [https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/](https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/)
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+Para llevar a cabo este proyecto se usaron distintas herramientas como Visual Studio Code; junto con manejo de versiones en Git. En este caso se dividio la landing page mostrada anteriormente en sectores, a partir de esto cada uno presentó su parte y luego un miembro juntó las partes para finalmente tener el resultado deseado.
