@@ -52,7 +52,7 @@ Se utiliza un espaciado base de 4px para padding y margin en todos los elementos
 
 **Responsive Web Interface**
 
-<a href="webInterface"><img src="./img/Chapter04/webinterface.jpg" alt="WebStle" border="0"></a>
+<a href="webInterface"><img src="./img/Chapter04/webinterface.png" alt="WebStle" border="0"></a>
 
 La Landing Page se centra en facilitar el acceso a información clave como inscripción, vehículos y beneficios, para captar la atención de los usuarios de manera eficiente.
 
@@ -71,7 +71,7 @@ El propósito del sistema de organización de la página es establecer la estruc
 **Homepage:**
 La página se divide en distintas secciones que incluyen: Home , Why Choose Us?, Contact, Service Features, Sign In y Sign Up.
 
-<a href="homepage"><img src="./img/Chapter04/homepage.jpg" alt="Homepage" border="0"></a>
+<a href="homepage"><img src="./img/Chapter04/homepage.png" alt="Homepage" border="0"></a>
 
 En la parte superior, los enlaces de navegación permiten a los usuarios acceder rápidamente a diferentes áreas del sitio, siguiendo un diseño intuitivo que destaca la información esencial. La estructura está diseñada para que los usuarios comprendan fácilmente la propuesta de valor de la aplicación y puedan registrar o iniciar sesión con facilidad.
 
