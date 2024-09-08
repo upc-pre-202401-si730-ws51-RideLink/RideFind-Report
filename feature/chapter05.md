@@ -194,65 +194,69 @@ Explicaremos cómo realizar el despliegue de nuestra Landing Page utilizando el 
   </tr>
   <tr>
     <td style="font-weight: bold;"> Date </td>
-    <td> 08-09-2024 </td>
+    <td> 09/07/2024 </td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Time </td>
-    <td> 10:00 AM </td>
+    <td> 19:00 horas (GMT-5) </td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Location </td>
-    <td> Modalidad remota a través de la plataforma Zoom </td>
+    <td> Virtual (Google Meet) </td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Prepared By </td>
-    <td> Jimenéz Rosas, Arturo Eduardo </td>
+    <td> Gutierrez Garcia, Jose Eduardo </td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
     <td>
-      Jimenéz Rosas, Arturo Eduardo<br>
-      Rodriguez Peña, Jorge Andrés<br>
+      Briceño De La Cruz, Farid Sebastian<br>
+      Gutierrez Garcia, Jose Eduardo<br>
+      Huamani Aguilar, Jhon Rony <br>
+      Huanca Zevallos, Cristhian Joel <br>
+      Sanchez Ignacio, Jefrey Martin <br>
+    </td>
     </td>
   </tr>
   <tr>
-    <td style="font-weight: bold;"> Sprint 0 Review Summary </td>
-    <td> Se completó la Landing Page, que permite a los usuarios explorar las secciones principales. El equipo recibió feedback positivo de parte del Product Owner respecto a la claridad del diseño y la funcionalidad básica implementada. </td>
+    <td style="font-weight: bold;"> Sprint 1 Review Summary </td>
+    <td> Al este ser nuestro primer sprint de desarrollo no existe un review summary del sprint </td>
   </tr>
   <tr>
-    <td style="font-weight: bold;"> Sprint 0 Retrospective Summary </td>
-    <td> El equipo se siente satisfecho con el progreso en la Landing Page. Como oportunidad de mejora, se mencionó optimizar la colaboración entre los miembros del equipo para evitar bloqueos técnicos. </td>
+    <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
+    <td> Ya que es nuestro primer sprint aún no identificamos ningun plane de mejora. </td>
   </tr>
   <tr>
     <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Sprint 1 Goal </td>
-    <td> Implementar las funcionalidades básicas para el registro e inicio de sesión de usuarios en la plataforma. </td>
+    <td> Completar las principales secciones de la Landing Page de la aplicación RideFind, permitiendo a los usuarios explorar y familiarizarse con la plataforma. </td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Sprint 1 Velocity </td>
-    <td> 20 Story Points </td>
+    <td> <strong>8 </strong><br> Se estima una capacidad de 8 Story Points para este sprint, tomando en cuenta las tareas relacionadas con el desarrollo de la Landing Page. </td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Sum of Story Points </td>
-    <td> 20 Story Points </td>
+    <td> 8 </td>
   </tr>
 </table>
 
+
+
 #### 5.2.1.2. Sprint Backlog 1.
 
-| **Sprint** | Sprint 1 |
-|------------|----------|
+| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
+| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
+| US01 | Barra de navegación en la Landing Page     | TS01 |Barra de navegación en la Landing Page (Desarrollado en HTML, CSS y JS).| Implementación del header y la barra de navegación, desarrollados en HTML, CSS y JS con diseño responsive. | 8                  | Farid | Done                                   |
+| US02 | 	Sección de beneficios de la Aplicación   | TS02 | Sección de beneficios (Desarrollado en HTML, CSS y JS).|Desarrollar una sección que destaque los beneficios clave de RideFind utilizando HTML, CSS, y componentes reutilizables con diseño responsive. | 6                | Jose | Done                                   |
+| US03 | Información sobre Nosotros           | TS03 | Sección de suscripciones (Desarrollado en HTML, CSS y JS).| Implementar la sección "Sobre Nosotros", mostrando información clave de la empresa con diseño responsive y optimización para dispositivos móviles y tablets. | 4                 | Jhon   | Done                                   |
+| US04 | Redes Sociales y Footer | TS04 | RRedes Sociales y Footer (Desarrollado en HTML, CSS y JS).| Crear un footer con enlaces a redes sociales, optimizado para diferentes resoluciones de pantalla, asegurando su visibilidad en todo tipo de dispositivos.| 4 | Cristhian | Done
+| US05 | Sección de contacto | TS04 | Sección de contacto (Desarrollado en HTML, CSS y JS).| Implementar una sección de contacto con un formulario básico, validación de datos, y diseño responsive para garantizar su correcto funcionamiento en móviles.| 4 | Jefrey | Done
 
-| **User Story**  | **Work-Item / Task**      | **Id**  | **Title**                    | **Description**                                                  | **Estimation (Hours)** | **Assigned To**                 | **Status**   |
-|---------------|----------------------------|---------|------------------------------|------------------------------------------------------------------|------------------------|---------------------------------|--------------|
-| **Epic02**    | Task 1                      | 01      | Crear interfaz de registro    | Diseño de la interfaz de usuario para el formulario de registro.  | 5                      | Jiménez Rosas, Arturo Eduardo   | InProcess    |
-| **Epic02**    | Task 2                      | 02      | Crear interfaz de inicio de sesión | Diseño de la interfaz de usuario para el formulario de login.     | 5                      | Rodríguez Peña, Jorge Andrés    | To-do        |
-| **Epic02**    | Task 3                      | 03      | Validar datos de registro     | Implementar validaciones de campos en el formulario de registro.  | 4                      | Jiménez Rosas, Arturo Eduardo   | To-do        |
-| **Epic02**    | Task 4                      | 04      | Conectar API de registro      | Implementar conexión con la API para el registro de usuarios.     | 6                      | Rodríguez Peña, Jorge Andrés    | To-do        |
-| **Epic02**    | Task 5                      | 05      | Conectar API de inicio de sesión | Implementar conexión con la API para el inicio de sesión de usuarios. | 6                    | Jiménez Rosas, Arturo Eduardo   | To-do        |
-| **Epic02**    | Task 6                      | 06      | Test de integración           | Realizar pruebas de integración de las funcionalidades desarrolladas. | 4                    | Rodríguez Peña, Jorge Andrés    | To-do        |
+Este plan del Sprint 1 se centra en la implementación técnica de las principales secciones de la Landing Page con un enfoque en diseño responsive para asegurar que la plataforma RideFind sea accesible y visualmente atractiva en todos los dispositivos.
 
 ---
 
@@ -347,11 +351,34 @@ Para llevar a cabo este proyecto se usaron distintas herramientas como Visual St
 
 ## Anexos
 
+
 **Anexo 1:**
-Presentación del Proyecto: https://www.canva.com/design/DAGQDRydqY8/or-NGszjIWSFbZ9EE5PpSw/edit?utm_content=DAGQDRydqY8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Entrevistas Usuarios que Buscan Alquilar Vehículos:<br>
+
+- https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EcCSsXuECudMq43U96doDSoBjlRz9pEakJAKjz9886APtQ?e=TCRqC8
+- https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EQAWSuW1CB9BhDIb-DEdFUgBE_27nMdsPVxCreJ9n0pLxQ?e=16i45B
+- https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EdW4MG4fMRZFtuoBaQlOyW0Bv3gGBsH-9aUTnfLxTnVoUA?e=UWE5n8 
+
+Entrevistas Propetarios de vehiculos alternativos:<br>
+- https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1
+- https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EZot7z-5ZzxJiBx9pe2-4YMBjAaj3e8lpuOhQ7c0G4UFRQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dWx1gU
+- https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ES6SusUIAe1Evh6zgGRi5AoBH-SerCMW3tTJta2Bj9vpzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gWHAek
 
 **Anexo 2:**
-Landing Page:<br> https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/
+Presentación del Proyecto: https://www.canva.com/design/DAGQDRydqY8/or-NGszjIWSFbZ9EE5PpSw/edit?utm_content=DAGQDRydqY8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 **Anexo 3:**
-Web Applications Mock-ups: https://www.figma.com/design/3wujndmKi1aJfHe56S9odg/app-web-project?node-id=0-1&node-type=CANVAS&t=fMYzVqO9YaR2ms7B-0
+Project Figma:
+ https://www.figma.com/design/3wujndmKi1aJfHe56S9odg/app-web-project?node-id=0-1&node-type=CANVAS&t=fMYzVqO9YaR2ms7B-0
+
+**Anexo 4:**
+Landing Page:<br> https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/
+
+**Anexo 4:**
+Organizacion de Github:<br> https://github.com/upc-pre-202401-si730-ws51-RideLink
+
+**Anexo 5:**
+Enlace Video Expoción:<br>
+- **TB1 :** []()
+
