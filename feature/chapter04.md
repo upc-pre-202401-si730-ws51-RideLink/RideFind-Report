@@ -1,3 +1,12 @@
+### 4.4.2. wireflow diagrams
+inicio de sesion
+![inicio_sesion](https://github.com/user-attachments/assets/a4e62045-0662-4eeb-8228-5bca818fd737)
+
+Busqueda y seleccion de un vehículo
+![seleccion-pago](https://github.com/user-attachments/assets/dee5934e-af45-41ee-94ef-bbbfa15c2629)
+
+Enlace de los Wireflow Diagrams en LucidChart: https://lucid.app/lucidchart/db91d34c-37fb-4264-8376-1aece315750c/edit?viewport_loc=-257%2C860%2C4021%2C1923%2C0_0&invitationId=inv_5b6a04fe-06ce-4f58-a6a1-0c50ef7bd0ec
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
