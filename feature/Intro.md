@@ -1,3 +1,4 @@
+
 # Registro de Versiones del Informe
 
 <table >
@@ -41,11 +42,11 @@ Durante la preparación del informe, se realizaron las siguientes actividades cl
 - Se generaron los artefactos necesarios utilizando las herramientas recomendadas, y se obtuvieron enlaces de imágenes desde la carpeta “assets” en la rama develop del repositorio del informe.
 - Se organizaron reuniones periódicas para coordinar el avance de los elementos del informe y comunicar los resultados del Sprint 1, que estuvo centrado en el desarrollo de la Landing Page.
 
-<img src="img" alt="img1" style="width: 100%;">
+<img src="./img/Chapter01/insight1.png" alt="img1" style="width: 100%;">
 
-<img src="img" alt="img2" style="width: 100%;">
+<img src="./img/Chapter01/insight2.png" alt="img2" style="width: 100%;">
 
-<img src="img" alt="img3" style="width: 100%;">
+<img src="./img/Chapter01/insight3.png" alt="img3" style="width: 100%;">
   
 ---
 

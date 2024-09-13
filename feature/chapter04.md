@@ -225,6 +225,31 @@ Busqueda y seleccion de un vehículo
 
 Enlace de los Wireflow Diagrams en LucidChart: https://lucid.app/lucidchart/db91d34c-37fb-4264-8376-1aece315750c/edit?viewport_loc=-257%2C860%2C4021%2C1923%2C0_0&invitationId=inv_5b6a04fe-06ce-4f58-a6a1-0c50ef7bd0ec
 
+### 4.5. Web Applications Prototyping.
+<a href="prototyping"><img src="./img/Chapter04/4.5.png" alt="type" border="0"></a>
+
+### 4.6. Domain-Driven Software Architecture.
+
+El diseño arquitectónico de RideFind se basa en un enfoque de dominio dirigido. A través de diagramas de contexto, contenedores y componentes, se describe la estructura del software, proporcionando una visión clara de cómo cada parte del sistema se integra y opera en conjunto.
+
+#### 4.6.1. Software Architecture Context Diagram.
+
+<img src="./img/Chapter04/context.png" alt="context" border="0"></a>
+
+#### 4.6.2. Software Architecture Container Diagrams.
+
+<img src="./img/Chapter04/containers.png" alt="container" border="0"></a>
+
+#### 4.6.3. Software Architecture Components Diagrams.
+
+-  Las funcionalidades para nuestra aplicación web.
+  <img src="./img/Chapter04/profilecomp.png" alt="component1" border="0"></a>
+
+-  Los componentes para los vehiculos dentro de nuestra aplicacion.
+  <img src="./img/Chapter04/vehiclecomp.png" alt="component1" border="0"></a>
+
+
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
