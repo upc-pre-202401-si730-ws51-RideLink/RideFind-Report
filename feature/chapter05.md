@@ -332,6 +332,143 @@ Para llevar a cabo este proyecto se usaron distintas herramientas como Visual St
 
 <a href="deploy01"><img src="./img/Chapter05/git2.png" alt="type" border="0"></a>
 
+<br>
+
+#### 5.2.2. Sprint 2.
+#### 5.2.2.1. Sprint Planning 2.
+
+<table>
+  <tr>
+    <th> Sprint # </th>
+    <th> Sprint 2 </th>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Planning Background </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Date </td>
+    <td> 14/09/2024 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Time </td>
+    <td> 19:00 horas (GMT-5) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Location </td>
+    <td> Virtual (Google Meet) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Prepared By </td>
+    <td> Gutierrez Garcia, Jose Eduardo </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+    <td>
+      Briceño De La Cruz, Farid Sebastian<br>
+      Gutierrez Garcia, Jose Eduardo<br>
+      Huamani Aguilar, Jhon Rony<br>
+      Huanca Zevallos, Cristhian Joel<br>
+      Sanchez Ignacio, Jefrey Martin<br>
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
+    <td> En este sprint se completaron las principales secciones de la Landing Page y se realizaron pruebas básicas para asegurar su correcto funcionamiento. Se logró que la página se visualice correctamente en diferentes dispositivos, asegurando una experiencia responsiva. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
+    <td> Se identificó la necesidad de establecer una mejor comunicación en la asignación de tareas y definir criterios de aceptación más claros para cada historia de usuario. Se acordó realizar reuniones diarias más breves y enfocadas. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Goal </td>
+    <td> Implementar las funcionalidades de registro e inicio de sesión para la aplicación RideFind, asegurando que los usuarios puedan crear cuentas, autenticarse y recuperar contraseñas. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Velocity </td>
+    <td> <strong>10</strong><br> Se estima una capacidad de 10 Story Points para este sprint, considerando la complejidad de las funcionalidades relacionadas con el registro e inicio de sesión. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sum of Story Points </td>
+    <td> 10 </td>
+  </tr>
+</table>
+
+#### 5.2.2.2. Sprint Backlog 2.
+
+| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
+| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
+| US06 | Funcionalidad de Registro de Usuario | TS06 | Desarrollo del formulario de registro (HTML, CSS y JS). | Crear un formulario de registro de usuario con validación de datos y diseño responsive para todos los dispositivos. | 10                 | Farid         | InProcess                              |
+| US07 | Funcionalidad de Inicio de Sesión    | TS07 | Desarrollo de inicio de sesión (HTML, CSS, JS y Backend). | Implementar la funcionalidad de inicio de sesión utilizando autenticación en backend y diseño responsive. | 12                 | Jose          | To-do                                  |
+| US08 | Recuperación de Contraseña           | TS08 | Recuperación de contraseña (HTML, CSS, JS y Backend). | Implementar la funcionalidad de recuperación de contraseña con envío de correo y validación de código. | 8                  | Jhon          | To-do                                  |
+| US09 | Mensajes de Error y Validaciones      | TS09 | Mensajes de error y validaciones (HTML, CSS y JS). | Crear mensajes de error y validaciones visuales para los formularios de registro e inicio de sesión. | 6                  | Cristhian     | To-do                                  |
+| US10 | Pruebas de la Funcionalidad          | TS10 | Pruebas de validación y funcionalidad (QA). | Realizar pruebas de validación y funcionalidad para asegurarse de que el registro, inicio de sesión y recuperación de contraseña funcionen correctamente. | 6                  | Jefrey        | To-do                                  |
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
+|:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
+| RideFind-FrontEnd | main | 6d9ca50ced635ff55453038eca62f8d9c59aa96b | Initial commit | Create .gitignore| 27/09/2024 |
+| RideFind-FrontEnd | develop | e7e8e6b2b3cdd8c0d0c983df572705eec22ca4ce | feat: develop | Update http-common.js | 28/09/2024 |
+| RideFind-FrontEnd | develop | 8350dbc4c55f12f94c09c98f4b2e2a3754d5729d | feat:login | Upload RideFind FrontEnd | 27/09/2024 |
+| RideFind-FrontEnd | develop | 87aea777d2da7e056a3f63bda68a52f52e7a4c9a | feat: order-owner  | create order-owner | 27/09/2024 |
+| RideFind-FrontEnd | develop | 05866f6bd76c7860f20eb5d426e26fc4241f805a | Feat: Owner-profile | create profiles | 27/09/2024 |
+| RideFind-FrontEnd | develop | 8350dbc4c55f12f94c09c98f4b2e2a3754d5729d | feat: Plans | view plans | 27/09/2024 |
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando la herramienta Gherkin. Puedes encontrar los escenarios de estas pruebas dando click aqui: [https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Acceptance-Tests](https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Acceptance-Tests).
+
+| Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
+|:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
+| RideLink | main | 6d9ca50ced635ff55453038eca62f8d9c59aa96b | Initial commit |  | 27/09/2024 |
+|  | main | 05866f6bd76c7860f20eb5d426e26fc4241f805a | feat: develop |  | 28/09/2024 |
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+Durante este sprint, el equipo de RideFind ha logrado optimizar y completar la creación del front-end de la aplicación, incorporando mejoras significativas en la estructura y la usabilidad de las principales interfaces. El nuevo diseño ofrece una navegación más fluida y una disposición coherente de los componentes, proporcionando una experiencia de usuario más satisfactoria e intuitiva.
+
+Enlace al despliegue del front-end de RideFind en GitHub Pages: 
+
+En la sección del header, se han ajustado los elementos del menú de navegación y se han mejorado los estilos visuales, brindando una interfaz moderna y responsiva. Además, se ha incluido un mensaje claro y conciso que resalta los beneficios de utilizar la plataforma RideFind, alineado con la misión y visión de la startup.
+
+<a href="deploy02"><img src="./img/Chapter05/appweb1.jpg" alt="type" border="0"></a>
+
+<a href="deploy02"><img src="./img/Chapter05/appweb2.jpg" alt="type" border="0"></a>
+
+<a href="deploy02"><img src="./img/Chapter05/appweb3.jpg" alt="type" border="0"></a>
+
+<a href="deploy02"><img src="./img/Chapter05/appweb4.jpg" alt="type" border="0"></a>
+
+<a href="deploy02"><img src="./img/Chapter05/appweb5.jpg" alt="type" border="0"></a>
+
+<a href="deploy01"><img src="./img/Chapter05/appweb6.jpg" alt="type" border="0"></a>
+
+<a href="deploy01"><img src="./img/Chapter05/appweb7.jpg" alt="type" border="0"></a>
+
+
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+En esta entrega, nos enfocamos en todo lo que es el Front, por lo que no fue necesario ningún servicio adicional.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Para este sprint, se utilizó Firebase como la plataforma de despliegue para el front-end de la aplicación RideFind. La elección de Firebase nos permitió implementar y gestionar de manera eficiente el código almacenado en nuestro repositorio, garantizando una integración continua y un despliegue rápido. El front-end de la aplicación se encuentra ahora disponible, asegurando una entrega fluida de la interfaz al usuario final.
+
+Enlace del despliegue del front-end en Firebase: https://ridefind-frontend.web.app/myProfile.
+
+
+
+#### 5.2.2.8. Team Collaboration insights during sprint.
+
+Para el desarrollo de este proyecto se emplearon diversas herramientas, entre ellas WebStorm para la programación y edición del código, junto con el control de versiones utilizando Git. La estructura del front-end se dividió en secciones individuales, permitiendo a cada miembro del equipo trabajar en su parte correspondiente. Posteriormente, un integrante del equipo consolidó todas las secciones en un solo proyecto, obteniendo así el resultado final esperado de manera coordinada y eficiente.
+
+
+
+
 
 ## Conclusiones
 
@@ -340,6 +477,14 @@ Para llevar a cabo este proyecto se usaron distintas herramientas como Visual St
 - Priorización de necesidades del usuario: La creación de User Stories y la definición del Product Backlog son pasos clave para identificar y clasificar las necesidades de los usuarios. Esto permite que el equipo se enfoque en resolver primero las necesidades más críticas, optimizando así el valor entregado al cliente.
 
 - Pruebas continuas y mitigación de riesgos: El éxito del proyecto también depende de la capacidad del equipo para abordar los riesgos funcionales mediante pruebas continuas y mejoras incrementales. Esto garantiza que los errores sean corregidos rápidamente, mejorando la calidad del producto final.
+
+- Para el desarrollo de este proyecto se emplearon diversas herramientas, entre ellas WebStorm para la programación y edición del código, junto con el control de versiones utilizando Git. La estructura del front-end se dividió en secciones individuales, permitiendo a cada miembro del equipo trabajar en su parte correspondiente. Posteriormente, un integrante del equipo consolidó todas las secciones en un solo proyecto, obteniendo así el resultado final esperado de manera coordinada y eficiente.
+
+- Durante el proceso, se evidenció una mejora significativa en la colaboración y en la organización del equipo. Cada miembro aportó su experiencia y conocimientos, lo que permitió optimizar tiempos y resolver los desafíos que se presentaron en la implementación de la interfaz. Además, la utilización de Firebase para el despliegue facilitó la visualización y revisión del proyecto en tiempo real, asegurando una entrega más ágil y efectiva.
+
+- La estructura modular aplicada al desarrollo del front-end permitió un mayor control sobre cada componente y una mejor capacidad de realizar ajustes en función del feedback recibido. Asimismo, la adopción de WebStorm como entorno de desarrollo se tradujo en una mayor productividad gracias a sus herramientas de depuración y soporte para tecnologías web.
+
+- A lo largo del sprint, el equipo identificó y resolvió problemas relacionados con la compatibilidad entre navegadores y la optimización de recursos, lo que resultó en un front-end más robusto y eficiente. El despliegue en Firebase también facilitó la detección y solución de errores de integración que surgieron durante las pruebas.
 
 ## Bibliografía
 
@@ -352,33 +497,43 @@ Para llevar a cabo este proyecto se usaron distintas herramientas como Visual St
 ## Anexos
 
 
-**Anexo 1:**
+**Anexo 1:**  
+**Entrevistas Usuarios que Buscan Alquilar Vehículos:**  
+- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EcCSsXuECudMq43U96doDSoBjlRz9pEakJAKjz9886APtQ?e=TCRqC8](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EcCSsXuECudMq43U96doDSoBjlRz9pEakJAKjz9886APtQ?e=TCRqC8)  
+- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EQAWSuW1CB9BhDIb-DEdFUgBE_27nMdsPVxCreJ9n0pLxQ?e=16i45B](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EQAWSuW1CB9BhDIb-DEdFUgBE_27nMdsPVxCreJ9n0pLxQ?e=16i45B)  
+- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EdW4MG4fMRZFtuoBaQlOyW0Bv3gGBsH-9aUTnfLxTnVoUA?e=UWE5n8](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EdW4MG4fMRZFtuoBaQlOyW0Bv3gGBsH-9aUTnfLxTnVoUA?e=UWE5n8)  
 
-Entrevistas Usuarios que Buscan Alquilar Vehículos:<br>
+**Entrevistas Propietarios de Vehículos Alternativos:**  
+- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1)  
+- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EZot7z-5ZzxJiBx9pe2-4YMBjAaj3e8lpuOhQ7c0G4UFRQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dWx1gU](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EZot7z-5ZzxJiBx9pe2-4YMBjAaj3e8lpuOhQ7c0G4UFRQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dWx1gU)  
+- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ES6SusUIAe1Evh6zgGRi5AoBH-SerCMW3tTJta2Bj9vpzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gWHAek](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ES6SusUIAe1Evh6zgGRi5AoBH-SerCMW3tTJta2Bj9vpzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gWHAek)  
 
-- https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EcCSsXuECudMq43U96doDSoBjlRz9pEakJAKjz9886APtQ?e=TCRqC8
-- https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EQAWSuW1CB9BhDIb-DEdFUgBE_27nMdsPVxCreJ9n0pLxQ?e=16i45B
-- https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EdW4MG4fMRZFtuoBaQlOyW0Bv3gGBsH-9aUTnfLxTnVoUA?e=UWE5n8 
+---
 
-Entrevistas Propetarios de vehiculos alternativos:<br>
-- https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1
-- https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EZot7z-5ZzxJiBx9pe2-4YMBjAaj3e8lpuOhQ7c0G4UFRQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dWx1gU
-- https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ES6SusUIAe1Evh6zgGRi5AoBH-SerCMW3tTJta2Bj9vpzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gWHAek
+**Anexo 2:**  
+**Presentación del Proyecto:**  
+[https://www.canva.com/design/DAGQDRydqY8/or-NGszjIWSFbZ9EE5PpSw/edit?utm_content=DAGQDRydqY8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGQDRydqY8/or-NGszjIWSFbZ9EE5PpSw/edit?utm_content=DAGQDRydqY8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
-**Anexo 2:**
-Presentación del Proyecto: https://www.canva.com/design/DAGQDRydqY8/or-NGszjIWSFbZ9EE5PpSw/edit?utm_content=DAGQDRydqY8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+---
 
-**Anexo 3:**
-Project Figma:
- https://www.figma.com/design/3wujndmKi1aJfHe56S9odg/app-web-project?node-id=0-1&node-type=CANVAS&t=fMYzVqO9YaR2ms7B-0
+**Anexo 3:**  
+**Project Figma:**  
+[https://www.figma.com/design/3wujndmKi1aJfHe56S9odg/app-web-project?node-id=0-1&node-type=CANVAS&t=fMYzVqO9YaR2ms7B-0](https://www.figma.com/design/3wujndmKi1aJfHe56S9odg/app-web-project?node-id=0-1&node-type=CANVAS&t=fMYzVqO9YaR2ms7B-0)  
 
-**Anexo 4:**
-Landing Page:<br> https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/
+---
 
-**Anexo 4:**
-Organizacion de Github:<br> https://github.com/upc-pre-202401-si730-ws51-RideLink
+**Anexo 4:**  
+**Landing Page:**  
+[https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/](https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/)  
+
+---
 
 **Anexo 5:**
-Enlace Video Expoción:<br>
-- **TB1 :** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EeG_pPT3GlxJt_jKB_kG9Y4BkdnjGMNVLbZ0cDoxEUc5YQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NQ0l1T](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EeG_pPT3GlxJt_jKB_kG9Y4BkdnjGMNVLbZ0cDoxEUc5YQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NQ0l1T)
+**Front-End:**
+[https://ridefind-frontend.web.app/](https://ridefind-frontend.web.app/)
 
+---
+
+**Anexo 6:**  
+**Organización de Github:**  
+[https://github.com/upc-pre-202401-si730-ws51-RideLink](https://github.com/upc-pre-202401-si730-ws51-RideLink)  
