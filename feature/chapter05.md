@@ -617,8 +617,6 @@ Enlace del despliegue del front-end en Firebase: https://ridefind-frontend.web.a
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
-#### 5.2.3.8. Team Collaboration insights during sprint.
-
 Durante el Sprint 3, el equipo continuó utilizando **WebStorm** para la programación del front-end, junto con **Git** para el control de versiones. Dado que en este sprint se integraron las funcionalidades de **Reserva de Vehículos y Gestión de Disponibilidad**, fue esencial coordinar la integración entre el backend y el front-end.
 
 Para facilitar esta colaboración, se emplearon herramientas como **Trello** para la gestión de tareas y **Slack** para la comunicación rápida entre los miembros del equipo. Esto permitió realizar revisiones y ajustes en tiempo real, asegurando que las nuevas funcionalidades funcionaran de manera eficiente y sin errores.
