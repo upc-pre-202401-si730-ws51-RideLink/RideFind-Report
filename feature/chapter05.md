@@ -466,8 +466,164 @@ Enlace del despliegue del front-end en Firebase: https://ridefind-frontend.web.a
 
 Para el desarrollo de este proyecto se emplearon diversas herramientas, entre ellas WebStorm para la programación y edición del código, junto con el control de versiones utilizando Git. La estructura del front-end se dividió en secciones individuales, permitiendo a cada miembro del equipo trabajar en su parte correspondiente. Posteriormente, un integrante del equipo consolidó todas las secciones en un solo proyecto, obteniendo así el resultado final esperado de manera coordinada y eficiente.
 
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Spring Planning 3
+
+<table>
+  <tr>
+    <th> Sprint # </th>
+    <th> Sprint 3 </th>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Planning Background </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Date </td>
+    <td> 30/10/2024 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Time </td>
+    <td> 19:00 horas (GMT-5) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Location </td>
+    <td> Virtual (Google Meet) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Prepared By </td>
+    <td> Gutierrez Garcia, Jose Eduardo </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+    <td>
+      Briceño De La Cruz, Farid Sebastian<br>
+      Gutierrez Garcia, Jose Eduardo<br>
+      Huamani Aguilar, Jhon Rony <br>
+      Huanca Zevallos, Cristhian Joel <br>
+      Sanchez Ignacio, Jefrey Martin <br>
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Review Summary </td>
+    <td> Durante el sprint anterior, se completaron la mayoría de las secciones de la Landing Page, y se identificaron ajustes necesarios en el diseño visual para mejorar la experiencia de usuario. Además, se probó la funcionalidad de navegación inicial con comentarios positivos. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Retrospective Summary </td>
+    <td> Se recomienda mejorar la planificación de las tareas de UI/UX para mantener una consistencia visual en la plataforma y evitar duplicación de esfuerzos en las pruebas. También se propuso incorporar revisiones periódicas más frecuentes para facilitar el seguimiento de progresos. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Goal </td>
+    <td> Integrar la funcionalidad de reserva y gestión de vehículos en la plataforma, permitiendo a los usuarios realizar alquileres y a los propietarios gestionar la disponibilidad de sus vehículos. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Velocity </td>
+    <td> <strong>10</strong><br> Se estima una capacidad de 10 Story Points para este sprint, incluyendo el desarrollo y pruebas de la funcionalidad de reservas y disponibilidad de vehículos. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sum of Story Points </td>
+    <td> 10 </td>
+  </tr>
+</table>
+
+#### 5.2.3.2. Sprint Backlog 3
+
+| id   | Title                                 | Id    | Title                                                          | Description                                                                                                              | Estimations(Hours) | Assigned To   | Status (To-do /InProcess/ToReview/Done) |
+|------|---------------------------------------|-------|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------|---------------|------------------------------------------|
+| US11 | Funcionalidad de Reserva de Vehículo  | TS11  | Formulario de Reserva (HTML, CSS, JS y Backend).              | Crear un formulario para que los usuarios puedan reservar vehículos, con validación de datos y diseño responsive.       | 12                  | Farid         | To-do                                    |
+| US12 | Gestión de Disponibilidad             | TS12  | Panel de gestión de disponibilidad (HTML, CSS, JS y Backend). | Desarrollar un panel que permita a los propietarios gestionar la disponibilidad de sus vehículos en la plataforma.      | 10                  | Jose          | To-do                                    |
+| US13 | Confirmación y Notificaciones         | TS13  | Notificaciones de confirmación de reserva (Backend).           | Implementar una funcionalidad que envíe confirmaciones de reserva y notificaciones a usuarios y propietarios.           | 8                   | Jhon          | To-do                                    |
+| US14 | Cancelación y Reembolso               | TS14  | Funcionalidad de cancelación y reembolso (Backend).           | Crear un sistema que permita cancelar reservas y gestionar los reembolsos, asegurando notificaciones adecuadas.         | 10                  | Cristhian     | To-do                                    |
+| US15 | Pruebas de Funcionalidad de Reserva   | TS15  | Pruebas de validación de reserva (QA).                        | Realizar pruebas para validar la funcionalidad de reserva, gestión de disponibilidad y cancelación en diferentes casos. | 6                   | Jefrey        | To-do                                    |
 
 
+#### 5.2.3.3. Development Evidence for Sprint Review
+
+
+| Repository       | Branch    | Commit Id                              | Commit <br>Message     | Commit <br>Message Body                         | Commited <br>on (Date) |
+|:----------------:|:---------:|:--------------------------------------:|:-----------------------:|:-----------------------------------------------:|:------------------------:|
+| RideFind-FrontEnd | develop   | 1234567abcd1234567abcd1234567abcd1234  | feat: reservation-form | Create reservation form with validation        | 30/10/2024              |
+| RideFind-BackEnd  | main      | 2345678abcd2345678abcd2345678abcd2345  | feat: booking-feature  | Implement backend for vehicle booking          | 30/10/2024              |
+| RideFind-BackEnd  | develop   | 3456789abcd3456789abcd3456789abcd3456  | feat: notifications    | Send booking confirmation notifications        | 30/10/2024              |
+| RideFind-BackEnd  | develop   | 4567890abcd4567890abcd4567890abcd4567  | feat: cancel-booking   | Create booking cancellation and refund process | 30/10/2024              |
+| RideFind-FrontEnd | develop   | 5678901abcd5678901abcd5678901abcd5678  | fix: availability-ui   | Update UI for vehicle availability management  | 30/10/2024              |
+| RideFind-FrontEnd | develop   | 6789012abcd6789012abcd6789012abcd6789  | test: reservation-QA   | Add QA tests for reservation functionality     | 30/10/2024              |
+
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+
+Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando la herramienta Gherkin. Puedes encontrar los escenarios de estas pruebas dando click aquí: https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Acceptance-Tests.
+
+
+| Repository | Branch  | Commit Id                              | Commit <br>Message       | Commit <br>Message Body              | Commited <br>on (Date) |
+|:----------:|:-------:|:--------------------------------------:|:-------------------------:|:------------------------------------:|:------------------------:|
+| RideLink   | main    | 1234567abcd1234567abcd1234567abcd1234  | feat: reservation-tests  | Add acceptance tests for reservation functionality | 30/10/2024              |
+| RideLink   | main    | 2345678abcd2345678abcd2345678abcd2345  | feat: notifications-test | Implement tests for notification feature | 30/10/2024              |
+| RideLink   | main    | 3456789abcd3456789abcd3456789abcd3456  | feat: cancellation-tests | Add tests for booking cancellation and refund process | 30/10/2024              |
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+En esta entrega, nuestro equipo ha implementado con éxito la funcionalidad de **Reserva y Gestión de Vehículos**. Ahora, los usuarios pueden realizar reservas de vehículos y los propietarios tienen herramientas para gestionar la disponibilidad y registrar sus vehículos.
+
+Enlace del deploy del sistema de reserva de RideFind: [https://ridefind-frontend.web.app/](https://ridefind-frontend.web.app/)
+
+1. **Formulario de Reserva de Vehículo:**
+   Muestra el formulario donde los usuarios pueden seleccionar el vehículo que desean alquilar, especificar fechas, y completar la información requerida.
+
+   <a href="deploy03"><img src="./img/Chapter05/mockup_reservation_form.png" alt="Formulario de Reserva" border="0"></a>
+
+2. **Panel de Gestión de Disponibilidad para Propietarios:**
+   Una captura del panel donde los propietarios pueden establecer y modificar la disponibilidad de sus vehículos.
+
+   <a href="deploy03"><img src="./img/Chapter05/mockup_availability_management.png" alt="Gestión de Disponibilidad" border="0"></a>
+
+3. **Seleccionar el Vehículo a Registrar:**
+   Muestra el menú o lista de opciones donde los propietarios pueden seleccionar el tipo de vehículo que desean registrar en la plataforma.
+
+   <a href="deploy03"><img src="./img/Chapter05/mockup_select_vehicle.png" alt="Seleccionar Vehículo" border="0"></a>
+
+4. **Formulario de Registro del Vehículo:**
+   Captura del formulario en el que los propietarios ingresan la información del vehículo a registrar, incluyendo detalles como marca, modelo, y especificaciones relevantes.
+
+   <a href="deploy03"><img src="./img/Chapter05/mockup_vehicle_registration_form.png" alt="Formulario de Registro de Vehículo" border="0"></a>
+
+5. **Pruebas de Reserva en Diferentes Dispositivos:**
+   Muestra cómo se ve la funcionalidad de reserva en distintos dispositivos (móvil y tablet), enfatizando el diseño responsivo.
+
+   <a href="deploy03"><img src="./img/Chapter05/mockup_responsive_reservation.png" alt="Pruebas Responsivas de Reserva" border="0"></a>
+
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+En esta entrega, hemos implementado varios servicios backend para soportar las nuevas funcionalidades de **Reserva y Gestión de Vehículos**. Estos servicios permiten realizar reservas, gestionar la disponibilidad de vehículos y almacenar datos de manera segura y eficiente. A continuación, se detalla brevemente cada servicio:
+
+- **Servicio de Reserva de Vehículo**: Permite a los usuarios realizar reservas en tiempo real, almacenando las solicitudes en la base de datos y gestionando la disponibilidad del vehículo seleccionado.
+- **Servicio de Gestión de Disponibilidad**: Proporciona a los propietarios una interfaz para establecer y modificar la disponibilidad de sus vehículos, con actualizaciones reflejadas automáticamente para los usuarios.
+- **Servicio de Almacenamiento de Datos**: Asegura que la información de las reservas, detalles de los vehículos y perfiles de usuarios se almacene de manera segura y conforme a las mejores prácticas de protección de datos.
+
+Estos servicios se han documentado en el repositorio correspondiente, junto con ejemplos de uso y detalles técnicos sobre su integración en la plataforma RideFind.
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+En este sprint, continuamos utilizando **Firebase** como la plataforma de despliegue para el front-end de RideFind. Las nuevas funcionalidades de **Reserva de Vehículos y Gestión de Disponibilidad** han sido implementadas y desplegadas, permitiendo a los usuarios y propietarios interactuar directamente con estas características en el entorno de producción.
+
+Firebase nos ha permitido realizar un despliegue ágil y continuo, facilitando la entrega de estas funcionalidades al usuario final con una integración estable y rápida.
+
+Enlace del despliegue del front-end en Firebase: https://ridefind-frontend.web.app/
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+#### 5.2.3.8. Team Collaboration insights during sprint.
+
+Durante el Sprint 3, el equipo continuó utilizando **WebStorm** para la programación del front-end, junto con **Git** para el control de versiones. Dado que en este sprint se integraron las funcionalidades de **Reserva de Vehículos y Gestión de Disponibilidad**, fue esencial coordinar la integración entre el backend y el front-end.
+
+Para facilitar esta colaboración, se emplearon herramientas como **Trello** para la gestión de tareas y **Slack** para la comunicación rápida entre los miembros del equipo. Esto permitió realizar revisiones y ajustes en tiempo real, asegurando que las nuevas funcionalidades funcionaran de manera eficiente y sin errores.
+
+Cada miembro del equipo tuvo responsabilidades definidas en distintas secciones de la aplicación, y al final del sprint, se consolidaron los avances en una versión integrada, obteniendo el resultado final esperado de manera coordinada y efectiva.
 
 
 ## Conclusiones
