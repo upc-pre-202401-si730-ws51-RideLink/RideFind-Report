@@ -461,7 +461,6 @@ Para este sprint, se utilizó Firebase como la plataforma de despliegue para el 
 Enlace del despliegue del front-end en Firebase: https://ridefind-frontend.web.app/myProfile.
 
 
-
 #### 5.2.2.8. Team Collaboration insights during sprint.
 
 Para el desarrollo de este proyecto se emplearon diversas herramientas, entre ellas WebStorm para la programación y edición del código, junto con el control de versiones utilizando Git. La estructura del front-end se dividió en secciones individuales, permitiendo a cada miembro del equipo trabajar en su parte correspondiente. Posteriormente, un integrante del equipo consolidó todas las secciones en un solo proyecto, obteniendo así el resultado final esperado de manera coordinada y eficiente.
@@ -479,7 +478,7 @@ Para el desarrollo de este proyecto se emplearon diversas herramientas, entre el
   </tr>
   <tr>
     <td style="font-weight: bold;"> Date </td>
-    <td> 30/10/2024 </td>
+    <td> 01/11/2024 </td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Time </td>
@@ -505,26 +504,26 @@ Para el desarrollo de este proyecto se emplearon diversas herramientas, entre el
   </tr>
   <tr>
     <td style="font-weight: bold;"> Sprint 3 Review Summary </td>
-    <td> Durante el sprint anterior, se completaron la mayoría de las secciones de la Landing Page, y se identificaron ajustes necesarios en el diseño visual para mejorar la experiencia de usuario. Además, se probó la funcionalidad de navegación inicial con comentarios positivos. </td>
+    <td> Durante este sprint, se completaron las actualizaciones en el backend para soportar la funcionalidad de reservas y la gestión de disponibilidad de vehículos. Además, se avanzó en la mejora de la Landing Page y la actualización del front-end para ofrecer una experiencia de usuario más intuitiva y consistente con los requisitos de usabilidad. Las pruebas iniciales mostraron comentarios positivos en la navegación y la facilidad de uso del sistema de reservas. </td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Sprint 3 Retrospective Summary </td>
-    <td> Se recomienda mejorar la planificación de las tareas de UI/UX para mantener una consistencia visual en la plataforma y evitar duplicación de esfuerzos en las pruebas. También se propuso incorporar revisiones periódicas más frecuentes para facilitar el seguimiento de progresos. </td>
+    <td>Se identificó la necesidad de optimizar la colaboración en las tareas del backend y el front-end para reducir el tiempo de integración. Se propuso mejorar la coordinación en las revisiones de código, con un enfoque específico en la consistencia del diseño y la optimización del flujo de trabajo para las pruebas de funcionalidades críticas. </td>
   </tr>
   <tr>
     <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Sprint 3 Goal </td>
-    <td> Integrar la funcionalidad de reserva y gestión de vehículos en la plataforma, permitiendo a los usuarios realizar alquileres y a los propietarios gestionar la disponibilidad de sus vehículos. </td>
+    <td> Completar la integración del sistema de reservas y gestión de disponibilidad en la plataforma, permitiendo a los usuarios realizar y gestionar alquileres de manera fluida y a los propietarios actualizar la disponibilidad de sus vehículos. </td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Sprint 3 Velocity </td>
-    <td> <strong>10</strong><br> Se estima una capacidad de 10 Story Points para este sprint, incluyendo el desarrollo y pruebas de la funcionalidad de reservas y disponibilidad de vehículos. </td>
+    <td> <strong>46</strong><br> Se estimó una capacidad de 46 Story Points para este sprint, abarcando el desarrollo, pruebas y despliegue de la funcionalidad de reservas, así como la actualización y validación de la Landing Page.</td>
   </tr>
   <tr>
     <td style="font-weight: bold;"> Sum of Story Points </td>
-    <td> 10 </td>
+    <td> 46 </td>
   </tr>
 </table>
 
@@ -532,11 +531,11 @@ Para el desarrollo de este proyecto se emplearon diversas herramientas, entre el
 
 | id   | Title                                 | Id    | Title                                                          | Description                                                                                                              | Estimations(Hours) | Assigned To   | Status (To-do /InProcess/ToReview/Done) |
 |------|---------------------------------------|-------|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------|---------------|------------------------------------------|
-| US11 | Funcionalidad de Reserva de Vehículo  | TS11  | Formulario de Reserva (HTML, CSS, JS y Backend).              | Crear un formulario para que los usuarios puedan reservar vehículos, con validación de datos y diseño responsive.       | 12                  | Farid         | To-do                                    |
-| US12 | Gestión de Disponibilidad             | TS12  | Panel de gestión de disponibilidad (HTML, CSS, JS y Backend). | Desarrollar un panel que permita a los propietarios gestionar la disponibilidad de sus vehículos en la plataforma.      | 10                  | Jose          | To-do                                    |
-| US13 | Confirmación y Notificaciones         | TS13  | Notificaciones de confirmación de reserva (Backend).           | Implementar una funcionalidad que envíe confirmaciones de reserva y notificaciones a usuarios y propietarios.           | 8                   | Jhon          | To-do                                    |
-| US14 | Cancelación y Reembolso               | TS14  | Funcionalidad de cancelación y reembolso (Backend).           | Crear un sistema que permita cancelar reservas y gestionar los reembolsos, asegurando notificaciones adecuadas.         | 10                  | Cristhian     | To-do                                    |
-| US15 | Pruebas de Funcionalidad de Reserva   | TS15  | Pruebas de validación de reserva (QA).                        | Realizar pruebas para validar la funcionalidad de reserva, gestión de disponibilidad y cancelación en diferentes casos. | 6                   | Jefrey        | To-do                                    |
+| US11 | Funcionalidad de Reserva de Vehículo  | TS11  | Formulario de Reserva (HTML, CSS, JS y Backend).              | Crear un formulario para que los usuarios puedan reservar vehículos, con validación de datos y diseño responsive.       | 12                  | Farid         | Done                                   |
+| US12 | Gestión de Disponibilidad             | TS12  | Panel de gestión de disponibilidad (HTML, CSS, JS y Backend). | Desarrollar un panel que permita a los propietarios gestionar la disponibilidad de sus vehículos en la plataforma.      | 10                  | Jose          | Done                                   |
+| US13 | Confirmación y Notificaciones         | TS13  | Notificaciones de confirmación de reserva (Backend).           | Implementar una funcionalidad que envíe confirmaciones de reserva y notificaciones a usuarios y propietarios.           | 8                   | Jhon          | Done                                   |
+| US14 | Cancelación y Reembolso               | TS14  | Funcionalidad de cancelación y reembolso (Backend).           | Crear un sistema que permita cancelar reservas y gestionar los reembolsos, asegurando notificaciones adecuadas.         | 10                  | Cristhian     | Done                                    |
+| US15 | Pruebas de Funcionalidad de Reserva   | TS15  | Pruebas de validación de reserva (QA).                        | Realizar pruebas para validar la funcionalidad de reserva, gestión de disponibilidad y cancelación en diferentes casos. | 6                   | Jefrey        | Done                                   |
 
 
 #### 5.2.3.3. Development Evidence for Sprint Review
@@ -544,13 +543,13 @@ Para el desarrollo de este proyecto se emplearon diversas herramientas, entre el
 
 | Repository       | Branch    | Commit Id                              | Commit <br>Message     | Commit <br>Message Body                         | Commited <br>on (Date) |
 |:----------------:|:---------:|:--------------------------------------:|:-----------------------:|:-----------------------------------------------:|:------------------------:|
-| RideFind-FrontEnd | develop   | 1234567abcd1234567abcd1234567abcd1234  | feat: reservation-form | Create reservation form with validation        | 30/10/2024              |
-| RideFind-BackEnd  | main      | 2345678abcd2345678abcd2345678abcd2345  | feat: booking-feature  | Implement backend for vehicle booking          | 30/10/2024              |
-| RideFind-BackEnd  | develop   | 3456789abcd3456789abcd3456789abcd3456  | feat: notifications    | Send booking confirmation notifications        | 30/10/2024              |
-| RideFind-BackEnd  | develop   | 4567890abcd4567890abcd4567890abcd4567  | feat: cancel-booking   | Create booking cancellation and refund process | 30/10/2024              |
-| RideFind-FrontEnd | develop   | 5678901abcd5678901abcd5678901abcd5678  | fix: availability-ui   | Update UI for vehicle availability management  | 30/10/2024              |
-| RideFind-FrontEnd | develop   | 6789012abcd6789012abcd6789012abcd6789  | test: reservation-QA   | Add QA tests for reservation functionality     | 30/10/2024              |
-
+| RideFind-BackEnd | develop   | 3e91732  | feat(shared): add initial backend structure and shared module |   | 03/11/2024              |
+| RideFind-BackEnd | feat/vehicle   | bb1ee8c  | feat(vehicle): add complete vehicle bounded context |   | 03/11/2024              |
+| RideFind-BackEnd | feat/userProfile  | 465f39  | feat(userProfile): add complete userProfile bounded context |   | 03/11/2024              |
+| RideFind-BackEnd | feat/order   | 0fc4ed2  | feat(order): add complete order bounded context |   | 03/11/2024              |
+| RideFind-BackEnd | feat/azure-settings  | bdd0a69 | feat(deploy): add deployment configuration files |   | 03/11/2024              |
+| RideFind-BackEnd | develop | 483edfd  | merge(azure-settings): integrate Azure deployment settings into develop |   | 03/11/2024              |
+| RideFind-BackEnd | main  | 9b4d0bd  | merge(azure-settings): merge Azure deployment settings from develop to main |   | 03/11/2024              |
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
@@ -567,62 +566,405 @@ Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando 
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
-En esta entrega, nuestro equipo ha implementado con éxito la funcionalidad de **Reserva y Gestión de Vehículos**. Ahora, los usuarios pueden realizar reservas de vehículos y los propietarios tienen herramientas para gestionar la disponibilidad y registrar sus vehículos.
+En este sprint, el equipo de RideFind completó exitosamente la creación y el deployment del BackEnd API en Azure Web Services, utilizando mySQL for Azure como base de datos. Esta infraestructura garantiza un entorno escalable y seguro para el almacenamiento y gestión de datos de usuarios, clientes y mascotas, cumpliendo con los estándares de rendimiento y seguridad necesarios para la aplicación.
 
-Enlace del deploy del sistema de reserva de RideFind: [https://ridefind-frontend.web.app/](https://ridefind-frontend.web.app/)
+Además, se desplegó una nueva versión de la landing page y del frontend de la aplicación, lo cual mejora la experiencia de usuario y proporciona acceso a funcionalidades clave implementadas en este sprint, como la creación y gestión de perfiles de usuario y mascota. Esta actualización también incluye videos informativos sobre el producto y el equipo, que proporcionan una visión general de los servicios de RideFind.
 
-1. **Formulario de Reserva de Vehículo:**
-   Muestra el formulario donde los usuarios pueden seleccionar el vehículo que desean alquilar, especificar fechas, y completar la información requerida.
+La API del backend se documenta mediante Swagger, facilitando el acceso a todos los endpoints para el equipo de desarrollo y futuros colaboradores.
 
-   <a href="deploy03"><img src="./img/Chapter05/mockup_reservation_form.png" alt="Formulario de Reserva" border="0"></a>
+Enlace a la documentación de la API en Swagger:
 
-2. **Panel de Gestión de Disponibilidad para Propietarios:**
-   Una captura del panel donde los propietarios pueden establecer y modificar la disponibilidad de sus vehículos.
+Enlace del deployment del BackEnd: [https://ridefind-habtgfbff5fqddgw.eastus2-01.azurewebsites.net/index.html](https://ridefind-habtgfbff5fqddgw.eastus2-01.azurewebsites.net/index.html)
 
-   <a href="deploy03"><img src="./img/Chapter05/mockup_availability_management.png" alt="Gestión de Disponibilidad" border="0"></a>
+Enlace del deployment del FrontEnd: [https://ridefind-frontend.web.app/](https://ridefind-frontend.web.app/)
 
-3. **Seleccionar el Vehículo a Registrar:**
-   Muestra el menú o lista de opciones donde los propietarios pueden seleccionar el tipo de vehículo que desean registrar en la plataforma.
+Enlace del deployment de la Landing Page: [https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/](https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/)
 
-   <a href="deploy03"><img src="./img/Chapter05/mockup_select_vehicle.png" alt="Seleccionar Vehículo" border="0"></a>
+Este despliegue asegura una base sólida para el funcionamiento de  RideFind, dejando el backend, el frontend y la landing page listos para futuras integraciones y escalabilidad conforme crezcan las necesidades del proyecto.
 
-4. **Formulario de Registro del Vehículo:**
-   Captura del formulario en el que los propietarios ingresan la información del vehículo a registrar, incluyendo detalles como marca, modelo, y especificaciones relevantes.
 
-   <a href="deploy03"><img src="./img/Chapter05/mockup_vehicle_registration_form.png" alt="Formulario de Registro de Vehículo" border="0"></a>
+**Swagger UI**
 
-5. **Pruebas de Reserva en Diferentes Dispositivos:**
-   Muestra cómo se ve la funcionalidad de reserva en distintos dispositivos (móvil y tablet), enfatizando el diseño responsivo.
+<img src="./img/Chapter05/swagger.png">
 
-   <a href="deploy03"><img src="./img/Chapter05/mockup_responsive_reservation.png" alt="Pruebas Responsivas de Reserva" border="0"></a>
+**Seccion video about the team en landing page**
+
+<img src="./img/Chapter05/landingvideo1.png">
+
+**Seccion video about the product en landing page**
+
+<img src="./img/Chapter05/landingvideo2.png">
 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-En esta entrega, hemos implementado varios servicios backend para soportar las nuevas funcionalidades de **Reserva y Gestión de Vehículos**. Estos servicios permiten realizar reservas, gestionar la disponibilidad de vehículos y almacenar datos de manera segura y eficiente. A continuación, se detalla brevemente cada servicio:
+En el alcance del Sprint 3 de RideFind, se priorizó el desarrollo y despliegue del BackEnd API en Azure Web Services, junto con la implementación de las funcionalidades de reserva y gestión de disponibilidad para los vehículos. Para garantizar una integración efectiva y un uso accesible de los servicios, se ha documentado detalladamente el backend utilizando Swagger. Esto facilita que tanto desarrolladores como colaboradores accedan a la API y entiendan los endpoints disponibles.
 
-- **Servicio de Reserva de Vehículo**: Permite a los usuarios realizar reservas en tiempo real, almacenando las solicitudes en la base de datos y gestionando la disponibilidad del vehículo seleccionado.
-- **Servicio de Gestión de Disponibilidad**: Proporciona a los propietarios una interfaz para establecer y modificar la disponibilidad de sus vehículos, con actualizaciones reflejadas automáticamente para los usuarios.
-- **Servicio de Almacenamiento de Datos**: Asegura que la información de las reservas, detalles de los vehículos y perfiles de usuarios se almacene de manera segura y conforme a las mejores prácticas de protección de datos.
+La documentación incluye:
 
-Estos servicios se han documentado en el repositorio correspondiente, junto con ejemplos de uso y detalles técnicos sobre su integración en la plataforma RideFind.
+- Descripción de los endpoints para la funcionalidad de reservas y gestión de disponibilidad de vehículos.
+- Detalles sobre las operaciones permitidas, incluyendo la creación, actualización y eliminación de reservas.
+- Ejemplos de solicitudes y respuestas para cada endpoint, lo cual simplifica la integración y asegura un flujo adecuado entre el frontend y el backend.
+- Información sobre los mensajes de error y validaciones para cada operación.
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-En este sprint, continuamos utilizando **Firebase** como la plataforma de despliegue para el front-end de RideFind. Las nuevas funcionalidades de **Reserva de Vehículos y Gestión de Disponibilidad** han sido implementadas y desplegadas, permitiendo a los usuarios y propietarios interactuar directamente con estas características en el entorno de producción.
+Durante este sprint, se ha completado el desarrollo del backend de la aplicación web, así como la actualización del frontend. Para el despliegue, se utilizaron las siguientes herramientas y servicios:
 
-Firebase nos ha permitido realizar un despliegue ágil y continuo, facilitando la entrega de estas funcionalidades al usuario final con una integración estable y rápida.
+- **Git:** Sistema de control de versiones utilizado para facilitar la colaboración entre los miembros del equipo y monitorear las versiones de la aplicación web en un repositorio remoto.
 
-Enlace del despliegue del front-end en Firebase: https://ridefind-frontend.web.app/
+- **GitFlow:** Este flujo de trabajo colaborativo nos permitió gestionar las ramas del repositorio de manera efectiva, asegurando que el desarrollo de nuevas funcionalidades se hiciera en ramas separadas y facilitando la integración al proyecto principal.
+
+- **GitHub Desktop:** Herramienta de interfaz gráfica que utilizamos para interactuar con nuestro repositorio de GitHub de manera intuitiva, simplificando la gestión de commits, ramas y pull requests.
+
+- **GitHub:** Plataforma de desarrollo colaborativo que nos proporcionó el repositorio donde almacenamos y gestionamos el código fuente de nuestro proyecto, facilitando el seguimiento de cambios y la colaboración.
+
+- **Azure Web Services:** Servicio en la nube utilizado para desplegar el backend de nuestra aplicación. Esto nos permitió implementar una infraestructura escalable y segura para la API de RideFind.
+
+- **MySQL for Azure:** Servicio de base de datos en la nube que utilizamos para almacenar y gestionar los datos de la aplicación. Esta solución proporcionó un entorno robusto para nuestras operaciones de backend.
+
+Enlace del deployment del BackEnd: [https://ridefind-habtgfbff5fqddgw.eastus2-01.azurewebsites.net/index.html](https://ridefind-habtgfbff5fqddgw.eastus2-01.azurewebsites.net/index.html)
+
+Enlace del deployment del FrontEnd: [https://ridefind-frontend.web.app/](https://ridefind-frontend.web.app/)
+
+Enlace del deployment de la Landing Page: [https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/](https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/)
+
+
+Este enfoque integral asegura que tanto el frontend como el backend de la aplicación estén correctamente implementados y funcionales, permitiendo a los usuarios finales una experiencia óptima al interactuar con RideFind.
+
+
+<img src="./img/Chapter05/sprint3.png">
+
+<img src="./img/Chapter05/deploybackend.png">
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
-Durante el Sprint 3, el equipo continuó utilizando **WebStorm** para la programación del front-end, junto con **Git** para el control de versiones. Dado que en este sprint se integraron las funcionalidades de **Reserva de Vehículos y Gestión de Disponibilidad**, fue esencial coordinar la integración entre el backend y el front-end.
+Durante el Sprint 3, el equipo se centró en el desarrollo y despliegue del backend en Azure Web Services para la plataforma RideFind, trabajando en las funcionalidades de Reserva de Vehículos y Gestión de Disponibilidad. Para la programación y gestión del backend, se utilizó Visual Studio Code y Git para el control de versiones, permitiendo un flujo de trabajo eficiente en las distintas fases de desarrollo.
 
-Para facilitar esta colaboración, se emplearon herramientas como **Trello** para la gestión de tareas y **Slack** para la comunicación rápida entre los miembros del equipo. Esto permitió realizar revisiones y ajustes en tiempo real, asegurando que las nuevas funcionalidades funcionaran de manera eficiente y sin errores.
+Para coordinar las tareas del equipo y realizar un seguimiento de los avances, se emplearon herramientas como Trello para la gestión de tareas y Slack para una comunicación ágil. Esto facilitó la colaboración en tiempo real y permitió realizar revisiones constantes para asegurar que las nuevas funcionalidades fueran desarrolladas de acuerdo con los requisitos.
 
-Cada miembro del equipo tuvo responsabilidades definidas en distintas secciones de la aplicación, y al final del sprint, se consolidaron los avances en una versión integrada, obteniendo el resultado final esperado de manera coordinada y efectiva.
+Cada miembro del equipo se encargó de tareas específicas en el backend, y al finalizar el sprint, se consolidaron los avances en una versión integrada. Gracias a esta colaboración efectiva y al uso adecuado de las herramientas, se lograron los objetivos de Sprint 3, sentando las bases para próximas integraciones con el frontend.
 
+| Username (GitHub) | Nombre                         |
+| ----------------- | ------------------------------ |
+| InjustShin        | Farid Sebastian Briceño De La Cruz     |
+| elcrackje         | Gutierrez Garcia, Jose Eduardo         |
+| JhonHuam          | Huamani Aguilar, Jhon Rony            |
+| JoelHuanca        | Huanca Zevallos, Cristhian Joel        |
+| Jefrey            | Sanchez Ignacio, Jefrey Martin         | 
+
+
+A continuación se mostrarán los gráficos de insights durante el sprint:
+
+Anexo: Flujo de trabajo entre las ramas.
+
+<img src="./img/Chapter05/gitflow3.png">
+
+Anexo: Tablas de commits en el periodo de 1 mes.
+
+<img src="./img/Chapter05/commit3.png">
+
+## 5.3. Validation Interviews
+La etapa de Validación de Entrevistas tiene como objetivo recolectar comentarios y observaciones directas de los usuarios para evaluar cómo perciben el diseño, la facilidad de uso y las funciones de la plataforma RideFind. Mediante estas entrevistas, buscamos confirmar que la experiencia de la plataforma está bien alineada con las necesidades de los distintos tipos de usuarios. Así, esta fase es clave para asegurar que RideFind sea intuitiva y cumpla con los objetivos de satisfacer a sus usuarios.
+
+### 5.3.1. Diseño de entrevistas
+En esta sección de Diseño de Entrevistas, se detalla la estructura y las preguntas que se usarán para recopilar información de los usuarios de RideFind. El diseño de las entrevistas incluye preguntas generales para todos los participantes, así como preguntas específicas que se adaptan a los diferentes grupos de usuarios: aquellos que buscan opciones de movilidad sostenible y los conductores que alquilan sus vehículos. Estas preguntas permiten explorar distintas áreas de la experiencia de usuario, como la facilidad de navegación y la satisfacción general, para entender cómo RideFind cumple con lo que cada segmento espera.
+
+#### Preguntas generales:
+- ¿Cuál es tu nombre?
+- ¿Qué edad tienes?
+- ¿Dónde vives actualmente?
+- ¿A qué te dedicas?
+
+#### Segmento 1: Usuarios que buscan opciones de movilidad sostenible
+
+**Intereses y motivaciones**
+- ¿Qué es lo que más valoras al buscar opciones de movilidad?
+- ¿Qué te motivaría a elegir una opción de movilidad sostenible como RideFind sobre otras alternativas?
+
+**Proceso de búsqueda y reserva**
+- ¿Cómo describirías la facilidad para encontrar y reservar un vehículo en la plataforma?
+- ¿La información sobre el vehículo (precio, características, disponibilidad) fue suficiente y clara?
+- ¿Te sentiste seguro al confirmar tu reserva?
+
+**Preferencias y necesidades adicionales**
+- ¿Qué otras funciones o filtros te gustaría tener al buscar un vehículo?
+- ¿Consideras que el proceso de pago es cómodo y seguro? ¿Qué mejoras propondrías?
+- ¿Qué tipo de información adicional sobre los vehículos te gustaría ver?
+
+**Retroalimentación específica sobre la sostenibilidad**
+- ¿Qué tan importante es para ti ver información sobre el impacto ambiental de cada vehículo?
+- ¿Te gustaría tener opciones para seleccionar vehículos según su nivel de sostenibilidad?
+
+#### Segmento 2: Conductores interesados en alquilar sus vehículos
+
+**Facilidad de registro y publicación**
+- ¿Qué tan sencillo te pareció el proceso de registro y la creación de tu perfil como conductor?
+- ¿La información solicitada para publicar un vehículo fue clara y completa?
+
+**Gestión de reservas y comunicación con usuarios**
+- ¿Te pareció fácil administrar las reservas y la disponibilidad de tu vehículo?
+- ¿Tuviste problemas para comunicarte con los usuarios interesados? ¿Qué mejorarías en esta área?
+
+**Seguridad y confianza en el sistema**
+- ¿Sientes que la plataforma ofrece un nivel adecuado de seguridad para ti y tu vehículo?
+- ¿Consideras que la plataforma te brinda suficientes garantías para proteger tu propiedad?
+
+**Sugerencias de mejora**
+- ¿Qué funcionalidades adicionales crees que ayudarían a mejorar la experiencia de los conductores?
+- ¿Te gustaría tener herramientas para gestionar pagos y reportes directamente desde la plataforma?
+
+### 5.3.2. Registro de Entrevistas
+En el Registro de Entrevistas, se documenta todo lo que dijeron los entrevistados y se organiza para poder analizar sus respuestas. Aquí se incluye información básica de cada participante, un resumen de sus respuestas y enlaces a los videos de las entrevistas. Este registro es muy útil para entender mejor lo que opinan los usuarios y, además, sirve de base para hacer mejoras en RideFind, adaptando la plataforma a lo que realmente necesitan y valoran.
+
+#### Segmento 1: Usuarios que buscan opciones de movilidad sostenible
+
+**Entrevista 1:**
+- **Nombre:** Sabiel Del Piero
+- **Apellidos:** Surichaqui Vasquez
+- **Edad:** 20 años
+- **Lugar de residencia:** San Martin de Porres
+- **Entrevistador:** Jefrey Sanchez
+- **Evidencia de entrevista**
+  - **Imagen de entrevista:** 
+
+  ![Entrevista](img/Chapter05/entrevista-sabiel.png)
+  - **Enlace de entrevista:** [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/Ec1pMkKn51FHtGMaZSPEyXQBB5RzfwOrMp4OzekVHeg75A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aiJn1l)
+  - **Inicio:** 00:10
+  - **Fin:** 07:00
+
+ **Resumen de entrevista:**
+
+En la entrevista, se evaluó la experiencia de un usuario con la plataforma *RideFind*, la cual conecta a usuarios con opciones de movilidad sostenible como vehículos eléctricos, bicicletas, y scooters. El usuario, un estudiante de ingeniería, destacó que valora precios accesibles y la variedad de vehículos disponibles en la plataforma, lo que le permite elegir según sus necesidades.
+
+El usuario consideró que la plataforma es fácil de usar, clara y agradable, especialmente en el proceso de búsqueda y reserva de vehículos. Sin embargo, sugirió algunas mejoras, como incluir más detalles técnicos sobre los vehículos, como el kilometraje máximo, el estado del odómetro y la cantidad de veces que el vehículo ha sido reservado, para asegurar la confiabilidad de la información.
+
+También propuso la implementación de un sistema de filtrado más robusto para facilitar la búsqueda específica de ciertos tipos de vehículos, como scooters. Aunque consideró poco importante la información sobre el impacto ambiental, sugirió que podría ser útil mostrar mensajes ecológicos para concienciar a los usuarios, aunque él personalmente no le daría mucha importancia.
+
+Finalmente, el usuario señaló que sería útil tener información sobre el rendimiento de los vehículos eléctricos, como la autonomía según el tiempo de carga, para planificar mejor los desplazamientos y evitar quedar varado.
+
+
+
+**Entrevista 2:**
+- **Nombre:** Harold Jaime
+- **Apellidos:** Mayta Lopez
+- **Edad:** 20 años
+- **Lugar de residencia:** San Isidro 
+- **Entrevistador:** Jefrey Sanchez
+- **Evidencia de entrevista**
+  - **Imagen de entrevista:** 
+
+  ![Entrevista](img/Chapter05/entrevista-harold.png)
+  - **Enlace de entrevista:** [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EbaDZuYoyhBAtPkZafZxn1cBVhznDsq7rEP8RzJTWkRFhQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dmuiIf)
+
+  - **Inicio:** 01:00
+  - **Fin:** 10:00
+ 
+### Resumen de la entrevista
+
+En la entrevista, se evaluó la experiencia de un usuario con la plataforma *RideFind*, enfocada en opciones de movilidad sostenible como vehículos eléctricos, scooters, y bicicletas. El usuario, un estudiante de ingeniería y técnico de mantenimiento, mencionó que valora principalmente el precio y la contribución a la reducción de emisiones como factores esenciales al elegir un medio de transporte.
+
+El usuario consideró que la plataforma cumple su función de contactar con los propietarios de los vehículos, pero señaló que el diseño es poco amigable y necesita mejoras, como una barra de herramientas (toolbar) más eficiente y un diseño más atractivo. También sugirió la implementación de un sistema de filtrado más robusto para facilitar la búsqueda, permitiendo filtrar por tipo de vehículo, precio y si el vehículo es eléctrico o no.
+
+En cuanto a la información proporcionada sobre los vehículos, el usuario comentó que es adecuada, pero destacó la necesidad de mostrar el precio de manera más clara y detallada. También mencionó la importancia de incluir mensajes que motiven a los usuarios a continuar eligiendo opciones sostenibles, como destacar la reducción de emisiones de CO2 de forma estándar.
+
+Finalmente, propuso la idea de seleccionar vehículos según su nivel de sostenibilidad y dio recomendaciones técnicas, como mejorar el manejo de rutas en la aplicación utilizando `routing` para optimizar la experiencia de usuario.
+
+
+
+**Entrevista 3:**
+- **Nombre:** Damaris Consuelos
+- **Apellidos:** Mejia Calderón
+- **Edad:** 18 años
+- **Lugar de residencia:** Callao 
+- **Entrevistador:** Jefrey Sanchez
+- **Evidencia de entrevista**
+  - **Imagen de entrevista:** 
+  ![Entrevista](img/Chapter05/entrevista-damaris.png)
+  - **Enlace de entrevista:** [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EQGv0dWAFdhAh_rdB70r1uUBmWI27GwzT0mb8W8Eh7ikBw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ctb4pJ)
+  
+  - **Inicio:** 00:24
+  - **Fin:** 05:00
+  - **Resumen de entrevista:** 
+
+Se entrevistó a **Damaris**, quien participó en una sesión para evaluar la plataforma *RideFind*, que ofrece opciones de movilidad sostenible mediante el alquiler de vehículos eléctricos. Durante la entrevista, Damaris proporcionó observaciones y sugerencias basadas en su experiencia con el prototipo de la aplicación.
+
+En términos de **diseño**, Damaris valoró que la plataforma sea visualmente adecuada, pero sugirió que el color azul puede no ser atractivo para todos los usuarios. Aunque no le pareció necesario cambiarlo, mencionó que algunas personas podrían preferir otros tonos. Propuso agregar detalles adicionales sobre los vehículos, como el kilometraje recorrido y la velocidad máxima, para que los usuarios puedan evaluar mejor el estado y las capacidades de los vehículos.
+
+Sobre la **usabilidad**, Damaris consideró que la plataforma es intuitiva y fácil de navegar. No encontró dificultades al buscar y reservar un vehículo, y apreció la claridad de la información proporcionada. Sin embargo, sugirió incluir un sistema de incentivos, como descuentos o promociones, para motivar a los usuarios recurrentes. También destacó la importancia de tener opciones para seleccionar vehículos según su autonomía.
+
+Finalmente, mencionó que una **versión móvil** sería muy útil, ya que los usuarios prefieren gestionar estas reservas desde sus teléfonos en lugar de computadoras. Damaris afirmó que recomendaría *Redfine* a otros usuarios, pero cree que estas mejoras podrían optimizar aún más la experiencia.
+
+**Conclusión**:  
+Damaris considera que *RideFind* es una plataforma bien implementada y fácil de usar. Propone incluir más detalles técnicos sobre los vehículos, un sistema de incentivos, y la opción de seleccionar según la autonomía. Estas mejoras, junto con una versión móvil, contribuirían a hacer la aplicación más atractiva y eficiente.
+
+
+#### Segmento 2: Conductores interesados en alquilar sus vehículos
+
+**Entrevista 1:**
+- **Nombre:** Antony
+- **Apellidos:** Quito
+- **Edad:** 24
+- **Lugar de residencia:** Lima
+- **Entrevistador:** Huanca Zevallos, Cristhian Joel
+- **Evidencia de entrevista**
+  - **Imagen de entrevista:** 
+  ![EntrevistaAntony](img/Chapter05/entrevistaAntony5.3.png)
+  - **Enlace de entrevista:** 
+  [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EYedwLZpMOJDvxzlF8-hvvcBSiub07St99Wtk6B9qQZ2IA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=02yujQ)  
+  - **Inicio:** 00:02
+  - **Fin:** 04:00
+  - **Resumen de entrevista:**  
+    Se entrevistó a Steven Quito, un joven de 24 años que vive en Lima. Actualmente es estudiante y usa una bicicleta eléctrica para desplazarse a su trabajo todos los días. Según nos cuenta, el proceso de registro en la plataforma le resultó sencillo y rápido, aunque sugiere que podría incluirse un espacio para agregar detalles específicos sobre el estado del vehículo, lo cual considera útil para los usuarios. Respecto a la administración de reservas, le pareció accesible, pero cree que sería ideal contar con un sistema de notificaciones automáticas que le avise cuando alguien reserve su scooter. En cuanto a la comunicación con los usuarios, mencionó que le gustaría tener una opción de mensajería directa para resolver dudas antes de que se confirme una reserva. Sobre la seguridad, Steven comenta que la plataforma es adecuada, aunque vería con buenos ojos un seguro más detallado que le ofrezca mayor tranquilidad ante posibles daños. Finalmente, resalta la necesidad de herramientas de gestión financiera que le permitan monitorear sus ganancias mensuales y ajustar los precios de su vehículo según la demanda.
+
+**Entrevista 2:**
+- **Nombre:** Kevin
+- **Apellidos:** Idrogo
+- **Edad:** 20
+- **Lugar de residencia:** Lima
+- **Entrevistador:** Huanca Zevallos, Cristhian Joel
+- **Evidencia de entrevista**
+  - **Imagen de entrevista:** 
+  ![EntrevistaKevin](img/Chapter05/entrevistaKevin5.3.png)
+  - **Enlace de entrevista:** 
+  [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EVovaFoswaVDj7WbTx2lgfQBlU2EoMCYeTZwXbFjjRfBpA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ngg8ML)
+  - **Inicio:** 00:02
+  - **Fin:** 02:24
+  - **Resumen de entrevista:**  
+    Se entrevistó a Kelvin Idrogo, un joven de 20 años que vive en Lima. Kelvin es emprendedor y utiliza una moto eléctrica para asistir a sus reuniones de trabajo. Al registrarse en la plataforma, comenta que el proceso le pareció fácil y directo, aunque sugiere que podría ser aún mejor si incluyera recomendaciones para establecer precios competitivos. En cuanto a la administración de reservas, Kelvin propone implementar un calendario visual que le permita gestionar la disponibilidad de su moto de forma más intuitiva. Además, considera útil una función de chat en la plataforma para facilitar la comunicación y aclarar dudas con los usuarios antes de concretar la reserva. Sobre la seguridad, Kelvin sugiere que el sistema ofrezca un seguro detallado que cubra daños menores, además de una política clara para este tipo de situaciones. Por último, ve necesario contar con un sistema de reportes financieros para poder llevar un registro claro de sus ingresos mensuales y el rendimiento de su moto.
+
+**Entrevista 3:**
+- **Nombre:** Juan
+- **Apellidos:** Diaz
+- **Edad:** 25
+- **Lugar de residencia:** Lima
+- **Entrevistador:** Huanca Zevallos, Cristhian Joel
+- **Evidencia de entrevista**
+  - **Imagen de entrevista:** 
+  ![EntrevistaJuan](img/Chapter05/entrevistaSebastian.3.png)
+  - **Enlace de entrevista:** 
+  [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EQASYtkRwA9Lm3OHG9E0sNYBbmpsEsHuQyOlPKGi2s4GAg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SjbOdF)
+  - **Inicio:** 00:02
+  - **Fin:** 02:25
+  - **Resumen de entrevista:**  
+    Juan Sebastián Díaz, un empresario de 25 años residente en Lima y propietario de una tienda de alquiler de vehículos eléctricos, también compartió sus impresiones sobre la plataforma. Considera que el proceso de registro es sencillo, pero cree que sería útil poder publicar varios vehículos a la vez, lo cual ahorraría tiempo. Para mejorar la gestión de reservas, sugiere un sistema de notificaciones y alertas más visibles que le permita controlar las solicitudes con mayor facilidad. En cuanto a la comunicación con los usuarios, opina que un sistema de mensajería dentro de la plataforma ayudaría a resolver preguntas antes de confirmar las reservas. Sobre la seguridad, menciona que sería ideal contar con una descripción más clara de la cobertura del seguro, además de un proceso de verificación de usuarios para mayor tranquilidad. Finalmente, considera esencial la inclusión de un sistema de reportes financieros semanales o mensuales que le permita monitorear las ganancias de su flota y mejorar su gestión económica.
+
+
+### 5.3.3. Evaluaciones según heurísticas
+La sección de Evaluaciones según Heurísticas se enfoca en revisar la experiencia de usuario de RideFind usando principios de usabilidad, para ver si la plataforma es clara, fácil de usar y consistente. Analizar estos aspectos, como la visibilidad de las opciones o la coherencia en el diseño, nos ayuda a encontrar posibles problemas y a proponer mejoras. El objetivo de esta evaluación es que la plataforma ofrezca una experiencia de calidad que los usuarios disfruten y encuentren práctica.
+
+**Carrera:** Ingeniería de Software  
+**Curso:** WS51  
+**Profesor:** Hugo Allan Mori Paiva  
+**Auditor:** Grupo 3  
+**Cliente:** Grupo 3  
+**SITE o APP a evaluar:** RiderFind
+
+**Tareas a evaluar:** 
+- Web Application
+- Registro y publicación de vehículo
+- Administración de disponibilidad de vehículo
+- Comunicación con usuarios interesados
+- Configuración de alertas y notificaciones
+- Gestión de reportes financieros
+
+#### Escala de severidad
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción                                                                                         |
+|-------|-----------------------------------------------------------------------------------------------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con poca frecuencia. No necesita ser arreglado salvo que haya tiempo. |
+| 2     | Problema menor: ocurre con más frecuencia o es un poco más difícil de superar para el usuario. Debería solucionarse con prioridad baja para el siguiente lanzamiento. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no pueden resolverlo. Es importante corregirlo y debe tener prioridad alta. |
+| 4     | Problema muy grave: un error crítico que impide al usuario continuar usando la herramienta. Debe corregirse antes del lanzamiento. |
+
+#### Tabla de resumen
+
+| Numero | Problema                                                       | Escala de severidad | Heurística/Principio violada(o)                  |
+|--------|----------------------------------------------------------------|---------------------|-------------------------------------------------|
+| 1      | No se incluyen detalles del estado del vehículo en la publicación. | 2                   | Visibilidad del estado del sistema               |
+| 2      | No hay alertas automáticos para notificar la reserva del vehículo. | 3                   | Libertad y control del usuario                  |
+| 3      | Falta de opción de comunicación directa con usuarios dentro de la plataforma. | 2                   | Flexibilidad y eficiencia                        |
+| 4      | No hay una política clara sobre la cobertura de seguros en caso de daños menores. | 4                   | Seguridad y prevención de errores                |
+| 5      | No hay visualización ni reporte automático de ganancias y alquileres de vehículos. | 3                   | Arquitectura de información                      |
+
+#### Descripción de problemas
+
+**PROBLEMA #1:** No se incluyen detalles del estado del vehículo en la publicación.  
+- **Severidad:** 2  
+- **Heurística violada:** Visibilidad del estado del sistema  
+- **Descripción:** La información básica del vehículo está disponible, pero se carece de un espacio para especificar el estado o detalles específicos del vehículo, lo que podría ser valioso para los usuarios interesados en alquilarlo.  
+- **Recomendación:** Añadir una sección específica en la publicación donde los propietarios puedan describir el estado y características del vehículo.
+
+**PROBLEMA #2:** No hay alertas automáticos para notificar la reserva del vehículo. 
+- **Severidad:** 3  
+- **Heurística violada:** Libertad y control del usuario
+- **Descripción:** El sistema no envía alertas automáticas cuando un vehículo ha sido reservado, lo que impide que los propietarios gestionan adecuadamente las reservas.
+- **Recomendación:** Implementar notificaciones automáticas que informen a los propietarios sobre cada reserva o cambio en la disponibilidad de sus vehículos.
+
+**PROBLEMA #3:** Falta de opción de comunicación directa con usuarios dentro de la plataforma. 
+- **Severidad:** 2  
+- **Heurística violada:** Flexibilidad y eficiencia
+- **Descripción:** Los propietarios no tienen una opción de chat directo con los usuarios interesados, lo cual puede dificultar aclarar dudas previas a la reserva.
+- **Recomendación:** Agregar un sistema de mensajería interna que facilite la comunicación entre propietarios y usuarios antes de confirmar las reservas.
+
+**PROBLEMA #4:** No hay una política clara sobre la cobertura de seguros en caso de daños menores.
+- **Severidad:** 4  
+- **Heurística violada:** Seguridad y prevención de errores
+- **Descripción:** La falta de claridad en la cobertura de seguros para daños menores genera inseguridad en los propietarios sobre la protección de sus vehículos.
+- **Recomendación:** Establecer una política detallada que especifique la cobertura del seguro para daños menores y otras eventualidades para ofrecer mayor confianza a los usuarios.
+
+**PROBLEMA #5:** No hay visualización ni reporte automático de ganancias y alquileres de vehículos.
+- **Severidad:** 3  
+- **Heurística violada:** Arquitectura de información 
+- **Descripción:** Los propietarios no cuentan con una herramienta de reporte donde puedan visualizar el ingreso generado por los alquileres mensualmente.
+- **Recomendación:** Incorporar un sistema de reportes financieros que permita a los propietarios ver un resumen de sus ingresos y el rendimiento de cada vehículo por periodo.
+
+**PROBLEMA #6:** Diseño poco amigable y estético.
+- **Severidad:** 3  
+- **Heurística violada:** Estética y diseño minimalista  
+- **Descripción:** El diseño actual de la plataforma no es visualmente atractivo ni intuitivo, lo que afecta la experiencia de usuario. Falta un diseño más organizado, con una barra de herramientas eficiente y mejor manejo de vistas.
+- **Recomendación:** Mejorar el diseño visual con un enfoque más moderno y agregar una barra de herramientas que facilite la navegación. Implementar un sistema de `routing` para optimizar la carga y transición de páginas.
+
+
+**PROBLEMA #7:** Falta de detalles técnicos importantes sobre los vehículos.
+- **Severidad:** 2  
+- **Heurística violada:** Visibilidad del estado del sistema  
+- **Descripción:** La información sobre los vehículos es limitada y no proporciona detalles técnicos esenciales como el kilometraje máximo, el estado del odómetro o cuántas veces ha sido reservado un vehículo.
+- **Recomendación:** Agregar información técnica adicional, como el kilometraje máximo, el odómetro y la cantidad de veces que el vehículo ha sido alquilado, para mejorar la confiabilidad y transparencia de la plataforma.
+
+**PROBLEMA #8:** Falta de filtros específicos para la búsqueda de vehículos.
+- **Severidad:** 3  
+- **Heurística violada:** Flexibilidad y eficiencia de uso  
+- **Descripción:** Los usuarios no pueden filtrar fácilmente por tipo de vehículo, precio o características específicas, lo que dificulta la búsqueda y selección de opciones adecuadas.
+- **Recomendación:** Implementar un sistema de filtrado avanzado que permita a los usuarios buscar por tipo de vehículo, rango de precios y si es eléctrico o no, mejorando así la experiencia de búsqueda.
+
+**PROBLEMA #9:** Ausencia de un sistema de pago integrado y seguro.
+- **Severidad:** 4  
+- **Heurística violada:** Seguridad y prevención de errores  
+- **Descripción:** Actualmente, las transacciones se manejan a través de WhatsApp, lo que no ofrece la seguridad y comodidad de un sistema de pago integrado y validado.
+- **Recomendación:** Desarrollar un sistema de pago seguro dentro de la plataforma, que incluya opciones como tarjetas de crédito y billeteras virtuales, con validación adecuada para proteger los datos de los usuarios.
+
+**PROBLEMA #10:** Información ambiental poco destacada.
+- **Severidad:** 2  
+- **Heurística violada:** Estética y diseño minimalista  
+- **Descripción:** Los usuarios no ven claramente el impacto ambiental positivo de usar vehículos sostenibles, lo que podría motivar a más personas a elegir estas opciones.
+- **Recomendación:** Incluir mensajes ecológicos que resalten el beneficio ambiental de cada vehículo, como la reducción de emisiones de CO2, de manera visible y sin ser invasivos.
+
+### 5.4. Video About the Product
+
+En este video, presentamos **RideFind**, una plataforma innovadora diseñada para facilitar el alquiler de vehículos alternativos, como scooters eléctricos, bicicletas eléctricas, y motos eléctricas. RideFind conecta a personas que desean alquilar estos vehículos con propietarios que los tienen disponibles, simplificando el proceso de renta y promoviendo una movilidad más sostenible.
+
+El video destaca las principales características de la aplicación, incluyendo:
+
+- **Búsqueda y Reserva de Vehículos**: Los usuarios pueden buscar y reservar vehículos disponibles en su área, con opciones de filtrado para encontrar el que mejor se adapte a sus necesidades.
+- **Gestión de Disponibilidad para Propietarios**: Los dueños pueden gestionar la disponibilidad de sus vehículos en la plataforma, facilitando el control y la optimización de sus recursos.
+- **Notificaciones y Confirmaciones de Reserva**: Los usuarios y propietarios reciben notificaciones y confirmaciones de sus transacciones, asegurando transparencia y confianza en cada alquiler.
+- **Planes de Suscripción**: Ofrecemos planes flexibles para diferentes tipos de usuarios, que incluyen opciones con descuentos en alquileres y sin anuncios para mejorar la experiencia.
+
+Este video muestra cómo RideFind se convierte en una solución accesible y eficaz para todos, promoviendo una alternativa de transporte sostenible y asequible en la ciudad.
+
+Enlace al Video : [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/Ef-tqYbgys5CnPZiNK9sesEBDSjgCz5-w-1uvAbqC3yxAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BXBJQO](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/Ef-tqYbgys5CnPZiNK9sesEBDSjgCz5-w-1uvAbqC3yxAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BXBJQO)
 
 ## Conclusiones
 
@@ -640,6 +982,22 @@ Cada miembro del equipo tuvo responsabilidades definidas en distintas secciones 
 
 - A lo largo del sprint, el equipo identificó y resolvió problemas relacionados con la compatibilidad entre navegadores y la optimización de recursos, lo que resultó en un front-end más robusto y eficiente. El despliegue en Firebase también facilitó la detección y solución de errores de integración que surgieron durante las pruebas.
 
+
+## Video About-the-Team
+
+En este video, tenemos el honor de presentarles a nuestro equipo de **RideFind** y detallar cómo colaboramos durante el ciclo de desarrollo de nuestro proyecto. Cada miembro de nuestro equipo aporta una combinación única de habilidades y experiencias que enriquecen nuestro flujo de trabajo y permiten que el proyecto avance de manera coordinada y eficiente.
+
+Durante el video, cada integrante hablará sobre su rol específico, así como sobre las metodologías y herramientas que empleamos, como **Trello** para la gestión de tareas y **Slack** para una comunicación constante y rápida. Estas herramientas nos ayudan a mantener una colaboración fluida y efectiva, asegurando que todos estén alineados con los objetivos del sprint y del proyecto en general.
+
+Nos esforzamos por crear un entorno inclusivo y colaborativo que nos permite enfrentar desafíos, cumplir nuestras metas, y mejorar continuamente. Agradecemos su atención y esperamos que este video les brinde una visión clara de nuestro proceso de trabajo en equipo en **RideFind**.
+
+
+Enlace Video About the team:<br>
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EVScT2aykltKniT5O_JvrpMB11OZzv2PwzSKr4rzh9CWfw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gAvS79](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EVScT2aykltKniT5O_JvrpMB11OZzv2PwzSKr4rzh9CWfw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gAvS79)
+
+
+<img src="./img/Chapter05/abouttheteam.png">
+
 ## Bibliografía
 
 - Banco Mundial. (2020). Peru: Better transport for Lima to mitigate climate change. World Bank. https://www.bancomundial.org/es/results/2013/04/24/Peru-better-transport-for-Lima-to-mitigate-climate-change
@@ -650,6 +1008,7 @@ Cada miembro del equipo tuvo responsabilidades definidas en distintas secciones 
 
 ## Anexos
 
+**Entrevistas de NeedFinding:**
 
 **Anexo 1:**  
 **Entrevistas Usuarios que Buscan Alquilar Vehículos:**  
@@ -661,6 +1020,18 @@ Cada miembro del equipo tuvo responsabilidades definidas en distintas secciones 
 - [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1)  
 - [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EZot7z-5ZzxJiBx9pe2-4YMBjAaj3e8lpuOhQ7c0G4UFRQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dWx1gU](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EZot7z-5ZzxJiBx9pe2-4YMBjAaj3e8lpuOhQ7c0G4UFRQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dWx1gU)  
 - [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ES6SusUIAe1Evh6zgGRi5AoBH-SerCMW3tTJta2Bj9vpzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gWHAek](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ES6SusUIAe1Evh6zgGRi5AoBH-SerCMW3tTJta2Bj9vpzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gWHAek)  
+
+**Entrevistas De Validacion**
+
+**Entrevistas Usuarios que Buscan Alquilar Vehículos:**
+- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/Ec1pMkKn51FHtGMaZSPEyXQBB5RzfwOrMp4OzekVHeg75A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aiJn1l](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/Ec1pMkKn51FHtGMaZSPEyXQBB5RzfwOrMp4OzekVHeg75A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aiJn1l)
+- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EbaDZuYoyhBAtPkZafZxn1cBVhznDsq7rEP8RzJTWkRFhQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dmuiIf](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EbaDZuYoyhBAtPkZafZxn1cBVhznDsq7rEP8RzJTWkRFhQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dmuiIf)
+- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EQGv0dWAFdhAh_rdB70r1uUBmWI27GwzT0mb8W8Eh7ikBw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ctb4pJ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EQGv0dWAFdhAh_rdB70r1uUBmWI27GwzT0mb8W8Eh7ikBw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ctb4pJ)
+
+**Entrevistas Propietarios de Vehículos Alternativos:**  
+- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EYedwLZpMOJDvxzlF8-hvvcBSiub07St99Wtk6B9qQZ2IA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=02yujQ)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EYedwLZpMOJDvxzlF8-hvvcBSiub07St99Wtk6B9qQZ2IA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=02yujQ)
+- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EVovaFoswaVDj7WbTx2lgfQBlU2EoMCYeTZwXbFjjRfBpA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ngg8ML](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EVovaFoswaVDj7WbTx2lgfQBlU2EoMCYeTZwXbFjjRfBpA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ngg8ML)
+- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EQASYtkRwA9Lm3OHG9E0sNYBbmpsEsHuQyOlPKGi2s4GAg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SjbOdF](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EQASYtkRwA9Lm3OHG9E0sNYBbmpsEsHuQyOlPKGi2s4GAg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SjbOdF)
 
 ---
 
@@ -691,3 +1062,30 @@ Cada miembro del equipo tuvo responsabilidades definidas en distintas secciones 
 **Anexo 6:**  
 **Organización de Github:**  
 [https://github.com/upc-pre-202401-si730-ws51-RideLink](https://github.com/upc-pre-202401-si730-ws51-RideLink)  
+
+---
+
+**Anexo 7:**  
+**BackEnd:**  
+[https://ridefind-habtgfbff5fqddgw.eastus2-01.azurewebsites.net/index.html](https://ridefind-habtgfbff5fqddgw.eastus2-01.azurewebsites.net/index.html)
+
+---
+
+**Anexo 8:**
+Enlace Video Expoción:<br>
+- **TB1 :** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/ESJuYjvw259JliV3vbPJbTYBFNbV8pTf_-WtJfhTErnx8Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=7htm5r](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/ESJuYjvw259JliV3vbPJbTYBFNbV8pTf_-WtJfhTErnx8Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=7htm5r)
+
+- **TB2 :** []()
+
+**Anexo 9:**
+Enlace Video About The Product:<br>
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/Ef-tqYbgys5CnPZiNK9sesEBDSjgCz5-w-1uvAbqC3yxAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BXBJQO](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/Ef-tqYbgys5CnPZiNK9sesEBDSjgCz5-w-1uvAbqC3yxAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BXBJQO)
+
+---
+
+**Anexo 10:**
+
+Enlace Video About The Team:<br>
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EVScT2aykltKniT5O_JvrpMB11OZzv2PwzSKr4rzh9CWfw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gAvS79](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EVScT2aykltKniT5O_JvrpMB11OZzv2PwzSKr4rzh9CWfw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gAvS79)
+
+---
