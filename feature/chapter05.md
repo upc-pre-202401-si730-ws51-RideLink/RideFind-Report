@@ -541,7 +541,7 @@ Para el desarrollo de este proyecto se emplearon diversas herramientas, entre el
 #### 5.2.3.3. Development Evidence for Sprint Review
 
 
-| Repository       | Branch    | Commit Id                              | Commit <br>Message     | Commit <br>Message Body                         | Commited <br>on (Date) |
+| Repository   [RideFind <br> BackEnd](https://github.com/upc-pre-202401-si730-ws51-RideLink/Ridefind-BackEnd)    | Branch    | Commit Id                              | Commit <br>Message     | Commit <br>Message Body                         | Commited <br>on (Date) |
 |:----------------:|:---------:|:--------------------------------------:|:-----------------------:|:-----------------------------------------------:|:------------------------:|
 | RideFind-BackEnd | develop   | 3e91732  | feat(shared): add initial backend structure and shared module |   | 03/11/2024              |
 | RideFind-BackEnd | feat/vehicle   | bb1ee8c  | feat(vehicle): add complete vehicle bounded context |   | 03/11/2024              |
@@ -554,7 +554,7 @@ Para el desarrollo de este proyecto se emplearon diversas herramientas, entre el
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
 
-Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando la herramienta Gherkin. Puedes encontrar los escenarios de estas pruebas dando click aquí: https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Acceptance-Tests.
+Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando la herramienta Gherkin. Puedes encontrar los escenarios de estas pruebas dando click aquí: [https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Acceptance-Tests](https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Acceptance-Tests)
 
 
 | Repository | Branch  | Commit Id                              | Commit <br>Message       | Commit <br>Message Body              | Commited <br>on (Date) |
@@ -664,6 +664,212 @@ Anexo: Tablas de commits en el periodo de 1 mes.
 
 <img src="./img/Chapter05/commit3.png">
 
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+
+<table>
+  <tr>
+    <th> Sprint # </th>
+    <th> Sprint 4 </th>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Planning Background </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Date </td>
+    <td> 21/11/2024 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Time </td>
+    <td> 13:00 horas (GMT-5) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Location </td>
+    <td> Virtual (Google Meet) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Prepared By </td>
+    <td> Gutierrez Garcia, Jose Eduardo </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+    <td>
+      Briceño De La Cruz, Farid Sebastian<br>
+      Gutierrez Garcia, Jose Eduardo<br>
+      Huamani Aguilar, Jhon Rony <br>
+      Huanca Zevallos, Cristhian Joel <br>
+      Sanchez Ignacio, Jefrey Martin <br>
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 4 Review Summary </td>
+    <td> Durante este sprint, se implementó el sistema de autenticación y gestión de usuarios (IAM) con funcionalidades de login en la nueva versión del front-end. También se completó la integración del backend con esta funcionalidad y se desplegó completamente en la nube. El sistema fue probado y validado, confirmando su correcto funcionamiento y la capacidad de manejar sesiones de usuario de manera segura. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 4 Retrospective Summary </td>
+    <td>Se identificó que la planificación inicial de tareas relacionadas con el IAM podría haberse coordinado mejor para evitar retrasos en la integración del front-end y el backend. Para futuros sprints, se recomendó realizar revisiones intermedias más frecuentes y documentar claramente los criterios de aceptación de las funcionalidades críticas. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 4 Goal </td>
+    <td>Implementar el sistema de autenticación y gestión de usuarios, integrarlo con el front-end actualizado y desplegar completamente el backend funcional en la nube. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 4 Velocity </td>
+    <td> <strong>46</strong><br> Se estimó una capacidad de 35 Story Points, que incluyó la implementación del sistema IAM, actualizaciones en el front-end y el despliegue final del backend en la nube.</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sum of Story Points </td>
+    <td> 35 </td>
+  </tr>
+</table>
+
+#### 5.2.4.2. Sprint Backlog 4
+
+| **ID**  | **Title**                              | **Task ID** | **Task Title**                                    | **Description**                                                                                     | **Estimations (Hours)** | **Assigned To** | **Status**              |
+|---------|----------------------------------------|-------------|--------------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------|-----------------|-------------------------|
+| US31    | Sistema de Autenticación (IAM)        | TS21        | Desarrollo del Login y Registro                  | Implementación del sistema de login y registro seguro para usuarios, con validación de credenciales. | 12                       | Jose            | Done                    |
+| US32    | Actualización del Front-end           | TS22        | Nueva Versión del Front-end                      | Rediseño e integración de la interfaz para adaptarse a las nuevas funcionalidades del sistema IAM.   | 10                       | Jefrey           | Done                    |
+| US33    | Despliegue del Backend en la Nube     | TS23        | Deployment en Azure                              | Configuración y despliegue del backend actualizado en los servicios de Azure.                       | 8                        | Jose            | Done                    |
+| US34    | Pruebas de Integración                | TS24        | Validación de Front-end y Back-end Integrados    | Realización de pruebas para asegurar que el front-end y back-end trabajen de manera coordinada y sin errores. | 8                        | Jefrey          | Done                    |
+| US35    | Optimización de la Navegación         | TS25        | Mejora de la Barra de Navegación                | Ajustes en la barra de navegación para mejorar la usabilidad y accesibilidad.                       | 6                        | Farid           | Done                    |
+| US36    | Seguridad en el Sistema de Autenticación | TS26        | Implementación de Seguridad para IAM            | Agregar medidas de seguridad, como el cifrado de contraseñas y la protección contra ataques comunes. | 10                       | Jefrey          | Done                    |
+
+
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+
+| Repository   [RideFind <br> BackEnd](https://github.com/upc-pre-202401-si730-ws51-RideLink/Ridefind-BackEnd)    | Branch    | Commit Id                              | Commit <br>Message     | Commit <br>Message Body                         | Commited <br>on (Date) |
+|:----------------:|:---------:|:--------------------------------------:|:-----------------------:|:-----------------------------------------------:|:------------------------:|
+| RideFind-BackEnd | develop   | 3e91732  | feat(shared): add initial backend structure and shared module |   | 03/11/2024              |
+| RideFind-BackEnd | feat/vehicle   | bb1ee8c  | feat(vehicle): add complete vehicle bounded context |   | 03/11/2024              |
+| RideFind-BackEnd | feat/userProfile  | 465f39  | feat(userProfile): add complete userProfile bounded context |   | 03/11/2024              |
+| RideFind-BackEnd | feat/order   | 0fc4ed2  | feat(order): add complete order bounded context |   | 03/11/2024              |
+| RideFind-BackEnd | feat/azure-settings  | bdd0a69 | feat(deploy): add deployment configuration files |   | 03/11/2024              |
+| RideFind-BackEnd | develop | 483edfd  | merge(azure-settings): integrate Azure deployment settings into develop |   | 03/11/2024              |
+| RideFind-BackEnd | main  | 9b4d0bd  | merge(azure-settings): merge Azure deployment settings from develop to main |   | 03/11/2024  
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando la herramienta Gherkin. Puedes encontrar los escenarios de estas pruebas dando click aquí: [https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Acceptance-Tests](https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Acceptance-Tests)
+
+
+| Repository | Branch  | Commit Id                              | Commit <br>Message       | Commit <br>Message Body              | Commited <br>on (Date) |
+|:----------:|:-------:|:--------------------------------------:|:-------------------------:|:------------------------------------:|:------------------------:|
+| RideLink   | main    | 1234567abcd1234567abcd1234567abcd1234  | feat: reservation-tests  | Add acceptance tests for reservation functionality | 30/10/2024              |
+| RideLink   | main    | 2345678abcd2345678abcd2345678abcd2345  | feat: notifications-test | Implement tests for notification feature | 30/10/2024              |
+| RideLink   | main    | 3456789abcd3456789abcd3456789abcd3456  | feat: cancellation-tests | Add tests for booking cancellation and refund process | 30/10/2024              |
+
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+En este sprint, el equipo de RideFind logró implementar e integrar el sistema de autenticación (IAM), incluyendo las funcionalidades de login y registro, asegurando una experiencia de usuario segura y eficiente. Este sistema fue desplegado junto con una nueva versión del backend en Azure Web Services, utilizando MySQL for Azure como base de datos para almacenar de forma segura las credenciales y perfiles de usuario.
+
+Además, se actualizó el frontend de la aplicación, integrando la nueva funcionalidad de autenticación y mejorando la usabilidad general. Esta versión también incluye una barra de navegación optimizada, asegurando una experiencia más intuitiva para los usuarios.
+
+El backend actualizado fue completamente documentado con Swagger, proporcionando a los desarrolladores y colaboradores una guía clara sobre los endpoints disponibles, incluyendo sus métodos, parámetros y respuestas esperadas.
+
+Por último, se realizaron pruebas de integración exhaustivas para garantizar que el backend y el frontend funcionen de manera fluida, cumpliendo con los estándares de calidad establecidos para el proyecto.
+
+Enlace a la documentación de la API en Swagger:
+
+Enlace del deployment del Backend: [https://pawfectcare-dnhqhvbmbxfgcqen.eastus2-01.azurewebsites.net/swagger-ui/index.html#/](https://pawfectcare-dnhqhvbmbxfgcqen.eastus2-01.azurewebsites.net/swagger-ui/index.html#/)
+
+Enlace del deployment del FrontEnd: [https://pawfect-care-app-web.web.app](https://pawfect-care-app-web.web.app/home)
+
+Enlace del deployment de la Landing Page: [https://upc-pre-si729-2402-wx51-g4-aceitunitas.github.io/-PawfectCareLanding-Page.github.io/](https://upc-pre-si729-2402-wx51-g4-aceitunitas.github.io/-PawfectCareLanding-Page.github.io/)
+
+Este despliegue asegura una base sólida para el funcionamiento de PawFect Care, dejando el backend, el frontend y la landing page listos para futuras integraciones y escalabilidad conforme crezcan las necesidades del proyecto.
+
+
+**Swagger UI**
+
+<img src="./img/Chapter05/swagger2.png">
+
+
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+En el alcance del Sprint 4 de RideFind, se priorizó la implementación del sistema de autenticación (IAM) y el despliegue de una nueva versión del backend en Azure Web Services. Para garantizar la accesibilidad y comprensión de los servicios, se documentó detalladamente el backend utilizando Swagger, facilitando la integración y uso por parte de desarrolladores y colaboradores.
+
+La documentación incluye:
+
+- Descripción de los endpoints relacionados con el sistema de autenticación, como registro, login y recuperación de contraseñas.
+- Detalles sobre las operaciones permitidas, incluyendo validación de credenciales y gestión de sesiones de usuario.
+- Ejemplos de solicitudes y respuestas para cada endpoint, asegurando que los desarrolladores comprendan fácilmente cómo consumir los servicios.
+- Información sobre los mensajes de error y validaciones específicas para el sistema de autenticación, proporcionando claridad sobre posibles escenarios de fallos y cómo manejarlos.
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Durante este sprint, se ha completado el desarrollo del backend de la aplicación web, así como la actualización del frontend. Para el despliegue, se utilizaron las siguientes herramientas y servicios:
+
+- **Git:** Sistema de control de versiones utilizado para facilitar la colaboración entre los miembros del equipo y monitorear las versiones de la aplicación web en un repositorio remoto.
+
+- **GitFlow:** Este flujo de trabajo colaborativo nos permitió gestionar las ramas del repositorio de manera efectiva, asegurando que el desarrollo de nuevas funcionalidades se hiciera en ramas separadas y facilitando la integración al proyecto principal.
+
+- **GitHub Desktop:** Herramienta de interfaz gráfica que utilizamos para interactuar con nuestro repositorio de GitHub de manera intuitiva, simplificando la gestión de commits, ramas y pull requests.
+
+- **GitHub:** Plataforma de desarrollo colaborativo que nos proporcionó el repositorio donde almacenamos y gestionamos el código fuente de nuestro proyecto, facilitando el seguimiento de cambios y la colaboración.
+
+- **Azure Web Services:** Servicio en la nube utilizado para desplegar el backend de nuestra aplicación. Esto nos permitió implementar una infraestructura escalable y segura para la API de RideFind.
+
+- **MySQL for Azure:** Servicio de base de datos en la nube que utilizamos para almacenar y gestionar los datos de la aplicación. Esta solución proporcionó un entorno robusto para nuestras operaciones de backend.
+
+Enlace del deployment del BackEnd: [https://ridefind-habtgfbff5fqddgw.eastus2-01.azurewebsites.net/index.html](https://ridefind-habtgfbff5fqddgw.eastus2-01.azurewebsites.net/index.html)
+
+Enlace del deployment del FrontEnd: [https://ridefind-frontend.web.app/](https://ridefind-frontend.web.app/)
+
+Enlace del deployment de la Landing Page: [https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/](https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/)
+
+
+Este enfoque integral asegura que tanto el frontend como el backend de la aplicación estén correctamente implementados y funcionales, permitiendo a los usuarios finales una experiencia óptima al interactuar con RideFind.
+
+<img src="./img/Chapter05/sprint4.png">
+
+<img src="./img/Chapter05/deploybackend.png">
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+En el Sprint 4, el equipo organizó el desarrollo del frontend y backend de la aplicación web utilizando ramas específicas para cada funcionalidad, siguiendo las convenciones de GitFlow. Este enfoque permitió a los desarrolladores trabajar de manera independiente en diferentes aspectos del proyecto, facilitando la colaboración y el mantenimiento del código.
+
+A continuación, se detallan las tareas asignadas a cada miembro del equipo, junto con las contribuciones realizadas a través de la plataforma GitHub:
+
+| Alumno                          | Actividad                                                                                                                                                                                        |  
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |  
+| **Gutierrez Garcia, Jose Eduardo**  | Desarrollo y despliegue del backend en la nube, garantizando la operatividad de la API y su integración con el frontend.                                                  |  
+| **Bastidas Bastidas, Diego Martin**  | Desarrollo del backend y soporte en la integración de datos, contribuyendo al diseño y funcionalidad de los módulos clave. |  
+| **Perez Garcia, David Alexander**   | Implementación de características tanto en el backend como en el frontend, mejorando la experiencia de usuario y asegurando la funcionalidad de la plataforma.                                         |  
+| **Chavez Uribe, Ario Joel**        | Desarrollo del frontend y diseño de la landing page, enfocándose en la usabilidad y estética para ofrecer una experiencia intuitiva.                                                                 |
+
+
+Este enfoque colaborativo permitió que el equipo integrara diversas perspectivas y habilidades, asegurando un progreso efectivo en el desarrollo de PawFect Care. Además, se utilizaron herramientas como GitHub para coordinar las tareas y realizar revisiones de código, fortaleciendo la calidad del producto final.
+
+A continuación, se mostrará la tabla de colaboradores en el repositorio de GitHub, con el objetivo de identificar a cada miembro del equipo.
+
+Tabla de integrantes:
+
+| Username (GitHub) | Nombre                         |
+| ----------------- | ------------------------------ |
+| ghostnotfound404  | Bastidas Bastidas, Diego Martin  |
+| feg06             | Chavez Uribe, Ario Joel  |
+| elcrackje         | Gutierrez Garcia, Jose Eduardo  |
+| davidalexd        | Perez Garcia, David Alexander   |
+
+
+A continuación se mostrarán los gráficos de insights durante el sprint:
+
+Anexo: Flujo de trabajo entre las ramas.
+
+<img src="./img/Chapter05/gitflow4.png">
+
+Anexo: Tablas de commits en el periodo de 1 mes.
+
+<img src="./img/Chapter05/commit4.png">
+
+
 ## 5.3. Validation Interviews
 La etapa de Validación de Entrevistas tiene como objetivo recolectar comentarios y observaciones directas de los usuarios para evaluar cómo perciben el diseño, la facilidad de uso y las funciones de la plataforma RideFind. Mediante estas entrevistas, buscamos confirmar que la experiencia de la plataforma está bien alineada con las necesidades de los distintos tipos de usuarios. Así, esta fase es clave para asegurar que RideFind sea intuitiva y cumpla con los objetivos de satisfacer a sus usuarios.
 
@@ -768,7 +974,7 @@ El usuario consideró que la plataforma cumple su función de contactar con los 
 
 En cuanto a la información proporcionada sobre los vehículos, el usuario comentó que es adecuada, pero destacó la necesidad de mostrar el precio de manera más clara y detallada. También mencionó la importancia de incluir mensajes que motiven a los usuarios a continuar eligiendo opciones sostenibles, como destacar la reducción de emisiones de CO2 de forma estándar.
 
-Finalmente, propuso la idea de seleccionar vehículos según su nivel de sostenibilidad y dio recomendaciones técnicas, como mejorar el manejo de rutas en la aplicación utilizando `routing` para optimizar la experiencia de usuario.
+Finalmente, propuso la idea de seleccionar vehículos según su nivel de sostenibilidad y dio recomendaciones técnicas, como mejorar el manejo de rutas en la aplicación utilizando "routing" para optimizar la experiencia de usuario.
 
 
 
@@ -924,7 +1130,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 - **Severidad:** 3  
 - **Heurística violada:** Estética y diseño minimalista  
 - **Descripción:** El diseño actual de la plataforma no es visualmente atractivo ni intuitivo, lo que afecta la experiencia de usuario. Falta un diseño más organizado, con una barra de herramientas eficiente y mejor manejo de vistas.
-- **Recomendación:** Mejorar el diseño visual con un enfoque más moderno y agregar una barra de herramientas que facilite la navegación. Implementar un sistema de `routing` para optimizar la carga y transición de páginas.
+- **Recomendación:** Mejorar el diseño visual con un enfoque más moderno y agregar una barra de herramientas que facilite la navegación. Implementar un sistema de "routing" para optimizar la carga y transición de páginas.
 
 
 **PROBLEMA #7:** Falta de detalles técnicos importantes sobre los vehículos.
@@ -964,7 +1170,7 @@ El video destaca las principales características de la aplicación, incluyendo:
 
 Este video muestra cómo RideFind se convierte en una solución accesible y eficaz para todos, promoviendo una alternativa de transporte sostenible y asequible en la ciudad.
 
-Enlace al Video : [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/Ef-tqYbgys5CnPZiNK9sesEBDSjgCz5-w-1uvAbqC3yxAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BXBJQO](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/Ef-tqYbgys5CnPZiNK9sesEBDSjgCz5-w-1uvAbqC3yxAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BXBJQO)
+Enlace al Video : [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/Ef-tqYbgys5CnPZiNK9sesEBDSjgCz5-w-1uvAbqC3yxAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BXBJQO`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/Ef-tqYbgys5CnPZiNK9sesEBDSjgCz5-w-1uvAbqC3yxAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BXBJQO)
 
 ## Conclusiones
 
@@ -993,8 +1199,7 @@ Nos esforzamos por crear un entorno inclusivo y colaborativo que nos permite enf
 
 
 Enlace Video About the team:<br>
-[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EVScT2aykltKniT5O_JvrpMB11OZzv2PwzSKr4rzh9CWfw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gAvS79](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EVScT2aykltKniT5O_JvrpMB11OZzv2PwzSKr4rzh9CWfw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gAvS79)
-
+[`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EbfxHhH3PnhHhP_uGm6GqgAB4yi0q11a1rddZ62E8tOoGA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=9PFyLg`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EbfxHhH3PnhHhP_uGm6GqgAB4yi0q11a1rddZ62E8tOoGA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=9PFyLg)
 
 <img src="./img/Chapter05/abouttheteam.png">
 
@@ -1012,32 +1217,37 @@ Enlace Video About the team:<br>
 
 **Anexo 1:**  
 **Entrevistas Usuarios que Buscan Alquilar Vehículos:**  
-- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EcCSsXuECudMq43U96doDSoBjlRz9pEakJAKjz9886APtQ?e=TCRqC8](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EcCSsXuECudMq43U96doDSoBjlRz9pEakJAKjz9886APtQ?e=TCRqC8)  
-- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EQAWSuW1CB9BhDIb-DEdFUgBE_27nMdsPVxCreJ9n0pLxQ?e=16i45B](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EQAWSuW1CB9BhDIb-DEdFUgBE_27nMdsPVxCreJ9n0pLxQ?e=16i45B)  
-- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EdW4MG4fMRZFtuoBaQlOyW0Bv3gGBsH-9aUTnfLxTnVoUA?e=UWE5n8](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EdW4MG4fMRZFtuoBaQlOyW0Bv3gGBsH-9aUTnfLxTnVoUA?e=UWE5n8)  
+- [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EcCSsXuECudMq43U96doDSoBjlRz9pEakJAKjz9886APtQ?e=TCRqC8`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EcCSsXuECudMq43U96doDSoBjlRz9pEakJAKjz9886APtQ?e=TCRqC8)  
+- [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EQAWSuW1CB9BhDIb-DEdFUgBE_27nMdsPVxCreJ9n0pLxQ?e=16i45B`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EQAWSuW1CB9BhDIb-DEdFUgBE_27nMdsPVxCreJ9n0pLxQ?e=16i45B)  
+- [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EdW4MG4fMRZFtuoBaQlOyW0Bv3gGBsH-9aUTnfLxTnVoUA?e=UWE5n8`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EdW4MG4fMRZFtuoBaQlOyW0Bv3gGBsH-9aUTnfLxTnVoUA?e=UWE5n8)  
 
 **Entrevistas Propietarios de Vehículos Alternativos:**  
-- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1)  
-- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EZot7z-5ZzxJiBx9pe2-4YMBjAaj3e8lpuOhQ7c0G4UFRQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dWx1gU](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EZot7z-5ZzxJiBx9pe2-4YMBjAaj3e8lpuOhQ7c0G4UFRQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dWx1gU)  
-- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ES6SusUIAe1Evh6zgGRi5AoBH-SerCMW3tTJta2Bj9vpzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gWHAek](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ES6SusUIAe1Evh6zgGRi5AoBH-SerCMW3tTJta2Bj9vpzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gWHAek)  
+- [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1)  
+- [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EZot7z-5ZzxJiBx9pe2-4YMBjAaj3e8lpuOhQ7c0G4UFRQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dWx1gU`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EZot7z-5ZzxJiBx9pe2-4YMBjAaj3e8lpuOhQ7c0G4UFRQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dWx1gU)  
+- [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ES6SusUIAe1Evh6zgGRi5AoBH-SerCMW3tTJta2Bj9vpzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gWHAek`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ES6SusUIAe1Evh6zgGRi5AoBH-SerCMW3tTJta2Bj9vpzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gWHAek)  
 
 **Entrevistas De Validacion**
 
 **Entrevistas Usuarios que Buscan Alquilar Vehículos:**
-- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/Ec1pMkKn51FHtGMaZSPEyXQBB5RzfwOrMp4OzekVHeg75A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aiJn1l](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/Ec1pMkKn51FHtGMaZSPEyXQBB5RzfwOrMp4OzekVHeg75A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aiJn1l)
-- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EbaDZuYoyhBAtPkZafZxn1cBVhznDsq7rEP8RzJTWkRFhQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dmuiIf](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EbaDZuYoyhBAtPkZafZxn1cBVhznDsq7rEP8RzJTWkRFhQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dmuiIf)
-- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EQGv0dWAFdhAh_rdB70r1uUBmWI27GwzT0mb8W8Eh7ikBw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ctb4pJ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EQGv0dWAFdhAh_rdB70r1uUBmWI27GwzT0mb8W8Eh7ikBw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ctb4pJ)
+- [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/Ec1pMkKn51FHtGMaZSPEyXQBB5RzfwOrMp4OzekVHeg75A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aiJn1l`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/Ec1pMkKn51FHtGMaZSPEyXQBB5RzfwOrMp4OzekVHeg75A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aiJn1l)
+- [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EbaDZuYoyhBAtPkZafZxn1cBVhznDsq7rEP8RzJTWkRFhQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dmuiIf`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EbaDZuYoyhBAtPkZafZxn1cBVhznDsq7rEP8RzJTWkRFhQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dmuiIf)
+- [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EQGv0dWAFdhAh_rdB70r1uUBmWI27GwzT0mb8W8Eh7ikBw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ctb4pJ`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EQGv0dWAFdhAh_rdB70r1uUBmWI27GwzT0mb8W8Eh7ikBw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ctb4pJ)
 
 **Entrevistas Propietarios de Vehículos Alternativos:**  
-- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EYedwLZpMOJDvxzlF8-hvvcBSiub07St99Wtk6B9qQZ2IA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=02yujQ)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EYedwLZpMOJDvxzlF8-hvvcBSiub07St99Wtk6B9qQZ2IA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=02yujQ)
-- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EVovaFoswaVDj7WbTx2lgfQBlU2EoMCYeTZwXbFjjRfBpA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ngg8ML](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EVovaFoswaVDj7WbTx2lgfQBlU2EoMCYeTZwXbFjjRfBpA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ngg8ML)
-- [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EQASYtkRwA9Lm3OHG9E0sNYBbmpsEsHuQyOlPKGi2s4GAg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SjbOdF](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EQASYtkRwA9Lm3OHG9E0sNYBbmpsEsHuQyOlPKGi2s4GAg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SjbOdF)
+- [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EYedwLZpMOJDvxzlF8-hvvcBSiub07St99Wtk6B9qQZ2IA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=02yujQ`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EYedwLZpMOJDvxzlF8-hvvcBSiub07St99Wtk6B9qQZ2IA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=02yujQ)
+- [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EVovaFoswaVDj7WbTx2lgfQBlU2EoMCYeTZwXbFjjRfBpA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ngg8ML`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EVovaFoswaVDj7WbTx2lgfQBlU2EoMCYeTZwXbFjjRfBpA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ngg8ML)
+- [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EQASYtkRwA9Lm3OHG9E0sNYBbmpsEsHuQyOlPKGi2s4GAg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SjbOdF`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EQASYtkRwA9Lm3OHG9E0sNYBbmpsEsHuQyOlPKGi2s4GAg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SjbOdF)
 
 ---
 
 **Anexo 2:**  
-**Presentación del Proyecto:**  
-[https://www.canva.com/design/DAGQDRydqY8/or-NGszjIWSFbZ9EE5PpSw/edit?utm_content=DAGQDRydqY8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGQDRydqY8/or-NGszjIWSFbZ9EE5PpSw/edit?utm_content=DAGQDRydqY8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+**Presentación del Proyecto:** <br>
+
+**TB1 y TP1:** <br> 
+[https://www.canva.com/design/DAGQDRydqY8/or-NGszjIWSFbZ9EE5PpSw/edit?utm_content=DAGQDRydqY8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGQDRydqY8/or-NGszjIWSFbZ9EE5PpSw/edit?utm_content=DAGQDRydqY8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+**TB2:**<br>
+[https://www.canva.com/design/DAGVelSyb28/gs1W1NArEd_-D_YVPwg1Og/edit?utm_content=DAGVelSyb28&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGVelSyb28/gs1W1NArEd_-D_YVPwg1Og/edit?utm_content=DAGVelSyb28&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
@@ -1073,19 +1283,19 @@ Enlace Video About the team:<br>
 
 **Anexo 8:**
 Enlace Video Expoción:<br>
-- **TB1 :** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/ESJuYjvw259JliV3vbPJbTYBFNbV8pTf_-WtJfhTErnx8Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=7htm5r](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/ESJuYjvw259JliV3vbPJbTYBFNbV8pTf_-WtJfhTErnx8Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=7htm5r)
+- **TB1 :** [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/ESJuYjvw259JliV3vbPJbTYBFNbV8pTf_-WtJfhTErnx8Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=7htm5r`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/ESJuYjvw259JliV3vbPJbTYBFNbV8pTf_-WtJfhTErnx8Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=7htm5r)
 
-- **TB2 :** []()
+- **TB2 :** [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EbD56nc53ilKst9g7y-bCMoBmrbKRquuo6ygzXe0QqsVxw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=EyQIhv`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EbD56nc53ilKst9g7y-bCMoBmrbKRquuo6ygzXe0QqsVxw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=EyQIhv)
 
 **Anexo 9:**
 Enlace Video About The Product:<br>
-[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/Ef-tqYbgys5CnPZiNK9sesEBDSjgCz5-w-1uvAbqC3yxAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BXBJQO](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/Ef-tqYbgys5CnPZiNK9sesEBDSjgCz5-w-1uvAbqC3yxAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BXBJQO)
+[`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/Ef-tqYbgys5CnPZiNK9sesEBDSjgCz5-w-1uvAbqC3yxAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BXBJQO`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/Ef-tqYbgys5CnPZiNK9sesEBDSjgCz5-w-1uvAbqC3yxAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BXBJQO)
 
 ---
 
 **Anexo 10:**
 
 Enlace Video About The Team:<br>
-[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EVScT2aykltKniT5O_JvrpMB11OZzv2PwzSKr4rzh9CWfw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gAvS79](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EVScT2aykltKniT5O_JvrpMB11OZzv2PwzSKr4rzh9CWfw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gAvS79)
+[`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EbfxHhH3PnhHhP_uGm6GqgAB4yi0q11a1rddZ62E8tOoGA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=9PFyLg`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EbfxHhH3PnhHhP_uGm6GqgAB4yi0q11a1rddZ62E8tOoGA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=9PFyLg)
 
 ---
