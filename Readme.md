@@ -59,36 +59,13 @@
 
 # Registro de Versiones del Informe
 
-<table >
-        <tr>
-            <th style="text-align:center;">Versión</th>
-            <th style="text-align:center;">Fecha</th>
-            <th style="text-align:center;">Autor</th>
-            <th style="text-align:center;">Descripción de la modificación</th>
-        </tr>
-        <tr>
-            <td align = "center">TB1</td>
-            <td>05/09/2024</td>
-            <td> 
+| Versión | Fecha | Autor | Descripción de la modificación |
+|----|----|----|----|
+| TB1 | 25/08/2024 | RideLink | Redacción de los Capítulos I: Introduction, II: Requirements Elicitation & Analysis, III: Requirements Specification, IV: Product Design, V: Product Implementation, Validation & Deployment. |
+| TP1 | 27/09/2024 | RideLink | Adición del Capítulo V: 5.2.2., 5.2.2.1., 5.2.2.2., 5.2.2.3., 5.2.2.4., 5.2.2.5., 5.2.2.6., 5.2.2.7., 5.2.2.8. |
+| TB2 | 03/11/2024 | RideLink | Adición del Capítulo V: 5.2.3., 5.2.3.1., 5.2.3.2., 5.2.3.3., 5.2.3.4., 5.2.3.5., 5.2.3.6., 5.2.3.7., 5.2.3.8, 5.3, 5.3.1, 5.3.2, 5.3.3, 5.4|
+| TF1 | 21/11/2024 | RideLink | Adición del Capítulo V: 5.2.4., 5.2.4.1., 5.2.4.2., 5.2.4.3., 5.2.4.4., 5.2.4.5., 5.2.4.6., 5.2.4.7., 5.2.4.8|
 
-Briceño De La Cruz, Farid Sebastian
-
-Gutierrez Garcia, Jose Eduardo 
-
-Huamani Aguilar, Jhon Rony 
-
-Huanca Zevallos, Cristhian Joel 
-
-Sanchez Ignacio, Jefrey Martin 
-
-</td>
-            <td>Se ha incorporado el contenido correspondiente al capítulo 1, abarcando los apartados 1.1, 1.2 y 1.3; al capítulo 2, con los apartados 2.1, 2.2, 2.3 y 2.4; al capítulo 3, cubriendo los apartados 3.1, 3.2, 3.3 y 3.4; al capítulo 4, que incluye los apartados 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7 y 4.8; así como al capítulo 5, con los apartados 5.1 y 5.2.</td>
-        <tr>
-
-<table>
-
-<br>
-  
 ---
   
 # Project Report Collaboration Insights
@@ -100,12 +77,47 @@ Durante la preparación del informe, se realizaron las siguientes actividades cl
 - Se generaron los artefactos necesarios utilizando las herramientas recomendadas, y se obtuvieron enlaces de imágenes desde la carpeta “assets” en la rama develop del repositorio del informe.
 - Se organizaron reuniones periódicas para coordinar el avance de los elementos del informe y comunicar los resultados del Sprint 1, que estuvo centrado en el desarrollo de la Landing Page.
 
-<img src="./img/Chapter01/insight1.png" alt="img1" style="width: 100%;">
-
-<img src="./img/Chapter01/insight2.png" alt="img2" style="width: 100%;">
-
-<img src="./img/Chapter01/insight3.png" alt="img3" style="width: 100%;">
   
+![Insight1](./img/Chapter01/insight1.png)
+![Insight2](./img/Chapter01/insight2.png)
+![Insight3](./img/Chapter01/insight3.png)
+
+**TP1** Las tareas asignadas para la entrega del TP1 han sido completadas y documentadas de manera exhaustiva en el repositorio de GitHub de la organización del equipo: [Repositorio Github](https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Report)
+
+Se redactaron y diagramaron los contenidos asignados a cada integrante en formato Markdown, con commits regulares para mantener un seguimiento preciso del progreso en el repositorio.
+
+Además, se han generado los artefactos necesarios utilizando las herramientas recomendadas, y se llevaron a cabo reuniones periódicas para coordinar el avance de los elementos del informe y comunicar los progresos del Sprint 2, centrado en el desarrollo de la aplicación web.
+
+![Insight4](./img/Chapter01/insight4.png)
+![Insight5](./img/Chapter01/insight5.png)
+![Insight6](./img/Chapter01/insight6.png)
+![Insight7](./img/Chapter01/insight7.png)
+
+**TB2**: Las tareas asignadas para la entrega del TB2 han sido completadas y debidamente documentadas en el repositorio de GitHub del equipo. [Repositorio Github](https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Report)
+
+- Se redactaron y diagramaron los contenidos asignados a cada integrante en formato Markdown, seguido de commits para asegurar el seguimiento del progreso en el repositorio. 
+- Se generaron los artefactos necesarios utilizando las herramientas recomendadas. 
+- Se llevaron a cabo reuniones para coordinar el avance de los elementos del informe y comunicar los progresos del Sprint 3, enfocado en el desarrollo del frontend y avance del backend.
+
+
+![Insight8](./img/Chapter01/insight8.png)
+![Insight9](./img/Chapter01/insight9.png)
+![Insight10](./img/Chapter01/insight10.png)
+![Insight11](./img/Chapter01/insight11.png)
+
+**TF1**: Las tareas asignadas para la entrega del TF1 han sido completadas y debidamente documentadas en el repositorio de GitHub del equipo. [Repositorio Github](https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Report)
+
+- Se realizaron actualizaciones tanto en el frontend como en el backend para garantizar la integración completa entre ambos.
+- El frontend fue modificado para consumir las APIs del backend de manera eficiente, optimizando la comunicación entre los servicios.
+- El backend fue desplegado en la nube, asegurando disponibilidad y escalabilidad para las funcionalidades de la aplicación.
+- Se llevaron a cabo pruebas integrales para verificar que el consumo de servicios funcionara correctamente y cumpliera con los requerimientos del proyecto.
+- Se coordinaron reuniones periódicas para alinear los avances técnicos con las metas del Sprint 4 y asegurar el cumplimiento de los plazos establecidos.
+
+![Insight14](./img/Chapter01/insight14.png)
+![Insight15](./img/Chapter01/insight15.png)
+![Insight16](./img/Chapter01/insight16.png)
+![Insight17](./img/Chapter01/insight17.png)
+
 ---
 
 # Contenido
@@ -198,6 +210,33 @@ Durante la preparación del informe, se realizaron las siguientes actividades cl
     - [**5.2.1.6. Services Documentation Evidence for Sprint Review**](#5216-services-documentation-evidence-for-sprint-review)
     - [**5.2.1.7. Software Deployment Evidence for Sprint Review**](#5217-software-deployment-evidence-for-sprint-review)
     - [**5.2.1.8. Team Collaboration Insights during Sprint**](#5218-team-collaboration-insights-during-sprint)
+  - [**5.2.2. Sprint 2**](#522-sprint-2)
+    - [**5.2.2.1. Sprint Planning 2**](#5221-sprint-planning-2)
+    - [**5.2.2.2. Sprint Backlog 2**](#5222-sprint-backlog-2)
+    - [**5.2.2.3. Development Evidence for Sprint Review**](#5223-development-evidence-for-sprint-review)
+    - [**5.2.2.4. Testing Suite Evidence for Sprint Review**](#5224-testing-suite-evidence-for-sprint-review)
+    - [**5.2.2.5. Execution Evidence for Sprint Review**](#5225-execution-evidence-for-sprint-review)
+    - [**5.2.2.6. Services Documentation Evidence for Sprint Review**](#5226-services-documentation-evidence-for-sprint-review)
+    - [**5.2.2.7. Software Deployment Evidence for Sprint Review**](#5227-software-deployment-evidence-for-sprint-review)
+    - [**5.2.2.8. Team Collaboration Insights during Sprint**](#5228-team-collaboration-insights-during-sprint)
+    - [**5.2.3. Sprint 3**](#523-sprint-3)
+    - [**5.2.3.1. Sprint Planning 3**](#5231-sprint-planning-3)
+    - [**5.2.3.2. Sprint Backlog 3**](#5232-sprint-backlog-3)
+    - [**5.2.3.3. Development Evidence for Sprint Review**](#5233-development-evidence-for-sprint-review)
+    - [**5.2.3.4. Testing Suite Evidence for Sprint Review**](#5234-testing-suite-evidence-for-sprint-review)
+    - [**5.2.3.5. Execution Evidence for Sprint Review**](#5235-execution-evidence-for-sprint-review)
+    - [**5.2.3.6. Services Documentation Evidence for Sprint Review**](#5236-services-documentation-evidence-for-sprint-review)
+    - [**5.2.3.7. Software Deployment Evidence for Sprint Review**](#5237-software-deployment-evidence-for-sprint-review)
+    - [**5.2.3.8. Team Collaboration Insights during Sprint**](#5238-team-collaboration-insights-during-sprint)
+    - [**5.2.4. Sprint 4**](#524-sprint-4)
+    - [**5.2.4.1. Sprint Planning 4**](#5241-sprint-planning-4)
+    - [**5.2.4.2. Sprint Backlog 4**](#5242-sprint-backlog-4)
+    - [**5.2.4.3. Development Evidence for Sprint Review**](#5243-development-evidence-for-sprint-review)
+    - [**5.2.4.4. Testing Suite Evidence for Sprint Review**](#5234-testing-suite-evidence-for-sprint-review)
+    - [**5.2.4.5. Execution Evidence for Sprint Review**](#5245-execution-evidence-for-sprint-review)
+    - [**5.2.4.6. Services Documentation Evidence for Sprint Review**](#5246-services-documentation-evidence-for-sprint-review)
+    - [**5.2.4.7. Software Deployment Evidence for Sprint Review**](#5247-software-deployment-evidence-for-sprint-review)
+    - [**5.2.4.8. Team Collaboration Insights during Sprint**](#5248-team-collaboration-insights-during-sprint)
   - [**5.3. Validation Interviews**](#53-validation-interviews)
     - [**5.3.1. Diseño de Entrevistas**](#531-diseño-de-entrevistas)
     - [**5.3.2. Registro de Entrevistas**](#532-registro-de-entrevistas)
@@ -214,81 +253,137 @@ Durante la preparación del informe, se realizaron las siguientes actividades cl
 # Student Outcome
 
 <table>
-        <tr>
-            <th style="text-align:center;">Criterio específico</th>
-            <th style="text-align:center;">Acciones realizadas</th>
-            <th style="text-align:center;">Conclusiones</th>
-        </tr>
-        <tr>
-            <td align = "center">Trabaja en equipo para proporcionar
-liderazgo en forma conjunta</td>
-            <td> 
-
-Briceño De La Cruz, Farid Sebastian <br>
-TB1 <br>
-Se encargó de la planificación inicial del proyecto y la distribución de roles entre los integrantes, promoviendo la equidad y una buena comunicación. Coordinó efectivamente al equipo, facilitando un entorno inclusivo y colaborativo que permitió una buena organización del trabajo.
-
-
-Gutierrez Garcia, Jose Eduardo <br>
-TB1 <br>
-Colaboró en la creación del Landing Page, asegurándose de que la implementación fuera consistente con los requisitos del proyecto. Proporcionó liderazgo técnico al definir las mejores prácticas de desarrollo para la primera versión del Landing Page, logrando un resultado funcional y estéticamente coherente.
-
-
-Huamani Aguilar, Jhon Rony <br>
-TB1 <br>
-Lideró la integración del sistema con el servicio RESTful, asegurando que el equipo comprendiera cómo utilizar y probar la API correctamente. Aportó un enfoque de liderazgo técnico y colaborativo, guiando al equipo en la integración exitosa del backend con el frontend.
-
-
-Huanca Zevallos, Cristhian Joel <br>
-TB1 <br>
-Supervisó las sesiones de validación y pruebas iniciales, recopilando retroalimentación del equipo para mejorar la interfaz de usuario. Proporcionó un liderazgo centrado en la calidad, asegurando que las pruebas reflejaran el feedback real y contribuyendo a mejoras tangibles en el producto.
-
-
-Sanchez Ignacio, Jefrey Martin <br>
-TB1 <br>
-Dirigió las tareas relacionadas con la documentación, asegurándose de que todos los entregables cumplieran con las especificaciones del curso. A través de un liderazgo en la documentación, garantizó que todos los artefactos se presentaran de manera clara y organizada, facilitando el trabajo colaborativo.
-
-
-</td>
- <td> TB1: En este primer logro, el equipo demostró una sólida capacidad de liderazgo colaborativo. Cada integrante asumió roles clave que facilitaron la gestión del proyecto, desde la planificación inicial hasta la ejecución técnica. Gracias a un liderazgo compartido, el equipo mantuvo una comunicación constante y efectiva, lo que permitió alcanzar los objetivos propuestos dentro de los plazos estipulados. La sinergia entre los miembros fue crucial para crear un entorno de trabajo en el que las decisiones se tomaron en conjunto y donde cada persona aportó valor al éxito del proyecto. <br>
-            
-</td>        
-
-   <tr>
-            <td align = "center">Crea un entorno colaborativo e
-inclusivo, establece metas, planifica tareas
-y cumple objetivos</td>
-            <td> 
-
-Briceño De La Cruz, Farid Sebastian <br>
-TB1 <br>
-Planificó y organizó las reuniones de equipo, asegurando que todos los integrantes pudieran participar activamente y se respetaran las opiniones de todos. Creó un entorno inclusivo y promovió la colaboración, logrando que las reuniones fueran productivas y que los objetivos del sprint se alcanzaran.
-
-Gutierrez Garcia, Jose Eduardo <br>
-TB1 <br>
-Desarrolló la primera versión del sistema backend, asegurándose de que las metas técnicas se alinearan con las necesidades del negocio. Ayudó a establecer metas claras y planificar el desarrollo técnico, asegurando que el equipo cumpliera con las expectativas del cliente y las necesidades funcionales.
-
-Huamani Aguilar, Jhon Rony <br>
-TB1 <br>
-Facilitó la comunicación entre los miembros del equipo técnico y los encargados del diseño, asegurando una integración armoniosa de los componentes visuales y funcionales. Su enfoque en la colaboración permitió una correcta integración de las interfaces de usuario y los servicios del backend, cumpliendo con los objetivos del proyecto.
-
-Huanca Zevallos, Cristhian Joel <br>
-TB1<br>
-Se encargó de documentar las métricas del sprint y garantizar que todos los miembros cumplieran con sus tareas asignadas dentro del plazo. A través de una planificación eficaz, contribuyó a que se cumplieran todos los objetivos del sprint, promoviendo una colaboración constante y organizada.
-
-Sanchez Ignacio, Jefrey Martin <br>
-TB1 <br>
-Validó las decisiones tomadas en relación con la estructura del proyecto y la implementación de los sprints, asegurando que todas las partes estuvieran alineadas con los objetivos finales. Se aseguró de que el equipo mantuviera una planificación clara y alcanzara los objetivos propuestos, integrando continuamente las mejoras sugeridas durante el desarrollo.
-
-</td>
-</td>
-            <td>TB1: El equipo destacó por la creación de un entorno altamente colaborativo e inclusivo, donde cada miembro tuvo un rol activo en la planificación y ejecución de las tareas. La claridad en las metas y una adecuada distribución de las responsabilidades fueron fundamentales para el progreso fluido del proyecto. Al establecer una cultura de respeto y comunicación abierta, se logró cumplir con todos los objetivos propuestos de manera eficiente, lo que no solo permitió una mejor organización, sino que también mejoró el desempeño individual y grupal.<br>
-            
-
-</td>
-
-  </tr>
+    <tr>
+        <th style="text-align:center;">Criterio específico</th>
+        <th style="text-align:center;">Acciones realizadas</th>
+        <th style="text-align:center;">Conclusiones</th>
+    </tr>
+    <tr>
+        <td align="center">Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+        <td>
+            Briceño De La Cruz, Farid Sebastian <br>
+            TB1 <br>
+            Se encargó de la planificación inicial del proyecto y la distribución de roles entre los integrantes, promoviendo la equidad y una buena comunicación. Coordinó efectivamente al equipo, facilitando un entorno inclusivo y colaborativo que permitió una buena organización del trabajo. <br>
+            TP1 <br>
+            En colaboración con Jose, me encargué de liderar el desarrollo de la funcionalidad de Registro de Usuario (US06), donde trabajé en el diseño y validación de los formularios con HTML, CSS y JavaScript. Proporcioné liderazgo en el área del frontend, asegurándome de que la interfaz fuera responsive y fácil de usar, y al mismo tiempo, participé en las reuniones de planificación para ayudar a definir los roles y objetivos del sprint, contribuyendo a la organización conjunta del equipo.
+            <br> TP2 <br>
+            En esta fase del proyecto, lideré la actualización del front-end y la Landing Page, asegurándome de que todos los cambios fueran comunicados al equipo de manera efectiva. Trabajé en colaboración con Jose para integrar el backend con el front-end, promoviendo un ambiente donde todos pudieran aportar ideas y comentarios. Coordiné el diseño responsive, garantizando que cada miembro tuviera un rol claro y se sintiera parte del proceso de desarrollo, fomentando así un entorno inclusivo y colaborativo.
+            <br> TF <br>
+           No Participó
+            <br><br>
+            Gutierrez Garcia, Jose Eduardo <br>
+            TB1 <br>
+            Colaboró en la creación del front-end y la Landing Page, asegurándose de que la implementación fuera consistente con los requisitos del proyecto. Proporcionó liderazgo técnico al definir las mejores prácticas de desarrollo para la primera versión del front-end, logrando un resultado funcional y estéticamente coherente.
+            <br>TP <br>
+            Como Team Leader, trabajé en equipo para coordinar y liderar de manera conjunta, asegurando que todos los integrantes del equipo tuvieran una comunicación constante y efectiva. Colaboré estrechamente con Farid en la planificación de las tareas y supervisé el progreso de todos los miembros para cumplir los objetivos del sprint. También proporcioné liderazgo técnico durante la implementación de la funcionalidad de Inicio de Sesión (US07), colaborando en el desarrollo del frontend y la autenticación del backend, asegurándome de que todo estuviera alineado con las expectativas del equipo.
+            <br> TB2 <br>
+            Me enfoqué en el desarrollo del backend y el deployment en la nube, proporcionando liderazgo técnico y asegurando que la implementación cumpliera con los requisitos establecidos por el equipo. Trabajé de cerca con Farid para coordinar la integración entre el front-end y el backend, además de gestionar el despliegue en la nube. Fomenté un ambiente colaborativo, alentando la participación activa de todos en las decisiones técnicas y en la planificación de tareas.
+            <br> TF <br>
+            Trabajé en equipo para proporcionar liderazgo en forma conjunta durante la implementación del Bounded Context IAM. Lideré la actualización del backend, desarrollando la funcionalidad de login y el manejo de imágenes. Coordiné con Jefrey para asegurar que el frontend consumiera correctamente los endpoints del backend, logrando una integración fluida y efectiva. Promoví un ambiente colaborativo, tomando decisiones técnicas en conjunto y garantizando que las implementaciones cumplieran con los objetivos y estándares del equipo.
+            <br><br>
+            Huamani Aguilar, Jhon Rony <br>
+            TB1 <br>
+            Lideró la integración del sistema con el servicio RESTful, asegurando que el equipo comprendiera cómo utilizar y probar la API correctamente. Aportó un enfoque de liderazgo técnico y colaborativo, guiando al equipo en la integración exitosa del backend con el frontend.
+            <br>TP <br>
+           Colaboré con el equipo para liderar la integración del backend en la funcionalidad de Recuperación de Contraseña (US08). Trabajé de manera conjunta con Cristhian para garantizar que el proceso de validación y envío de correos electrónicos estuviera completamente integrado con las APIs RESTful. Guié al equipo en la implementación de las APIs y trabajamos en conjunto para resolver problemas técnicos, asegurando que todos estuvieran alineados y que la integración fuera exitosa.
+           <br> TB2 <br>
+           No Participó
+           <br> TF <br>
+           No Participó
+            <br><br>
+            Huanca Zevallos, Cristhian Joel <br>
+            TB1 <br>
+            Supervisó las sesiones de validación y pruebas iniciales, recopilando retroalimentación del equipo para mejorar la interfaz de usuario. Proporcionó un liderazgo centrado en la calidad, asegurando que las pruebas reflejaran el feedback real y contribuyendo a mejoras tangibles en el producto.
+            <br> TP <br>
+            En colaboración con Jhon, lideré la creación de los Mensajes de Error y Validaciones (US09) para los formularios del sistema. Trabajé junto al equipo para definir las pruebas iniciales, promoviendo un entorno colaborativo en el que todos aportamos mejoras en la interfaz de usuario. Mi enfoque de liderazgo fue garantizar que la calidad del producto reflejara el feedback del equipo, y trabajé junto con mis compañeros para implementar mejoras basadas en sus aportes.
+            <br> TB2 <br>
+            Lideré las entrevistas de validación y trabajé en el backend, asegurando que todos los aportes del equipo fueran considerados en la implementación. Fomenté un ambiente inclusivo durante las entrevistas, donde cada miembro tuvo la oportunidad de expresar sus opiniones y sugerencias. Colaboré con el equipo para integrar las validaciones necesarias, garantizando que el producto final cumpliera con los estándares de calidad y las expectativas del cliente.
+            <br> TF <br>
+           No Participó
+            <br><br>
+            Sanchez Ignacio, Jefrey Martin <br>
+            TB1 <br>
+            Dirigió las tareas relacionadas con la documentación del proyecto y los entregables del capítulo 5. A través de su liderazgo en la documentación, garantizó que todos los artefactos se presentaran de manera clara y organizada, facilitando el trabajo colaborativo y asegurando que los objetivos del sprint se cumplieran.
+            <br> TP <br> 
+            Trabajé en conjunto con mis compañeros en las pruebas de Registro de Usuario, Inicio de Sesión y Recuperación de Contraseña (US10), asegurando que todas las funcionalidades implementadas fueran testeadas exhaustivamente. Además, lideré el esfuerzo de documentación en equipo, organizando la información de manera clara y detallada para que todos pudieran referirse a ella durante el sprint. Colaboré con los demás para que la documentación apoyara la coordinación y facilitara la retroalimentación entre los integrantes.
+            <br> TB2 <br>
+            Colaboré en las entrevistas de validación y en el desarrollo del backend, asegurándome de que el equipo estuviera alineado en los objetivos y roles durante este proceso. Promoví un entorno colaborativo al facilitar la comunicación entre los miembros del equipo y asegurar que todas las voces fueran escuchadas. Mi enfoque en la retroalimentación y el trabajo conjunto permitió que las validaciones fueran efectivas y que se incorporaran mejoras significativas en el proyecto.
+            <br> TF <br>
+            Trabajó en equipo para proporcionar liderazgo en forma conjunta durante la actualización del frontend de la aplicación. Jefrey implementó los cambios necesarios para consumir los nuevos endpoints del backend, asegurando que las funcionalidades de login y manejo de imágenes fueran completamente integradas en la interfaz de usuario. Colaboró estrechamente con Jose en la planificación y ejecución técnica, fomentando una comunicación constante y efectiva para cumplir con los objetivos del sprint. Además, su participación fue clave para garantizar una experiencia de usuario consistente y alineada con los requisitos del proyecto.
+        </td>
+        <td>
+            TB1: <br>En este primer logro, el equipo demostró una sólida capacidad de liderazgo colaborativo. Cada integrante asumió roles clave que facilitaron la gestión del proyecto, desde la planificación inicial hasta la ejecución técnica. Gracias a un liderazgo compartido, el equipo mantuvo una comunicación constante y efectiva, lo que permitió alcanzar los objetivos propuestos dentro de los plazos estipulados. La sinergia entre los miembros fue crucial para crear un entorno de trabajo en el que las decisiones se tomaron en conjunto y donde cada persona aportó valor al éxito del proyecto.
+            <br>
+            TP1:<br> Durante el trabajo en el capítulo 5 del TP, el equipo fortaleció su capacidad de colaboración al desarrollar secciones críticas como el Sprint Planning 2 y el Backlog 2. La integración de los aportes de cada miembro permitió completar las secciones **5.2.2.1** a **5.2.2.8**, consolidando el desarrollo del front-end y el despliegue en Firebase.<br>
+            TB2:<br> En este segundo logro, el equipo demostró un notable crecimiento en su capacidad de trabajar en conjunto y proporcionar liderazgo compartido. Cada miembro asumió responsabilidades específicas que facilitaron la ejecución del proyecto, desde la actualización del front-end hasta el desarrollo del backend y el despliegue en la nube. La colaboración y la comunicación efectiva fueron fundamentales para alcanzar los objetivos establecidos y asegurar que cada voz fuera escuchada en el proceso. La cohesión del equipo permitió superar los desafíos y mejorar la calidad del producto final, destacando el compromiso de todos hacia el éxito del proyecto. <br>
+            TF1:<br> En este logro, el equipo consolidó su capacidad de trabajo colaborativo, demostrando un liderazgo conjunto que fue esencial para el avance del proyecto. La comunicación constante y la asignación clara de responsabilidades permitieron a cada miembro aportar de manera significativa. Jefrey, al actualizar el frontend y asegurar su integración con el backend, y Jose, al realizar las modificaciones necesarias en el backend, trabajaron estrechamente para cumplir con los objetivos de este sprint. La cohesión del equipo y la eficiencia en la coordinación de tareas fueron fundamentales para implementar las funcionalidades clave, como el login y la gestión de imágenes. Este enfoque colaborativo fortaleció el desarrollo del producto, asegurando que las tareas se ejecutaran dentro del plazo y con la calidad esperada, consolidando el éxito de esta entrega.
+        </td>
+    </tr>
+    <tr>
+        <td align="center">Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</td>
+        <td>
+            Briceño De La Cruz, Farid Sebastian <br>
+            TB1 <br>
+            Planificó y organizó las reuniones de equipo, asegurando que todos los integrantes pudieran participar activamente y se respetaran las opiniones de todos. Creó un entorno inclusivo y promovió la colaboración, logrando que las reuniones fueran productivas y que los objetivos del sprint se alcanzaran. 
+            <br>TP <br>
+            Me encargué de liderar el desarrollo de la funcionalidad de Registro de Usuario (US06), estableciendo metas claras para la implementación del formulario de registro y promoviendo un entorno colaborativo en el que todos los comentarios fueron bienvenidos. Trabajé en conjunto con Jose para planificar las tareas y asignarlas de manera equitativa, asegurándonos de que el diseño responsive del formulario cumpliera los objetivos propuestos. Fomenté la inclusión de todos los miembros del equipo, impulsando su participación activa en el desarrollo de la interfaz de usuario.
+            <br> TB2 <br>
+            En esta fase del proyecto, me encargué de actualizar el front-end y la Landing Page, estableciendo metas claras y planificando las tareas en colaboración con el equipo. Fomenté un entorno inclusivo al facilitar reuniones donde todos pudieran expresar sus ideas y preocupaciones. Trabajé de cerca con Jose para asegurar que nuestras tareas estuvieran alineadas, promoviendo la comunicación constante y el apoyo mutuo para cumplir con los objetivos establecidos.
+            <br> TF <br>
+           No Participó
+            <br><br>
+            Gutierrez Garcia, Jose Eduardo <br>
+            TB1 <br>
+            Desarrolló la primera versión del sistema backend, asegurándose de que las metas técnicas se alinearan con las necesidades del negocio. Ayudó a establecer metas claras y planificar el desarrollo técnico, asegurando que el equipo cumpliera con las expectativas del cliente y las necesidades funcionales.
+            <br> TP <br>
+            Como Team Leader, me aseguré de crear un entorno colaborativo e inclusivo donde todos los miembros del equipo pudieran aportar sus ideas y trabajar en conjunto hacia los objetivos del sprint. Trabajé en estrecha colaboración con Farid y el resto del equipo para establecer metas claras, planificar las tareas de forma efectiva y garantizar que todos tuvieran roles definidos. En particular, lideré la planificación de la funcionalidad de Inicio de Sesión (US07), asegurándome de que las metas se cumplieran dentro del tiempo previsto y fomentando la participación de todos en la toma de decisiones.
+            <br> TB2 <br>
+            Mi enfoque en el backend y el deployment en la nube se centró en crear un ambiente colaborativo donde todos los integrantes pudieran participar activamente. Establecí metas específicas para el desarrollo del backend y coordinar el despliegue, asegurándome de que todos comprendieran sus responsabilidades y cómo contribuir al éxito del proyecto. Promoví la planificación de tareas, realizando reuniones regulares para evaluar el progreso y ajustar las estrategias según fuera necesario, lo que permitió cumplir con los objetivos del sprint.
+            <br> TF <br>
+            Como líder del equipo, me aseguré de crear un entorno de trabajo inclusivo y colaborativo. Coordiné las tareas del equipo y establecí metas claras para que todos supieran qué se esperaba en este sprint. Mi principal responsabilidad fue actualizar el backend para implementar el sistema de inicio de sesión (login), lo cual fue crucial para el avance del proyecto. Además, trabajé en la implementación de la lectura de imágenes, lo que mejoró la funcionalidad. Me aseguré de que todos los objetivos del sprint se cumplieran a tiempo, y fui parte activa en la planificación para garantizar que el equipo tuviera un camino claro. Mi enfoque en la organización y la comunicación constante permitió que el equipo alcanzara los objetivos con éxito.
+            <br><br>
+            Huamani Aguilar, Jhon Rony <br>
+            TB1 <br>
+            Facilitó la comunicación entre los miembros del equipo técnico y los encargados del diseño, asegurando una integración armoniosa de los componentes visuales y funcionales. Su enfoque en la colaboración permitió una correcta integración de las interfaces de usuario y los servicios del backend, cumpliendo con los objetivos del proyecto.
+            <br> TP <br>
+            Creé un ambiente colaborativo al trabajar estrechamente con Cristhian en la integración del backend para la funcionalidad de Recuperación de Contraseña (US08). Establecimos objetivos claros para implementar la API y planificamos juntos las tareas para lograr una integración fluida entre el frontend y el backend. Nos aseguramos de que cada miembro del equipo entendiera su papel en el proceso, promoviendo una participación inclusiva y un trabajo conjunto que permitió cumplir con los objetivos del sprint.
+            <br> TB2 <br>
+            No Participó
+            <br> TF <br>
+           No Participó
+            <br><br>
+            Huanca Zevallos, Cristhian Joel <br>
+            TB1<br>
+            Se encargó de documentar las métricas del sprint y garantizar que todos los miembros cumplieran con sus tareas asignadas dentro del plazo. A través de una planificación eficaz, contribuyó a que se cumplieran todos los objetivos del sprint, promoviendo una colaboración constante y organizada.
+            <br>TP <br>
+            Lideré el desarrollo de los Mensajes de Error y Validaciones (US09), asegurándome de crear un entorno donde todas las ideas fueran escuchadas y consideradas. Junto con Jhon, planificamos las tareas necesarias para cumplir los objetivos de calidad del sprint, estableciendo metas alcanzables y asegurándonos de que todos los miembros del equipo participaran activamente en el proceso de validación. Fomenté un ambiente inclusivo donde todos se sintieron cómodos al compartir sus opiniones y sugerencias para mejorar el producto final.
+            <br> TB2 <br>
+            Lideré las entrevistas de validación y trabajé en el backend, estableciendo metas claras para el desarrollo de funcionalidades. Fomenté un ambiente colaborativo al invitar a todos a participar en las entrevistas, asegurando que las opiniones y sugerencias de cada miembro fueran consideradas. Esto no solo ayudó a crear un sentido de pertenencia, sino que también garantizó que el producto final cumpliera con las expectativas del equipo y del cliente.
+            <br> TF <br>
+           No Participó
+            <br><br>
+            Sanchez Ignacio, Jefrey Martin <br>
+            TB1 <br>
+            Validó las decisiones tomadas en relación con la estructura del proyecto y la implementación de los sprints, asegurando que todas las partes estuvieran alineadas con los objetivos finales. Se aseguró de que el equipo mantuviera una planificación clara y alcanzara los objetivos propuestos, integrando continuamente las mejoras sugeridas durante el desarrollo.
+            <br>TP <br>
+            Trabajé en un entorno colaborativo al liderar las pruebas de Registro de Usuario, Inicio de Sesión y Recuperación de Contraseña (US10), asegurando que cada miembro del equipo tuviera claras sus responsabilidades. Establecí metas para las pruebas y planifiqué las tareas de QA de manera inclusiva, permitiendo que todos los integrantes del equipo aportaran feedback. Además, me aseguré de cumplir con los objetivos de documentación del sprint, organizando la información de manera que facilitara el trabajo de todos y contribuyera a un ambiente inclusivo.
+            <br> TB2 <br>
+            Colaboré en las entrevistas de validación y en el desarrollo del backend, creando un entorno donde se priorizó la inclusión y la colaboración. Durante este proceso, establecimos metas comunes y planificamos las tareas de manera que cada miembro pudiera contribuir según sus fortalezas. Promoví un espacio abierto para la retroalimentación, lo que permitió que el equipo se ajustara rápidamente a las necesidades del proyecto y asegurara el cumplimiento de los objetivos.
+            <br> TF <br>
+            En este sprint, trabajé en la actualización del frontend para integrar correctamente el backend. Colaboré estrechamente con José, asegurándome de que las nuevas funcionalidades del backend se reflejaran correctamente en el frontend. Me aseguré de que la interfaz de usuario fuera intuitiva y fácil de usar, lo que mejoró la experiencia del usuario. Establecimos metas claras con el equipo y planificamos las tareas de manera efectiva para cumplir con los objetivos del sprint. Durante todo el proceso, mantuve una comunicación constante con José y el resto del equipo, asegurándome de que todos los miembros estuvieran alineados con los objetivos y el progreso. Gracias a este enfoque colaborativo, logramos completar nuestras tareas con éxito y a tiempo.
+        </td>
+        <td>
+            TB1: El equipo destacó por la creación de un entorno altamente colaborativo e inclusivo, donde cada miembro tuvo un rol activo en la planificación y ejecución de las tareas. La claridad en las metas y una adecuada distribución de las responsabilidades fueron fundamentales para el progreso fluido del proyecto. Al establecer una cultura de respeto y comunicación abierta, se logró cumplir con todos los objetivos propuestos de manera eficiente, lo que no solo permitió una mejor organización, sino que también mejoró el desempeño individual y grupal.
+            <br>
+            TP1: En el contexto del TP, el equipo demostró su capacidad para cumplir con las metas propuestas para el Sprint 2, logrando desarrollar las secciones correspondientes al capítulo 5. La planificación detallada y el cumplimiento de los objetivos permitieron que el equipo completara con éxito las funcionalidades de autenticación, pruebas y despliegue, garantizando una entrega sólida y de alta calidad del front-end de la aplicación en Firebase.
+            <br>
+            TB2: En este segundo logro, el equipo demostró un compromiso significativo con la creación de un entorno colaborativo e inclusivo. A través de la planificación de tareas y el establecimiento de metas claras, cada miembro pudo contribuir de manera efectiva al proyecto. La comunicación constante y el apoyo mutuo fueron esenciales para cumplir con los objetivos del sprint, lo que resultó en una mejor cohesión y un producto final de alta calidad. La inclusividad fomentada en cada etapa del proceso permitió que todas las voces fueran escuchadas, enriqueciendo el resultado del trabajo conjunto.
+            <br>
+            TF1: En este sprint, el equipo demostró un fuerte enfoque en la colaboración y el cumplimiento de objetivos. José y Jeffrey trabajaron de manera conjunta, creando un entorno inclusivo donde la comunicación constante fue clave para el avance del proyecto. José, con su liderazgo técnico, se encargó de implementar funcionalidades críticas en el backend, mientras que Jeffrey, en el frontend, aseguró la correcta integración y experiencia de usuario. Ambos establecieron metas claras para el sprint y se encargaron de planificar y ejecutar las tareas necesarias para cumplir con los objetivos dentro del tiempo estipulado. La colaboración efectiva entre los miembros del equipo y la capacidad de adaptarse a los retos del sprint garantizaron el éxito de la entrega, destacando la importancia de trabajar de manera unificada y alineada para lograr los resultados deseados.
+        </td>
+    </tr>
 </table>
+
 
 <br>
   
@@ -310,11 +405,11 @@ Validó las decisiones tomadas en relación con la estructura del proyecto y la 
 
 |                    Photo                        |                                                                                                                                                                                                                                                                                                    Description                                                                                                                                                                                                                                                                                                    |
 | :------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![Farid](./img/Chapter01/faridpfp.jpg) |                                                                                                                           Soy una persona entusiasta de la tecnología informática, poseo habilidad de liderazgo cuando es necesario y entre mis habilidades técnicas se encuentran el manejo de base de datos en entorno como SQL Server o MongoDB, también domino el lenguaje de marcado HTML.                                                                                                                         |
-| ![Jose](./img/Chapter01/Josepfp.jpg)  | Mi nombre es Jose Gutierrez, tengo 20 años, actualmente me encuentro cruzando mi 5to ciclo de la carrera de ingeniería de software en la UPC. Me gusta jugar videojuegos y practicar natación, soy un gran aficionado de la tecnología y del ensamblaje de computadoras. Me considero una persona dispuesta siempre a aprender tecnologías nuevas, creativa y responsable. |
-|  ![Jhon](./img/Chapter01/jhonpfp.jpg)   |                                                                                                                                                              Soy estudiante de Ingeniería de Software. Cuento con conocimientos básicos en C++, SQL, Python, HTML y CSS. A lo largo de la carrera he desarrollado habilidades que me permiten ofrecer soluciones efectivas a los desafíos que se presenten.                                                                                                                                                            |
-|  ![Cristhian](./img/Chapter01/Cristhianpfp.png)  |                                                                                                                              Me considero una persona  proactiva, organizada y responsable al momento de desarrollar un nuevo proyecto en mi vida. En un grupo de trabajo siempre trato de respetar las opiniones de los demás, trato de entender los demás puntos de vista y animo a estar en unión frente a un problema.                                                                                                                              |
-|    ![Jefrey](./img/Chapter01/Jefreypfp.png)    |                                                                                                                                                                                                 Me considero una persona amable, que trabaja en equipo, tengo habilidades en html, css, javascript, C++. Estoy con muchas ganas de aprender del curso y de mis compañeros.                                                                                                                                                                                                 |
+| ![Farid](./img/chapter01/faridpfp.jpg) |                                                                                                                           Soy una persona entusiasta de la tecnología informática, poseo habilidad de liderazgo cuando es necesario y entre mis habilidades técnicas se encuentran el manejo de base de datos en entorno como SQL Server o MongoDB, también domino el lenguaje de marcado HTML.                                                                                                                         |
+| ![Jose](./img/chapter01/Josepfp.jpg)  | Mi nombre es Jose Gutierrez, tengo 20 años, actualmente me encuentro cruzando mi 5to ciclo de la carrera de ingeniería de software en la UPC. Me gusta jugar videojuegos y practicar natación, soy un gran aficionado de la tecnología y del ensamblaje de computadoras. Me considero una persona dispuesta siempre a aprender tecnologías nuevas, creativa y responsable. |
+|  ![Jhon](./img/chapter01/jhonpfp.jpg)   |                                                                                                                                                              Soy estudiante de Ingeniería de Software. Cuento con conocimientos básicos en C++, SQL, Python, HTML y CSS. A lo largo de la carrera he desarrollado habilidades que me permiten ofrecer soluciones efectivas a los desafíos que se presenten.                                                                                                                                                            |
+|  ![Cristhian](./img/chapter01/Cristhianpfp.png)  |                                                                                                                              Me considero una persona  proactiva, organizada y responsable al momento de desarrollar un nuevo proyecto en mi vida. En un grupo de trabajo siempre trato de respetar las opiniones de los demás, trato de entender los demás puntos de vista y animo a estar en unión frente a un problema.                                                                                                                              |
+|    ![Jefrey](./img/chapter01/Jefreypfp.png)    |                                                                                                                                                                                                 Me considero una persona amable, que trabaja en equipo, tengo habilidades en html, css, javascript, C++. Estoy con muchas ganas de aprender del curso y de mis compañeros.                                                                                                                                                                                                 |
 
 ## 1.2. Solution Profile
 
@@ -832,7 +927,8 @@ Entrevista N°1:
 
 <img src="./img/Chapter02/EntrevistaHarold.png" alt="Entrevista con Harold" style="width: 600px; height: auto;">
 
-**Enlace:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EcCSsXuECudMq43U96doDSoBjlRz9pEakJAKjz9886APtQ?e=TCRqC8"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EcCSsXuECudMq43U96doDSoBjlRz9pEakJAKjz9886APtQ?e=TCRqC8</a>
+**Enlace:**
+[Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EcCSsXuECudMq43U96doDSoBjlRz9pEakJAKjz9886APtQ?e=TCRqC8)
 
 **Resumen de la Entrevista**: Harold, un estudiante de 20 años de Ingeniería de Software, fue entrevistado sobre su interés en la plataforma Ridefind, dedicada al alquiler de vehículos alternativos y sostenibles. Aunque no utiliza estos medios de transporte con frecuencia, muestra interés por su impacto ecológico. Valora la facilidad de uso, la disponibilidad y un precio accesible en una plataforma de alquiler. Sus principales preocupaciones son la seguridad y la calidad de los vehículos. Harold también sugiere que la plataforma podría educar a sus usuarios y fomentar una comunidad. Está dispuesto a recomendar la plataforma si cumple con sus expectativas.
 
@@ -847,8 +943,8 @@ Entrevista N°2:
 
 <img src="./img/Chapter02/EntrevistaLuis.png" alt="Entrevista con Harold" style="width: 600px; height: auto;"><br>
 
-**Enlace:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EQAWSuW1CB9BhDIb-DEdFUgBE_27nMdsPVxCreJ9n0pLxQ?e=16i45B"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EQAWSuW1CB9BhDIb-DEdFUgBE_27nMdsPVxCreJ9n0pLxQ?e=16i45B</a>
-
+**Enlace:**
+[Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EQAWSuW1CB9BhDIb-DEdFUgBE_27nMdsPVxCreJ9n0pLxQ?e=16i45B)
 
 **Resumen de la Entrevista:** 	Luis Anthony, un comprador de autos de 24 años, usa medios de transporte alternativos ocasionalmente, valorando su flexibilidad, conveniencia y menor impacto ambiental. Aunque ha tenido experiencias positivas con plataformas de alquiler, sus principales preocupaciones son la seguridad, calidad y disponibilidad de los vehículos. Le interesaría usar RideFind sí ofrece tarifas competitivas, una variedad adecuada de vehículos y promociones. Recomendaría la plataforma si cumple con sus expectativas de calidad y facilidad de uso.
 
@@ -863,7 +959,7 @@ Entrevista N°3:
 
 <img src="./img/Chapter02/EntrevistaSabiel.png" alt="Entrevista con Harold" style="width: 600px; height: auto;"><br>
 
-**Enlace:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EdW4MG4fMRZFtuoBaQlOyW0Bv3gGBsH-9aUTnfLxTnVoUA?e=UWE5n8"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EdW4MG4fMRZFtuoBaQlOyW0Bv3gGBsH-9aUTnfLxTnVoUA?e=UWE5n8</a>
+**Enlace:**[Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EdW4MG4fMRZFtuoBaQlOyW0Bv3gGBsH-9aUTnfLxTnVoUA?e=UWE5n8)
 
 **Resumen de la Entrevista:** Sabiel, un estudiante de 20 años de Ingeniería Mecánica, utiliza frecuentemente una bicicleta eléctrica para movilizarse a su universidad, motivado por el ahorro de dinero y la comodidad. Nunca ha utilizado una plataforma de alquiler de vehículos, pero considera importantes la calidad, seguridad, y la facilidad de uso en una plataforma.
  Además, valora que los precios sean justos y la variedad de vehículos. Estaría motivado a volver a utilizar la plataforma si esta ofrece descuentos o cupones para usuarios frecuentes. Sabiel también mencionó que recomendaría la plataforma a amigos y familiares si cumple con sus expectativas.
@@ -881,7 +977,7 @@ Entrevista N°1:
 
 <img src="./img/Chapter02/EntrevistaSteven.png" alt="Entrevista con Harold" style="width: 600px; height: auto;"><br>
 
-**Enlace:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1</a>
+**Enlace:** [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1)
 
 **Resumen de la Entrevista:** Stiven, un profesional de 35 años que posee una bicicleta eléctrica y un scooter eléctrico, fue entrevistado sobre su disposición e interés en compartir sus vehículos a través de la plataforma RideFind. Utiliza su bicicleta eléctrica a diario para ir al trabajo, mientras que el scooter lo utiliza principalmente los fines de semana. Aunque nunca ha alquilado sus vehículos antes, Stiven está interesado en hacerlo, especialmente con su scooter, con la intención de generar ingresos adicionales. Para él, los aspectos más importantes al alquilar su vehículo son la seguridad y un precio justo. Sus principales preocupaciones incluyen posibles daños a sus vehículos y asegurarse de que el alquiler sea rentable. Stiven considera que un seguro integral y un sistema de calificaciones para los usuarios serían características clave para sentirse cómodo al ofrecer su vehículo en alquiler. Él espera que la experiencia en la plataforma sea simple y transparente, y estaría dispuesto a continuar utilizando y recomendar la plataforma si cumple con sus expectativas de rentabilidad, seguridad y facilidad de uso.
 
@@ -896,7 +992,8 @@ Entrevista N°2:
 
 <img src="./img/Chapter02/EntrevistaGimena.png" alt="Entrevista con Gimena" style="width: 600px; height: auto;"><br>
 
-<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EZot7z-5ZzxJiBx9pe2-4YMBjAaj3e8lpuOhQ7c0G4UFRQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dWx1gU"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EZot7z-5ZzxJiBx9pe2-4YMBjAaj3e8lpuOhQ7c0G4UFRQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dWx1gU </a>
+**Enlace:**
+[Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EZot7z-5ZzxJiBx9pe2-4YMBjAaj3e8lpuOhQ7c0G4UFRQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dWx1gU)
 
 **Resumen de la Entrevista**: Gimena, una emprendedora de 26 años, posee una moto eléctrica que utiliza regularmente para reuniones y un scooter eléctrico que apenas utiliza. Está interesada en compartir sus vehículos a través de la plataforma RideFind para aprovechar su scooter y generar ingresos adicionales. Aunque nunca ha alquilado sus vehículos antes, está dispuesta a probar la plataforma si esta ofrece garantías adecuadas. Los aspectos más importantes para Gimena al alquilar sus vehículos son la seguridad, un precio competitivo y condiciones claras. Sus principales preocupaciones son que el vehículo sufra daños o que no sea cuidado adecuadamente. Valora que la plataforma ofrezca un seguro y un sistema de calificaciones para los usuarios, lo que le daría más confianza. Espera una experiencia rápida, sencilla y automatizada. Gimena continuaría utilizando la plataforma a largo plazo si le resulta rentable y sus vehículos son bien cuidados, y estaría dispuesta a recomendarla si tiene una experiencia positiva.
 
@@ -911,7 +1008,7 @@ Entrevista N°3:
 
 <img src="./img/Chapter02/EntrevistaSebas.png" alt="Entrevista con Sebastian" style="width: 600px; height: auto;"><br>
 
-<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ES6SusUIAe1Evh6zgGRi5AoBH-SerCMW3tTJta2Bj9vpzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gWHAek"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ES6SusUIAe1Evh6zgGRi5AoBH-SerCMW3tTJta2Bj9vpzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gWHAek</a>
+**Enlace:** [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ES6SusUIAe1Evh6zgGRi5AoBH-SerCMW3tTJta2Bj9vpzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gWHAek)
 
 **Resumen de la Entrevista:** Juan Sebastián, de 25 años, es dueño de una pequeña flota de vehículos eléctricos, compuesta por cinco bicicletas eléctricas y tres scooters, que alquila en su tienda física. Utiliza regularmente uno de sus scooters y está interesado en compartir sus vehículos a través de RideFind para ampliar su mercado y llegar a más clientes potenciales. Ya tiene experiencia en el alquiler de vehículos, pero quiere expandir su negocio. Para él, la seguridad de los vehículos, un precio competitivo y condiciones claras son esenciales. Sus principales preocupaciones incluyen daños significativos a los vehículos y un retorno de inversión insuficiente. Juan Sebastián se sentiría más cómodo si la plataforma ofrece un seguro completo y un riguroso proceso de verificación de usuarios. Considera que la plataforma debe ser fácil de usar, con una interfaz intuitiva. Continuaría usando RideFind si le ayuda a incrementar sus ingresos y a mantener sus vehículos en buen estado, y la recomendaría a otros propietarios si cumple con sus expectativas de seguridad, rentabilidad y facilidad de uso.
 
@@ -2862,6 +2959,845 @@ Para llevar a cabo este proyecto se usaron distintas herramientas como Visual St
 
 <a href="deploy01"><img src="./img/Chapter05/git2.png" alt="type" border="0"></a>
 
+<br>
+
+#### 5.2.2. Sprint 2.
+#### 5.2.2.1. Sprint Planning 2.
+
+<table>
+  <tr>
+    <th> Sprint # </th>
+    <th> Sprint 2 </th>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Planning Background </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Date </td>
+    <td> 14/09/2024 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Time </td>
+    <td> 19:00 horas (GMT-5) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Location </td>
+    <td> Virtual (Google Meet) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Prepared By </td>
+    <td> Gutierrez Garcia, Jose Eduardo </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+    <td>
+      Briceño De La Cruz, Farid Sebastian<br>
+      Gutierrez Garcia, Jose Eduardo<br>
+      Huamani Aguilar, Jhon Rony<br>
+      Huanca Zevallos, Cristhian Joel<br>
+      Sanchez Ignacio, Jefrey Martin<br>
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
+    <td> En este sprint se completaron las principales secciones de la Landing Page y se realizaron pruebas básicas para asegurar su correcto funcionamiento. Se logró que la página se visualice correctamente en diferentes dispositivos, asegurando una experiencia responsiva. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
+    <td> Se identificó la necesidad de establecer una mejor comunicación en la asignación de tareas y definir criterios de aceptación más claros para cada historia de usuario. Se acordó realizar reuniones diarias más breves y enfocadas. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Goal </td>
+    <td> Implementar las funcionalidades de registro e inicio de sesión para la aplicación RideFind, asegurando que los usuarios puedan crear cuentas, autenticarse y recuperar contraseñas. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 2 Velocity </td>
+    <td> <strong>10</strong><br> Se estima una capacidad de 10 Story Points para este sprint, considerando la complejidad de las funcionalidades relacionadas con el registro e inicio de sesión. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sum of Story Points </td>
+    <td> 10 </td>
+  </tr>
+</table>
+
+#### 5.2.2.2. Sprint Backlog 2.
+
+| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
+| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
+| US06 | Funcionalidad de Registro de Usuario | TS06 | Desarrollo del formulario de registro (HTML, CSS y JS). | Crear un formulario de registro de usuario con validación de datos y diseño responsive para todos los dispositivos. | 10                 | Farid         | InProcess                              |
+| US07 | Funcionalidad de Inicio de Sesión    | TS07 | Desarrollo de inicio de sesión (HTML, CSS, JS y Backend). | Implementar la funcionalidad de inicio de sesión utilizando autenticación en backend y diseño responsive. | 12                 | Jose          | To-do                                  |
+| US08 | Recuperación de Contraseña           | TS08 | Recuperación de contraseña (HTML, CSS, JS y Backend). | Implementar la funcionalidad de recuperación de contraseña con envío de correo y validación de código. | 8                  | Jhon          | To-do                                  |
+| US09 | Mensajes de Error y Validaciones      | TS09 | Mensajes de error y validaciones (HTML, CSS y JS). | Crear mensajes de error y validaciones visuales para los formularios de registro e inicio de sesión. | 6                  | Cristhian     | To-do                                  |
+| US10 | Pruebas de la Funcionalidad          | TS10 | Pruebas de validación y funcionalidad (QA). | Realizar pruebas de validación y funcionalidad para asegurarse de que el registro, inicio de sesión y recuperación de contraseña funcionen correctamente. | 6                  | Jefrey        | To-do                                  |
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
+|:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
+| RideFind-FrontEnd | main | 6d9ca50ced635ff55453038eca62f8d9c59aa96b | Initial commit | Create .gitignore| 27/09/2024 |
+| RideFind-FrontEnd | develop | e7e8e6b2b3cdd8c0d0c983df572705eec22ca4ce | feat: develop | Update http-common.js | 28/09/2024 |
+| RideFind-FrontEnd | develop | 8350dbc4c55f12f94c09c98f4b2e2a3754d5729d | feat:login | Upload RideFind FrontEnd | 27/09/2024 |
+| RideFind-FrontEnd | develop | 87aea777d2da7e056a3f63bda68a52f52e7a4c9a | feat: order-owner  | create order-owner | 27/09/2024 |
+| RideFind-FrontEnd | develop | 05866f6bd76c7860f20eb5d426e26fc4241f805a | Feat: Owner-profile | create profiles | 27/09/2024 |
+| RideFind-FrontEnd | develop | 8350dbc4c55f12f94c09c98f4b2e2a3754d5729d | feat: Plans | view plans | 27/09/2024 |
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando la herramienta Gherkin. Puedes encontrar los escenarios de estas pruebas dando click aqui: [https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Acceptance-Tests](https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Acceptance-Tests).
+
+| Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
+|:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
+| RideLink | main | 6d9ca50ced635ff55453038eca62f8d9c59aa96b | Initial commit |  | 27/09/2024 |
+|  | main | 05866f6bd76c7860f20eb5d426e26fc4241f805a | feat: develop |  | 28/09/2024 |
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+Durante este sprint, el equipo de RideFind ha logrado optimizar y completar la creación del front-end de la aplicación, incorporando mejoras significativas en la estructura y la usabilidad de las principales interfaces. El nuevo diseño ofrece una navegación más fluida y una disposición coherente de los componentes, proporcionando una experiencia de usuario más satisfactoria e intuitiva.
+
+Enlace al despliegue del front-end de RideFind en GitHub Pages: 
+
+En la sección del header, se han ajustado los elementos del menú de navegación y se han mejorado los estilos visuales, brindando una interfaz moderna y responsiva. Además, se ha incluido un mensaje claro y conciso que resalta los beneficios de utilizar la plataforma RideFind, alineado con la misión y visión de la startup.
+
+<a href="deploy02"><img src="./img/Chapter05/appweb1.jpg" alt="type" border="0"></a>
+
+<a href="deploy02"><img src="./img/Chapter05/appweb2.jpg" alt="type" border="0"></a>
+
+<a href="deploy02"><img src="./img/Chapter05/appweb3.jpg" alt="type" border="0"></a>
+
+<a href="deploy02"><img src="./img/Chapter05/appweb4.jpg" alt="type" border="0"></a>
+
+<a href="deploy02"><img src="./img/Chapter05/appweb5.jpg" alt="type" border="0"></a>
+
+<a href="deploy01"><img src="./img/Chapter05/appweb6.jpg" alt="type" border="0"></a>
+
+<a href="deploy01"><img src="./img/Chapter05/appweb7.jpg" alt="type" border="0"></a>
+
+
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+En esta entrega, nos enfocamos en todo lo que es el Front, por lo que no fue necesario ningún servicio adicional.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Para este sprint, se utilizó Firebase como la plataforma de despliegue para el front-end de la aplicación RideFind. La elección de Firebase nos permitió implementar y gestionar de manera eficiente el código almacenado en nuestro repositorio, garantizando una integración continua y un despliegue rápido. El front-end de la aplicación se encuentra ahora disponible, asegurando una entrega fluida de la interfaz al usuario final.
+
+Enlace del despliegue del front-end en Firebase: https://ridefind-frontend.web.app/myProfile.
+
+
+#### 5.2.2.8. Team Collaboration insights during sprint.
+
+Para el desarrollo de este proyecto se emplearon diversas herramientas, entre ellas WebStorm para la programación y edición del código, junto con el control de versiones utilizando Git. La estructura del front-end se dividió en secciones individuales, permitiendo a cada miembro del equipo trabajar en su parte correspondiente. Posteriormente, un integrante del equipo consolidó todas las secciones en un solo proyecto, obteniendo así el resultado final esperado de manera coordinada y eficiente.
+
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Spring Planning 3
+
+<table>
+  <tr>
+    <th> Sprint # </th>
+    <th> Sprint 3 </th>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Planning Background </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Date </td>
+    <td> 01/11/2024 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Time </td>
+    <td> 19:00 horas (GMT-5) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Location </td>
+    <td> Virtual (Google Meet) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Prepared By </td>
+    <td> Gutierrez Garcia, Jose Eduardo </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+    <td>
+      Briceño De La Cruz, Farid Sebastian<br>
+      Gutierrez Garcia, Jose Eduardo<br>
+      Huamani Aguilar, Jhon Rony <br>
+      Huanca Zevallos, Cristhian Joel <br>
+      Sanchez Ignacio, Jefrey Martin <br>
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Review Summary </td>
+    <td> Durante este sprint, se completaron las actualizaciones en el backend para soportar la funcionalidad de reservas y la gestión de disponibilidad de vehículos. Además, se avanzó en la mejora de la Landing Page y la actualización del front-end para ofrecer una experiencia de usuario más intuitiva y consistente con los requisitos de usabilidad. Las pruebas iniciales mostraron comentarios positivos en la navegación y la facilidad de uso del sistema de reservas. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Retrospective Summary </td>
+    <td>Se identificó la necesidad de optimizar la colaboración en las tareas del backend y el front-end para reducir el tiempo de integración. Se propuso mejorar la coordinación en las revisiones de código, con un enfoque específico en la consistencia del diseño y la optimización del flujo de trabajo para las pruebas de funcionalidades críticas. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Goal </td>
+    <td> Completar la integración del sistema de reservas y gestión de disponibilidad en la plataforma, permitiendo a los usuarios realizar y gestionar alquileres de manera fluida y a los propietarios actualizar la disponibilidad de sus vehículos. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 3 Velocity </td>
+    <td> <strong>46</strong><br> Se estimó una capacidad de 46 Story Points para este sprint, abarcando el desarrollo, pruebas y despliegue de la funcionalidad de reservas, así como la actualización y validación de la Landing Page.</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sum of Story Points </td>
+    <td> 46 </td>
+  </tr>
+</table>
+
+#### 5.2.3.2. Sprint Backlog 3
+
+| id   | Title                                 | Id    | Title                                                          | Description                                                                                                              | Estimations(Hours) | Assigned To   | Status (To-do /InProcess/ToReview/Done) |
+|------|---------------------------------------|-------|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------|---------------|------------------------------------------|
+| US11 | Funcionalidad de Reserva de Vehículo  | TS11  | Formulario de Reserva (HTML, CSS, JS y Backend).              | Crear un formulario para que los usuarios puedan reservar vehículos, con validación de datos y diseño responsive.       | 12                  | Farid         | Done                                   |
+| US12 | Gestión de Disponibilidad             | TS12  | Panel de gestión de disponibilidad (HTML, CSS, JS y Backend). | Desarrollar un panel que permita a los propietarios gestionar la disponibilidad de sus vehículos en la plataforma.      | 10                  | Jose          | Done                                   |
+| US13 | Confirmación y Notificaciones         | TS13  | Notificaciones de confirmación de reserva (Backend).           | Implementar una funcionalidad que envíe confirmaciones de reserva y notificaciones a usuarios y propietarios.           | 8                   | Jhon          | Done                                   |
+| US14 | Cancelación y Reembolso               | TS14  | Funcionalidad de cancelación y reembolso (Backend).           | Crear un sistema que permita cancelar reservas y gestionar los reembolsos, asegurando notificaciones adecuadas.         | 10                  | Cristhian     | Done                                    |
+| US15 | Pruebas de Funcionalidad de Reserva   | TS15  | Pruebas de validación de reserva (QA).                        | Realizar pruebas para validar la funcionalidad de reserva, gestión de disponibilidad y cancelación en diferentes casos. | 6                   | Jefrey        | Done                                   |
+
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+
+
+| Repository   [RideFind <br> BackEnd](https://github.com/upc-pre-202401-si730-ws51-RideLink/Ridefind-BackEnd)    | Branch    | Commit Id                              | Commit <br>Message     | Commit <br>Message Body                         | Commited <br>on (Date) |
+|:----------------:|:---------:|:--------------------------------------:|:-----------------------:|:-----------------------------------------------:|:------------------------:|
+| RideFind-BackEnd | develop   | 3e91732  | feat(shared): add initial backend structure and shared module |   | 03/11/2024              |
+| RideFind-BackEnd | feat/vehicle   | bb1ee8c  | feat(vehicle): add complete vehicle bounded context |   | 03/11/2024              |
+| RideFind-BackEnd | feat/userProfile  | 465f39  | feat(userProfile): add complete userProfile bounded context |   | 03/11/2024              |
+| RideFind-BackEnd | feat/order   | 0fc4ed2  | feat(order): add complete order bounded context |   | 03/11/2024              |
+| RideFind-BackEnd | feat/azure-settings  | bdd0a69 | feat(deploy): add deployment configuration files |   | 03/11/2024              |
+| RideFind-BackEnd | develop | 483edfd  | merge(azure-settings): integrate Azure deployment settings into develop |   | 03/11/2024              |
+| RideFind-BackEnd | main  | 9b4d0bd  | merge(azure-settings): merge Azure deployment settings from develop to main |   | 03/11/2024              |
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+
+Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando la herramienta Gherkin. Puedes encontrar los escenarios de estas pruebas dando click aquí: [https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Acceptance-Tests](https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Acceptance-Tests)
+
+
+| Repository | Branch  | Commit Id                              | Commit <br>Message       | Commit <br>Message Body              | Commited <br>on (Date) |
+|:----------:|:-------:|:--------------------------------------:|:-------------------------:|:------------------------------------:|:------------------------:|
+| RideLink   | main    | 1234567abcd1234567abcd1234567abcd1234  | feat: reservation-tests  | Add acceptance tests for reservation functionality | 30/10/2024              |
+| RideLink   | main    | 2345678abcd2345678abcd2345678abcd2345  | feat: notifications-test | Implement tests for notification feature | 30/10/2024              |
+| RideLink   | main    | 3456789abcd3456789abcd3456789abcd3456  | feat: cancellation-tests | Add tests for booking cancellation and refund process | 30/10/2024              |
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+En este sprint, el equipo de RideFind completó exitosamente la creación y el deployment del BackEnd API en Azure Web Services, utilizando mySQL for Azure como base de datos. Esta infraestructura garantiza un entorno escalable y seguro para el almacenamiento y gestión de datos de usuarios, clientes y mascotas, cumpliendo con los estándares de rendimiento y seguridad necesarios para la aplicación.
+
+Además, se desplegó una nueva versión de la landing page y del frontend de la aplicación, lo cual mejora la experiencia de usuario y proporciona acceso a funcionalidades clave implementadas en este sprint, como la creación y gestión de perfiles de usuario y mascota. Esta actualización también incluye videos informativos sobre el producto y el equipo, que proporcionan una visión general de los servicios de RideFind.
+
+La API del backend se documenta mediante Swagger, facilitando el acceso a todos los endpoints para el equipo de desarrollo y futuros colaboradores.
+
+Enlace a la documentación de la API en Swagger:
+
+Enlace del deployment del BackEnd: [https://ridefind-habtgfbff5fqddgw.eastus2-01.azurewebsites.net/index.html](https://ridefind-habtgfbff5fqddgw.eastus2-01.azurewebsites.net/index.html)
+
+Enlace del deployment del FrontEnd: [https://ridefind-frontend.web.app/](https://ridefind-frontend.web.app/)
+
+Enlace del deployment de la Landing Page: [https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/](https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/)
+
+Este despliegue asegura una base sólida para el funcionamiento de  RideFind, dejando el backend, el frontend y la landing page listos para futuras integraciones y escalabilidad conforme crezcan las necesidades del proyecto.
+
+
+**Swagger UI**
+
+<img src="./img/Chapter05/swagger.png">
+
+**Seccion video about the team en landing page**
+
+<img src="./img/Chapter05/landingvideo1.png">
+
+**Seccion video about the product en landing page**
+
+<img src="./img/Chapter05/landingvideo2.png">
+
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+En el alcance del Sprint 3 de RideFind, se priorizó el desarrollo y despliegue del BackEnd API en Azure Web Services, junto con la implementación de las funcionalidades de reserva y gestión de disponibilidad para los vehículos. Para garantizar una integración efectiva y un uso accesible de los servicios, se ha documentado detalladamente el backend utilizando Swagger. Esto facilita que tanto desarrolladores como colaboradores accedan a la API y entiendan los endpoints disponibles.
+
+La documentación incluye:
+
+- Descripción de los endpoints para la funcionalidad de reservas y gestión de disponibilidad de vehículos.
+- Detalles sobre las operaciones permitidas, incluyendo la creación, actualización y eliminación de reservas.
+- Ejemplos de solicitudes y respuestas para cada endpoint, lo cual simplifica la integración y asegura un flujo adecuado entre el frontend y el backend.
+- Información sobre los mensajes de error y validaciones para cada operación.
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Durante este sprint, se ha completado el desarrollo del backend de la aplicación web, así como la actualización del frontend. Para el despliegue, se utilizaron las siguientes herramientas y servicios:
+
+- **Git:** Sistema de control de versiones utilizado para facilitar la colaboración entre los miembros del equipo y monitorear las versiones de la aplicación web en un repositorio remoto.
+
+- **GitFlow:** Este flujo de trabajo colaborativo nos permitió gestionar las ramas del repositorio de manera efectiva, asegurando que el desarrollo de nuevas funcionalidades se hiciera en ramas separadas y facilitando la integración al proyecto principal.
+
+- **GitHub Desktop:** Herramienta de interfaz gráfica que utilizamos para interactuar con nuestro repositorio de GitHub de manera intuitiva, simplificando la gestión de commits, ramas y pull requests.
+
+- **GitHub:** Plataforma de desarrollo colaborativo que nos proporcionó el repositorio donde almacenamos y gestionamos el código fuente de nuestro proyecto, facilitando el seguimiento de cambios y la colaboración.
+
+- **Azure Web Services:** Servicio en la nube utilizado para desplegar el backend de nuestra aplicación. Esto nos permitió implementar una infraestructura escalable y segura para la API de RideFind.
+
+- **MySQL for Azure:** Servicio de base de datos en la nube que utilizamos para almacenar y gestionar los datos de la aplicación. Esta solución proporcionó un entorno robusto para nuestras operaciones de backend.
+
+Enlace del deployment del BackEnd: [https://ridefind-habtgfbff5fqddgw.eastus2-01.azurewebsites.net/index.html](https://ridefind-habtgfbff5fqddgw.eastus2-01.azurewebsites.net/index.html)
+
+Enlace del deployment del FrontEnd: [https://ridefind-frontend.web.app/](https://ridefind-frontend.web.app/)
+
+Enlace del deployment de la Landing Page: [https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/](https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/)
+
+
+Este enfoque integral asegura que tanto el frontend como el backend de la aplicación estén correctamente implementados y funcionales, permitiendo a los usuarios finales una experiencia óptima al interactuar con RideFind.
+
+
+<img src="./img/Chapter05/sprint3.png">
+
+<img src="./img/Chapter05/deploybackend.png">
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 3, el equipo se centró en el desarrollo y despliegue del backend en Azure Web Services para la plataforma RideFind, trabajando en las funcionalidades de Reserva de Vehículos y Gestión de Disponibilidad. Para la programación y gestión del backend, se utilizó Visual Studio Code y Git para el control de versiones, permitiendo un flujo de trabajo eficiente en las distintas fases de desarrollo.
+
+Para coordinar las tareas del equipo y realizar un seguimiento de los avances, se emplearon herramientas como Trello para la gestión de tareas y Slack para una comunicación ágil. Esto facilitó la colaboración en tiempo real y permitió realizar revisiones constantes para asegurar que las nuevas funcionalidades fueran desarrolladas de acuerdo con los requisitos.
+
+Cada miembro del equipo se encargó de tareas específicas en el backend, y al finalizar el sprint, se consolidaron los avances en una versión integrada. Gracias a esta colaboración efectiva y al uso adecuado de las herramientas, se lograron los objetivos de Sprint 3, sentando las bases para próximas integraciones con el frontend.
+
+| Username (GitHub) | Nombre                         |
+| ----------------- | ------------------------------ |
+| InjustShin        | Farid Sebastian Briceño De La Cruz     |
+| elcrackje         | Gutierrez Garcia, Jose Eduardo         |
+| JhonHuam          | Huamani Aguilar, Jhon Rony            |
+| JoelHuanca        | Huanca Zevallos, Cristhian Joel        |
+| Jefrey            | Sanchez Ignacio, Jefrey Martin         | 
+
+
+A continuación se mostrarán los gráficos de insights durante el sprint:
+
+Anexo: Flujo de trabajo entre las ramas.
+
+<img src="./img/Chapter05/gitflow3.png">
+
+Anexo: Tablas de commits en el periodo de 1 mes.
+
+<img src="./img/Chapter05/commit3.png">
+
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+
+<table>
+  <tr>
+    <th> Sprint # </th>
+    <th> Sprint 4 </th>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Planning Background </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Date </td>
+    <td> 21/11/2024 </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Time </td>
+    <td> 13:00 horas (GMT-5) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Location </td>
+    <td> Virtual (Google Meet) </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Prepared By </td>
+    <td> Gutierrez Garcia, Jose Eduardo </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+    <td>
+      Briceño De La Cruz, Farid Sebastian<br>
+      Gutierrez Garcia, Jose Eduardo<br>
+      Huamani Aguilar, Jhon Rony <br>
+      Huanca Zevallos, Cristhian Joel <br>
+      Sanchez Ignacio, Jefrey Martin <br>
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 4 Review Summary </td>
+    <td> Durante este sprint, se implementó el sistema de autenticación y gestión de usuarios (IAM) con funcionalidades de login en la nueva versión del front-end. También se completó la integración del backend con esta funcionalidad y se desplegó completamente en la nube. El sistema fue probado y validado, confirmando su correcto funcionamiento y la capacidad de manejar sesiones de usuario de manera segura. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 4 Retrospective Summary </td>
+    <td>Se identificó que la planificación inicial de tareas relacionadas con el IAM podría haberse coordinado mejor para evitar retrasos en la integración del front-end y el backend. Para futuros sprints, se recomendó realizar revisiones intermedias más frecuentes y documentar claramente los criterios de aceptación de las funcionalidades críticas. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 4 Goal </td>
+    <td>Implementar el sistema de autenticación y gestión de usuarios, integrarlo con el front-end actualizado y desplegar completamente el backend funcional en la nube. </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sprint 4 Velocity </td>
+    <td> <strong>46</strong><br> Se estimó una capacidad de 35 Story Points, que incluyó la implementación del sistema IAM, actualizaciones en el front-end y el despliegue final del backend en la nube.</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;"> Sum of Story Points </td>
+    <td> 35 </td>
+  </tr>
+</table>
+
+#### 5.2.4.2. Sprint Backlog 4
+
+| **ID**  | **Title**                              | **Task ID** | **Task Title**                                    | **Description**                                                                                     | **Estimations (Hours)** | **Assigned To** | **Status**              |
+|---------|----------------------------------------|-------------|--------------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------|-----------------|-------------------------|
+| US31    | Sistema de Autenticación (IAM)        | TS21        | Desarrollo del Login y Registro                  | Implementación del sistema de login y registro seguro para usuarios, con validación de credenciales. | 12                       | Jose            | Done                    |
+| US32    | Actualización del Front-end           | TS22        | Nueva Versión del Front-end                      | Rediseño e integración de la interfaz para adaptarse a las nuevas funcionalidades del sistema IAM.   | 10                       | Jefrey           | Done                    |
+| US33    | Despliegue del Backend en la Nube     | TS23        | Deployment en Azure                              | Configuración y despliegue del backend actualizado en los servicios de Azure.                       | 8                        | Jose            | Done                    |
+| US34    | Pruebas de Integración                | TS24        | Validación de Front-end y Back-end Integrados    | Realización de pruebas para asegurar que el front-end y back-end trabajen de manera coordinada y sin errores. | 8                        | Jefrey          | Done                    |
+| US35    | Optimización de la Navegación         | TS25        | Mejora de la Barra de Navegación                | Ajustes en la barra de navegación para mejorar la usabilidad y accesibilidad.                       | 6                        | Farid           | Done                    |
+| US36    | Seguridad en el Sistema de Autenticación | TS26        | Implementación de Seguridad para IAM            | Agregar medidas de seguridad, como el cifrado de contraseñas y la protección contra ataques comunes. | 10                       | Jefrey          | Done                    |
+
+
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+
+| Repository   [RideFind <br> BackEnd](https://github.com/upc-pre-202401-si730-ws51-RideLink/Ridefind-BackEnd)    | Branch    | Commit Id                              | Commit <br>Message     | Commit <br>Message Body                         | Commited <br>on (Date) |
+|:----------------:|:---------:|:--------------------------------------:|:-----------------------:|:-----------------------------------------------:|:------------------------:|
+| RideFind-BackEnd | develop   | 3e91732  | feat(shared): add initial backend structure and shared module |   | 03/11/2024              |
+| RideFind-BackEnd | feat/vehicle   | bb1ee8c  | feat(vehicle): add complete vehicle bounded context |   | 03/11/2024              |
+| RideFind-BackEnd | feat/userProfile  | 465f39  | feat(userProfile): add complete userProfile bounded context |   | 03/11/2024              |
+| RideFind-BackEnd | feat/order   | 0fc4ed2  | feat(order): add complete order bounded context |   | 03/11/2024              |
+| RideFind-BackEnd | feat/azure-settings  | bdd0a69 | feat(deploy): add deployment configuration files |   | 03/11/2024              |
+| RideFind-BackEnd | develop | 483edfd  | merge(azure-settings): integrate Azure deployment settings into develop |   | 03/11/2024              |
+| RideFind-BackEnd | main  | 9b4d0bd  | merge(azure-settings): merge Azure deployment settings from develop to main |   | 03/11/2024  
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando la herramienta Gherkin. Puedes encontrar los escenarios de estas pruebas dando click aquí: [https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Acceptance-Tests](https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Acceptance-Tests)
+
+
+| Repository | Branch  | Commit Id                              | Commit <br>Message       | Commit <br>Message Body              | Commited <br>on (Date) |
+|:----------:|:-------:|:--------------------------------------:|:-------------------------:|:------------------------------------:|:------------------------:|
+| RideLink   | main    | 1234567abcd1234567abcd1234567abcd1234  | feat: reservation-tests  | Add acceptance tests for reservation functionality | 30/10/2024              |
+| RideLink   | main    | 2345678abcd2345678abcd2345678abcd2345  | feat: notifications-test | Implement tests for notification feature | 30/10/2024              |
+| RideLink   | main    | 3456789abcd3456789abcd3456789abcd3456  | feat: cancellation-tests | Add tests for booking cancellation and refund process | 30/10/2024              |
+
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+En este sprint, el equipo de RideFind logró implementar e integrar el sistema de autenticación (IAM), incluyendo las funcionalidades de login y registro, asegurando una experiencia de usuario segura y eficiente. Este sistema fue desplegado junto con una nueva versión del backend en Azure Web Services, utilizando MySQL for Azure como base de datos para almacenar de forma segura las credenciales y perfiles de usuario.
+
+Además, se actualizó el frontend de la aplicación, integrando la nueva funcionalidad de autenticación y mejorando la usabilidad general. Esta versión también incluye una barra de navegación optimizada, asegurando una experiencia más intuitiva para los usuarios.
+
+El backend actualizado fue completamente documentado con Swagger, proporcionando a los desarrolladores y colaboradores una guía clara sobre los endpoints disponibles, incluyendo sus métodos, parámetros y respuestas esperadas.
+
+Por último, se realizaron pruebas de integración exhaustivas para garantizar que el backend y el frontend funcionen de manera fluida, cumpliendo con los estándares de calidad establecidos para el proyecto.
+
+Enlace a la documentación de la API en Swagger:
+
+Enlace del deployment del Backend: [https://pawfectcare-dnhqhvbmbxfgcqen.eastus2-01.azurewebsites.net/swagger-ui/index.html#/](https://pawfectcare-dnhqhvbmbxfgcqen.eastus2-01.azurewebsites.net/swagger-ui/index.html#/)
+
+Enlace del deployment del FrontEnd: [https://pawfect-care-app-web.web.app](https://pawfect-care-app-web.web.app/home)
+
+Enlace del deployment de la Landing Page: [https://upc-pre-si729-2402-wx51-g4-aceitunitas.github.io/-PawfectCareLanding-Page.github.io/](https://upc-pre-si729-2402-wx51-g4-aceitunitas.github.io/-PawfectCareLanding-Page.github.io/)
+
+Este despliegue asegura una base sólida para el funcionamiento de PawFect Care, dejando el backend, el frontend y la landing page listos para futuras integraciones y escalabilidad conforme crezcan las necesidades del proyecto.
+
+
+**Swagger UI**
+
+<img src="./img/Chapter05/swagger2.png">
+
+
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+En el alcance del Sprint 4 de RideFind, se priorizó la implementación del sistema de autenticación (IAM) y el despliegue de una nueva versión del backend en Azure Web Services. Para garantizar la accesibilidad y comprensión de los servicios, se documentó detalladamente el backend utilizando Swagger, facilitando la integración y uso por parte de desarrolladores y colaboradores.
+
+La documentación incluye:
+
+- Descripción de los endpoints relacionados con el sistema de autenticación, como registro, login y recuperación de contraseñas.
+- Detalles sobre las operaciones permitidas, incluyendo validación de credenciales y gestión de sesiones de usuario.
+- Ejemplos de solicitudes y respuestas para cada endpoint, asegurando que los desarrolladores comprendan fácilmente cómo consumir los servicios.
+- Información sobre los mensajes de error y validaciones específicas para el sistema de autenticación, proporcionando claridad sobre posibles escenarios de fallos y cómo manejarlos.
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Durante este sprint, se ha completado el desarrollo del backend de la aplicación web, así como la actualización del frontend. Para el despliegue, se utilizaron las siguientes herramientas y servicios:
+
+- **Git:** Sistema de control de versiones utilizado para facilitar la colaboración entre los miembros del equipo y monitorear las versiones de la aplicación web en un repositorio remoto.
+
+- **GitFlow:** Este flujo de trabajo colaborativo nos permitió gestionar las ramas del repositorio de manera efectiva, asegurando que el desarrollo de nuevas funcionalidades se hiciera en ramas separadas y facilitando la integración al proyecto principal.
+
+- **GitHub Desktop:** Herramienta de interfaz gráfica que utilizamos para interactuar con nuestro repositorio de GitHub de manera intuitiva, simplificando la gestión de commits, ramas y pull requests.
+
+- **GitHub:** Plataforma de desarrollo colaborativo que nos proporcionó el repositorio donde almacenamos y gestionamos el código fuente de nuestro proyecto, facilitando el seguimiento de cambios y la colaboración.
+
+- **Azure Web Services:** Servicio en la nube utilizado para desplegar el backend de nuestra aplicación. Esto nos permitió implementar una infraestructura escalable y segura para la API de RideFind.
+
+- **MySQL for Azure:** Servicio de base de datos en la nube que utilizamos para almacenar y gestionar los datos de la aplicación. Esta solución proporcionó un entorno robusto para nuestras operaciones de backend.
+
+Enlace del deployment del BackEnd: [https://ridefind-habtgfbff5fqddgw.eastus2-01.azurewebsites.net/index.html](https://ridefind-habtgfbff5fqddgw.eastus2-01.azurewebsites.net/index.html)
+
+Enlace del deployment del FrontEnd: [https://ridefind-frontend.web.app/](https://ridefind-frontend.web.app/)
+
+Enlace del deployment de la Landing Page: [https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/](https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/)
+
+
+Este enfoque integral asegura que tanto el frontend como el backend de la aplicación estén correctamente implementados y funcionales, permitiendo a los usuarios finales una experiencia óptima al interactuar con RideFind.
+
+<img src="./img/Chapter05/sprint4.png">
+
+<img src="./img/Chapter05/deploybackend.png">
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+En el Sprint 4, el equipo organizó el desarrollo del frontend y backend de la aplicación web utilizando ramas específicas para cada funcionalidad, siguiendo las convenciones de GitFlow. Este enfoque permitió a los desarrolladores trabajar de manera independiente en diferentes aspectos del proyecto, facilitando la colaboración y el mantenimiento del código.
+
+A continuación, se detallan las tareas asignadas a cada miembro del equipo, junto con las contribuciones realizadas a través de la plataforma GitHub:
+
+| Alumno                          | Actividad                                                                                                                                                                                        |  
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |  
+| **Gutierrez Garcia, Jose Eduardo**  | Desarrollo y despliegue del backend en la nube, garantizando la operatividad de la API y su integración con el frontend.                                                  |  
+| **Bastidas Bastidas, Diego Martin**  | Desarrollo del backend y soporte en la integración de datos, contribuyendo al diseño y funcionalidad de los módulos clave. |  
+| **Perez Garcia, David Alexander**   | Implementación de características tanto en el backend como en el frontend, mejorando la experiencia de usuario y asegurando la funcionalidad de la plataforma.                                         |  
+| **Chavez Uribe, Ario Joel**        | Desarrollo del frontend y diseño de la landing page, enfocándose en la usabilidad y estética para ofrecer una experiencia intuitiva.                                                                 |
+
+
+Este enfoque colaborativo permitió que el equipo integrara diversas perspectivas y habilidades, asegurando un progreso efectivo en el desarrollo de PawFect Care. Además, se utilizaron herramientas como GitHub para coordinar las tareas y realizar revisiones de código, fortaleciendo la calidad del producto final.
+
+A continuación, se mostrará la tabla de colaboradores en el repositorio de GitHub, con el objetivo de identificar a cada miembro del equipo.
+
+Tabla de integrantes:
+
+| Username (GitHub) | Nombre                         |
+| ----------------- | ------------------------------ |
+| ghostnotfound404  | Bastidas Bastidas, Diego Martin  |
+| feg06             | Chavez Uribe, Ario Joel  |
+| elcrackje         | Gutierrez Garcia, Jose Eduardo  |
+| davidalexd        | Perez Garcia, David Alexander   |
+
+
+A continuación se mostrarán los gráficos de insights durante el sprint:
+
+Anexo: Flujo de trabajo entre las ramas.
+
+<img src="./img/Chapter05/gitflow4.png">
+
+Anexo: Tablas de commits en el periodo de 1 mes.
+
+<img src="./img/Chapter05/commit4.png">
+
+
+## 5.3. Validation Interviews
+La etapa de Validación de Entrevistas tiene como objetivo recolectar comentarios y observaciones directas de los usuarios para evaluar cómo perciben el diseño, la facilidad de uso y las funciones de la plataforma RideFind. Mediante estas entrevistas, buscamos confirmar que la experiencia de la plataforma está bien alineada con las necesidades de los distintos tipos de usuarios. Así, esta fase es clave para asegurar que RideFind sea intuitiva y cumpla con los objetivos de satisfacer a sus usuarios.
+
+### 5.3.1. Diseño de entrevistas
+En esta sección de Diseño de Entrevistas, se detalla la estructura y las preguntas que se usarán para recopilar información de los usuarios de RideFind. El diseño de las entrevistas incluye preguntas generales para todos los participantes, así como preguntas específicas que se adaptan a los diferentes grupos de usuarios: aquellos que buscan opciones de movilidad sostenible y los conductores que alquilan sus vehículos. Estas preguntas permiten explorar distintas áreas de la experiencia de usuario, como la facilidad de navegación y la satisfacción general, para entender cómo RideFind cumple con lo que cada segmento espera.
+
+#### Preguntas generales:
+- ¿Cuál es tu nombre?
+- ¿Qué edad tienes?
+- ¿Dónde vives actualmente?
+- ¿A qué te dedicas?
+
+#### Segmento 1: Usuarios que buscan opciones de movilidad sostenible
+
+**Intereses y motivaciones**
+- ¿Qué es lo que más valoras al buscar opciones de movilidad?
+- ¿Qué te motivaría a elegir una opción de movilidad sostenible como RideFind sobre otras alternativas?
+
+**Proceso de búsqueda y reserva**
+- ¿Cómo describirías la facilidad para encontrar y reservar un vehículo en la plataforma?
+- ¿La información sobre el vehículo (precio, características, disponibilidad) fue suficiente y clara?
+- ¿Te sentiste seguro al confirmar tu reserva?
+
+**Preferencias y necesidades adicionales**
+- ¿Qué otras funciones o filtros te gustaría tener al buscar un vehículo?
+- ¿Consideras que el proceso de pago es cómodo y seguro? ¿Qué mejoras propondrías?
+- ¿Qué tipo de información adicional sobre los vehículos te gustaría ver?
+
+**Retroalimentación específica sobre la sostenibilidad**
+- ¿Qué tan importante es para ti ver información sobre el impacto ambiental de cada vehículo?
+- ¿Te gustaría tener opciones para seleccionar vehículos según su nivel de sostenibilidad?
+
+#### Segmento 2: Conductores interesados en alquilar sus vehículos
+
+**Facilidad de registro y publicación**
+- ¿Qué tan sencillo te pareció el proceso de registro y la creación de tu perfil como conductor?
+- ¿La información solicitada para publicar un vehículo fue clara y completa?
+
+**Gestión de reservas y comunicación con usuarios**
+- ¿Te pareció fácil administrar las reservas y la disponibilidad de tu vehículo?
+- ¿Tuviste problemas para comunicarte con los usuarios interesados? ¿Qué mejorarías en esta área?
+
+**Seguridad y confianza en el sistema**
+- ¿Sientes que la plataforma ofrece un nivel adecuado de seguridad para ti y tu vehículo?
+- ¿Consideras que la plataforma te brinda suficientes garantías para proteger tu propiedad?
+
+**Sugerencias de mejora**
+- ¿Qué funcionalidades adicionales crees que ayudarían a mejorar la experiencia de los conductores?
+- ¿Te gustaría tener herramientas para gestionar pagos y reportes directamente desde la plataforma?
+
+### 5.3.2. Registro de Entrevistas
+En el Registro de Entrevistas, se documenta todo lo que dijeron los entrevistados y se organiza para poder analizar sus respuestas. Aquí se incluye información básica de cada participante, un resumen de sus respuestas y enlaces a los videos de las entrevistas. Este registro es muy útil para entender mejor lo que opinan los usuarios y, además, sirve de base para hacer mejoras en RideFind, adaptando la plataforma a lo que realmente necesitan y valoran.
+
+#### Segmento 1: Usuarios que buscan opciones de movilidad sostenible
+
+**Entrevista 1:**
+- **Nombre:** Sabiel Del Piero
+- **Apellidos:** Surichaqui Vasquez
+- **Edad:** 20 años
+- **Lugar de residencia:** San Martin de Porres
+- **Entrevistador:** Jefrey Sanchez
+- **Evidencia de entrevista**
+  - **Imagen de entrevista:** 
+
+  ![Entrevista](img/Chapter05/entrevista-sabiel.png)
+  - **Enlace de entrevista:** [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/Ec1pMkKn51FHtGMaZSPEyXQBB5RzfwOrMp4OzekVHeg75A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aiJn1l)
+  - **Inicio:** 00:10
+  - **Fin:** 07:00
+
+ **Resumen de entrevista:**
+
+En la entrevista, se evaluó la experiencia de un usuario con la plataforma *RideFind*, la cual conecta a usuarios con opciones de movilidad sostenible como vehículos eléctricos, bicicletas, y scooters. El usuario, un estudiante de ingeniería, destacó que valora precios accesibles y la variedad de vehículos disponibles en la plataforma, lo que le permite elegir según sus necesidades.
+
+El usuario consideró que la plataforma es fácil de usar, clara y agradable, especialmente en el proceso de búsqueda y reserva de vehículos. Sin embargo, sugirió algunas mejoras, como incluir más detalles técnicos sobre los vehículos, como el kilometraje máximo, el estado del odómetro y la cantidad de veces que el vehículo ha sido reservado, para asegurar la confiabilidad de la información.
+
+También propuso la implementación de un sistema de filtrado más robusto para facilitar la búsqueda específica de ciertos tipos de vehículos, como scooters. Aunque consideró poco importante la información sobre el impacto ambiental, sugirió que podría ser útil mostrar mensajes ecológicos para concienciar a los usuarios, aunque él personalmente no le daría mucha importancia.
+
+Finalmente, el usuario señaló que sería útil tener información sobre el rendimiento de los vehículos eléctricos, como la autonomía según el tiempo de carga, para planificar mejor los desplazamientos y evitar quedar varado.
+
+
+
+**Entrevista 2:**
+- **Nombre:** Harold Jaime
+- **Apellidos:** Mayta Lopez
+- **Edad:** 20 años
+- **Lugar de residencia:** San Isidro 
+- **Entrevistador:** Jefrey Sanchez
+- **Evidencia de entrevista**
+  - **Imagen de entrevista:** 
+
+  ![Entrevista](img/Chapter05/entrevista-harold.png)
+  - **Enlace de entrevista:** [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EbaDZuYoyhBAtPkZafZxn1cBVhznDsq7rEP8RzJTWkRFhQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dmuiIf)
+
+  - **Inicio:** 01:00
+  - **Fin:** 10:00
+ 
+### Resumen de la entrevista
+
+En la entrevista, se evaluó la experiencia de un usuario con la plataforma *RideFind*, enfocada en opciones de movilidad sostenible como vehículos eléctricos, scooters, y bicicletas. El usuario, un estudiante de ingeniería y técnico de mantenimiento, mencionó que valora principalmente el precio y la contribución a la reducción de emisiones como factores esenciales al elegir un medio de transporte.
+
+El usuario consideró que la plataforma cumple su función de contactar con los propietarios de los vehículos, pero señaló que el diseño es poco amigable y necesita mejoras, como una barra de herramientas (toolbar) más eficiente y un diseño más atractivo. También sugirió la implementación de un sistema de filtrado más robusto para facilitar la búsqueda, permitiendo filtrar por tipo de vehículo, precio y si el vehículo es eléctrico o no.
+
+En cuanto a la información proporcionada sobre los vehículos, el usuario comentó que es adecuada, pero destacó la necesidad de mostrar el precio de manera más clara y detallada. También mencionó la importancia de incluir mensajes que motiven a los usuarios a continuar eligiendo opciones sostenibles, como destacar la reducción de emisiones de CO2 de forma estándar.
+
+Finalmente, propuso la idea de seleccionar vehículos según su nivel de sostenibilidad y dio recomendaciones técnicas, como mejorar el manejo de rutas en la aplicación utilizando "routing" para optimizar la experiencia de usuario.
+
+
+
+**Entrevista 3:**
+- **Nombre:** Damaris Consuelos
+- **Apellidos:** Mejia Calderón
+- **Edad:** 18 años
+- **Lugar de residencia:** Callao 
+- **Entrevistador:** Jefrey Sanchez
+- **Evidencia de entrevista**
+  - **Imagen de entrevista:** 
+  ![Entrevista](img/Chapter05/entrevista-damaris.png)
+  - **Enlace de entrevista:** [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EQGv0dWAFdhAh_rdB70r1uUBmWI27GwzT0mb8W8Eh7ikBw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ctb4pJ)
+  
+  - **Inicio:** 00:24
+  - **Fin:** 05:00
+  - **Resumen de entrevista:** 
+
+Se entrevistó a **Damaris**, quien participó en una sesión para evaluar la plataforma *RideFind*, que ofrece opciones de movilidad sostenible mediante el alquiler de vehículos eléctricos. Durante la entrevista, Damaris proporcionó observaciones y sugerencias basadas en su experiencia con el prototipo de la aplicación.
+
+En términos de **diseño**, Damaris valoró que la plataforma sea visualmente adecuada, pero sugirió que el color azul puede no ser atractivo para todos los usuarios. Aunque no le pareció necesario cambiarlo, mencionó que algunas personas podrían preferir otros tonos. Propuso agregar detalles adicionales sobre los vehículos, como el kilometraje recorrido y la velocidad máxima, para que los usuarios puedan evaluar mejor el estado y las capacidades de los vehículos.
+
+Sobre la **usabilidad**, Damaris consideró que la plataforma es intuitiva y fácil de navegar. No encontró dificultades al buscar y reservar un vehículo, y apreció la claridad de la información proporcionada. Sin embargo, sugirió incluir un sistema de incentivos, como descuentos o promociones, para motivar a los usuarios recurrentes. También destacó la importancia de tener opciones para seleccionar vehículos según su autonomía.
+
+Finalmente, mencionó que una **versión móvil** sería muy útil, ya que los usuarios prefieren gestionar estas reservas desde sus teléfonos en lugar de computadoras. Damaris afirmó que recomendaría *Redfine* a otros usuarios, pero cree que estas mejoras podrían optimizar aún más la experiencia.
+
+**Conclusión**:  
+Damaris considera que *RideFind* es una plataforma bien implementada y fácil de usar. Propone incluir más detalles técnicos sobre los vehículos, un sistema de incentivos, y la opción de seleccionar según la autonomía. Estas mejoras, junto con una versión móvil, contribuirían a hacer la aplicación más atractiva y eficiente.
+
+
+#### Segmento 2: Conductores interesados en alquilar sus vehículos
+
+**Entrevista 1:**
+- **Nombre:** Antony
+- **Apellidos:** Quito
+- **Edad:** 24
+- **Lugar de residencia:** Lima
+- **Entrevistador:** Huanca Zevallos, Cristhian Joel
+- **Evidencia de entrevista**
+  - **Imagen de entrevista:** 
+  ![EntrevistaAntony](img/Chapter05/entrevistaAntony5.3.png)
+  - **Enlace de entrevista:** 
+  [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EYedwLZpMOJDvxzlF8-hvvcBSiub07St99Wtk6B9qQZ2IA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=02yujQ)  
+  - **Inicio:** 00:02
+  - **Fin:** 04:00
+  - **Resumen de entrevista:**  
+    Se entrevistó a Steven Quito, un joven de 24 años que vive en Lima. Actualmente es estudiante y usa una bicicleta eléctrica para desplazarse a su trabajo todos los días. Según nos cuenta, el proceso de registro en la plataforma le resultó sencillo y rápido, aunque sugiere que podría incluirse un espacio para agregar detalles específicos sobre el estado del vehículo, lo cual considera útil para los usuarios. Respecto a la administración de reservas, le pareció accesible, pero cree que sería ideal contar con un sistema de notificaciones automáticas que le avise cuando alguien reserve su scooter. En cuanto a la comunicación con los usuarios, mencionó que le gustaría tener una opción de mensajería directa para resolver dudas antes de que se confirme una reserva. Sobre la seguridad, Steven comenta que la plataforma es adecuada, aunque vería con buenos ojos un seguro más detallado que le ofrezca mayor tranquilidad ante posibles daños. Finalmente, resalta la necesidad de herramientas de gestión financiera que le permitan monitorear sus ganancias mensuales y ajustar los precios de su vehículo según la demanda.
+
+**Entrevista 2:**
+- **Nombre:** Kevin
+- **Apellidos:** Idrogo
+- **Edad:** 20
+- **Lugar de residencia:** Lima
+- **Entrevistador:** Huanca Zevallos, Cristhian Joel
+- **Evidencia de entrevista**
+  - **Imagen de entrevista:** 
+  ![EntrevistaKevin](img/Chapter05/entrevistaKevin5.3.png)
+  - **Enlace de entrevista:** 
+  [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EVovaFoswaVDj7WbTx2lgfQBlU2EoMCYeTZwXbFjjRfBpA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ngg8ML)
+  - **Inicio:** 00:02
+  - **Fin:** 02:24
+  - **Resumen de entrevista:**  
+    Se entrevistó a Kelvin Idrogo, un joven de 20 años que vive en Lima. Kelvin es emprendedor y utiliza una moto eléctrica para asistir a sus reuniones de trabajo. Al registrarse en la plataforma, comenta que el proceso le pareció fácil y directo, aunque sugiere que podría ser aún mejor si incluyera recomendaciones para establecer precios competitivos. En cuanto a la administración de reservas, Kelvin propone implementar un calendario visual que le permita gestionar la disponibilidad de su moto de forma más intuitiva. Además, considera útil una función de chat en la plataforma para facilitar la comunicación y aclarar dudas con los usuarios antes de concretar la reserva. Sobre la seguridad, Kelvin sugiere que el sistema ofrezca un seguro detallado que cubra daños menores, además de una política clara para este tipo de situaciones. Por último, ve necesario contar con un sistema de reportes financieros para poder llevar un registro claro de sus ingresos mensuales y el rendimiento de su moto.
+
+**Entrevista 3:**
+- **Nombre:** Juan
+- **Apellidos:** Diaz
+- **Edad:** 25
+- **Lugar de residencia:** Lima
+- **Entrevistador:** Huanca Zevallos, Cristhian Joel
+- **Evidencia de entrevista**
+  - **Imagen de entrevista:** 
+  ![EntrevistaJuan](img/Chapter05/entrevistaSebastian.3.png)
+  - **Enlace de entrevista:** 
+  [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EQASYtkRwA9Lm3OHG9E0sNYBbmpsEsHuQyOlPKGi2s4GAg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SjbOdF)
+  - **Inicio:** 00:02
+  - **Fin:** 02:25
+  - **Resumen de entrevista:**  
+    Juan Sebastián Díaz, un empresario de 25 años residente en Lima y propietario de una tienda de alquiler de vehículos eléctricos, también compartió sus impresiones sobre la plataforma. Considera que el proceso de registro es sencillo, pero cree que sería útil poder publicar varios vehículos a la vez, lo cual ahorraría tiempo. Para mejorar la gestión de reservas, sugiere un sistema de notificaciones y alertas más visibles que le permita controlar las solicitudes con mayor facilidad. En cuanto a la comunicación con los usuarios, opina que un sistema de mensajería dentro de la plataforma ayudaría a resolver preguntas antes de confirmar las reservas. Sobre la seguridad, menciona que sería ideal contar con una descripción más clara de la cobertura del seguro, además de un proceso de verificación de usuarios para mayor tranquilidad. Finalmente, considera esencial la inclusión de un sistema de reportes financieros semanales o mensuales que le permita monitorear las ganancias de su flota y mejorar su gestión económica.
+
+
+### 5.3.3. Evaluaciones según heurísticas
+La sección de Evaluaciones según Heurísticas se enfoca en revisar la experiencia de usuario de RideFind usando principios de usabilidad, para ver si la plataforma es clara, fácil de usar y consistente. Analizar estos aspectos, como la visibilidad de las opciones o la coherencia en el diseño, nos ayuda a encontrar posibles problemas y a proponer mejoras. El objetivo de esta evaluación es que la plataforma ofrezca una experiencia de calidad que los usuarios disfruten y encuentren práctica.
+
+**Carrera:** Ingeniería de Software  
+**Curso:** WS51  
+**Profesor:** Hugo Allan Mori Paiva  
+**Auditor:** Grupo 3  
+**Cliente:** Grupo 3  
+**SITE o APP a evaluar:** RiderFind
+
+**Tareas a evaluar:** 
+- Web Application
+- Registro y publicación de vehículo
+- Administración de disponibilidad de vehículo
+- Comunicación con usuarios interesados
+- Configuración de alertas y notificaciones
+- Gestión de reportes financieros
+
+#### Escala de severidad
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción                                                                                         |
+|-------|-----------------------------------------------------------------------------------------------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con poca frecuencia. No necesita ser arreglado salvo que haya tiempo. |
+| 2     | Problema menor: ocurre con más frecuencia o es un poco más difícil de superar para el usuario. Debería solucionarse con prioridad baja para el siguiente lanzamiento. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no pueden resolverlo. Es importante corregirlo y debe tener prioridad alta. |
+| 4     | Problema muy grave: un error crítico que impide al usuario continuar usando la herramienta. Debe corregirse antes del lanzamiento. |
+
+#### Tabla de resumen
+
+| Numero | Problema                                                       | Escala de severidad | Heurística/Principio violada(o)                  |
+|--------|----------------------------------------------------------------|---------------------|-------------------------------------------------|
+| 1      | No se incluyen detalles del estado del vehículo en la publicación. | 2                   | Visibilidad del estado del sistema               |
+| 2      | No hay alertas automáticos para notificar la reserva del vehículo. | 3                   | Libertad y control del usuario                  |
+| 3      | Falta de opción de comunicación directa con usuarios dentro de la plataforma. | 2                   | Flexibilidad y eficiencia                        |
+| 4      | No hay una política clara sobre la cobertura de seguros en caso de daños menores. | 4                   | Seguridad y prevención de errores                |
+| 5      | No hay visualización ni reporte automático de ganancias y alquileres de vehículos. | 3                   | Arquitectura de información                      |
+
+#### Descripción de problemas
+
+**PROBLEMA #1:** No se incluyen detalles del estado del vehículo en la publicación.  
+- **Severidad:** 2  
+- **Heurística violada:** Visibilidad del estado del sistema  
+- **Descripción:** La información básica del vehículo está disponible, pero se carece de un espacio para especificar el estado o detalles específicos del vehículo, lo que podría ser valioso para los usuarios interesados en alquilarlo.  
+- **Recomendación:** Añadir una sección específica en la publicación donde los propietarios puedan describir el estado y características del vehículo.
+
+**PROBLEMA #2:** No hay alertas automáticos para notificar la reserva del vehículo. 
+- **Severidad:** 3  
+- **Heurística violada:** Libertad y control del usuario
+- **Descripción:** El sistema no envía alertas automáticas cuando un vehículo ha sido reservado, lo que impide que los propietarios gestionan adecuadamente las reservas.
+- **Recomendación:** Implementar notificaciones automáticas que informen a los propietarios sobre cada reserva o cambio en la disponibilidad de sus vehículos.
+
+**PROBLEMA #3:** Falta de opción de comunicación directa con usuarios dentro de la plataforma. 
+- **Severidad:** 2  
+- **Heurística violada:** Flexibilidad y eficiencia
+- **Descripción:** Los propietarios no tienen una opción de chat directo con los usuarios interesados, lo cual puede dificultar aclarar dudas previas a la reserva.
+- **Recomendación:** Agregar un sistema de mensajería interna que facilite la comunicación entre propietarios y usuarios antes de confirmar las reservas.
+
+**PROBLEMA #4:** No hay una política clara sobre la cobertura de seguros en caso de daños menores.
+- **Severidad:** 4  
+- **Heurística violada:** Seguridad y prevención de errores
+- **Descripción:** La falta de claridad en la cobertura de seguros para daños menores genera inseguridad en los propietarios sobre la protección de sus vehículos.
+- **Recomendación:** Establecer una política detallada que especifique la cobertura del seguro para daños menores y otras eventualidades para ofrecer mayor confianza a los usuarios.
+
+**PROBLEMA #5:** No hay visualización ni reporte automático de ganancias y alquileres de vehículos.
+- **Severidad:** 3  
+- **Heurística violada:** Arquitectura de información 
+- **Descripción:** Los propietarios no cuentan con una herramienta de reporte donde puedan visualizar el ingreso generado por los alquileres mensualmente.
+- **Recomendación:** Incorporar un sistema de reportes financieros que permita a los propietarios ver un resumen de sus ingresos y el rendimiento de cada vehículo por periodo.
+
+**PROBLEMA #6:** Diseño poco amigable y estético.
+- **Severidad:** 3  
+- **Heurística violada:** Estética y diseño minimalista  
+- **Descripción:** El diseño actual de la plataforma no es visualmente atractivo ni intuitivo, lo que afecta la experiencia de usuario. Falta un diseño más organizado, con una barra de herramientas eficiente y mejor manejo de vistas.
+- **Recomendación:** Mejorar el diseño visual con un enfoque más moderno y agregar una barra de herramientas que facilite la navegación. Implementar un sistema de "routing" para optimizar la carga y transición de páginas.
+
+
+**PROBLEMA #7:** Falta de detalles técnicos importantes sobre los vehículos.
+- **Severidad:** 2  
+- **Heurística violada:** Visibilidad del estado del sistema  
+- **Descripción:** La información sobre los vehículos es limitada y no proporciona detalles técnicos esenciales como el kilometraje máximo, el estado del odómetro o cuántas veces ha sido reservado un vehículo.
+- **Recomendación:** Agregar información técnica adicional, como el kilometraje máximo, el odómetro y la cantidad de veces que el vehículo ha sido alquilado, para mejorar la confiabilidad y transparencia de la plataforma.
+
+**PROBLEMA #8:** Falta de filtros específicos para la búsqueda de vehículos.
+- **Severidad:** 3  
+- **Heurística violada:** Flexibilidad y eficiencia de uso  
+- **Descripción:** Los usuarios no pueden filtrar fácilmente por tipo de vehículo, precio o características específicas, lo que dificulta la búsqueda y selección de opciones adecuadas.
+- **Recomendación:** Implementar un sistema de filtrado avanzado que permita a los usuarios buscar por tipo de vehículo, rango de precios y si es eléctrico o no, mejorando así la experiencia de búsqueda.
+
+**PROBLEMA #9:** Ausencia de un sistema de pago integrado y seguro.
+- **Severidad:** 4  
+- **Heurística violada:** Seguridad y prevención de errores  
+- **Descripción:** Actualmente, las transacciones se manejan a través de WhatsApp, lo que no ofrece la seguridad y comodidad de un sistema de pago integrado y validado.
+- **Recomendación:** Desarrollar un sistema de pago seguro dentro de la plataforma, que incluya opciones como tarjetas de crédito y billeteras virtuales, con validación adecuada para proteger los datos de los usuarios.
+
+**PROBLEMA #10:** Información ambiental poco destacada.
+- **Severidad:** 2  
+- **Heurística violada:** Estética y diseño minimalista  
+- **Descripción:** Los usuarios no ven claramente el impacto ambiental positivo de usar vehículos sostenibles, lo que podría motivar a más personas a elegir estas opciones.
+- **Recomendación:** Incluir mensajes ecológicos que resalten el beneficio ambiental de cada vehículo, como la reducción de emisiones de CO2, de manera visible y sin ser invasivos.
+
+### 5.4. Video About the Product
+
+En este video, presentamos **RideFind**, una plataforma innovadora diseñada para facilitar el alquiler de vehículos alternativos, como scooters eléctricos, bicicletas eléctricas, y motos eléctricas. RideFind conecta a personas que desean alquilar estos vehículos con propietarios que los tienen disponibles, simplificando el proceso de renta y promoviendo una movilidad más sostenible.
+
+El video destaca las principales características de la aplicación, incluyendo:
+
+- **Búsqueda y Reserva de Vehículos**: Los usuarios pueden buscar y reservar vehículos disponibles en su área, con opciones de filtrado para encontrar el que mejor se adapte a sus necesidades.
+- **Gestión de Disponibilidad para Propietarios**: Los dueños pueden gestionar la disponibilidad de sus vehículos en la plataforma, facilitando el control y la optimización de sus recursos.
+- **Notificaciones y Confirmaciones de Reserva**: Los usuarios y propietarios reciben notificaciones y confirmaciones de sus transacciones, asegurando transparencia y confianza en cada alquiler.
+- **Planes de Suscripción**: Ofrecemos planes flexibles para diferentes tipos de usuarios, que incluyen opciones con descuentos en alquileres y sin anuncios para mejorar la experiencia.
+
+Este video muestra cómo RideFind se convierte en una solución accesible y eficaz para todos, promoviendo una alternativa de transporte sostenible y asequible en la ciudad.
+
+Enlace al Video : [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/Ef-tqYbgys5CnPZiNK9sesEBDSjgCz5-w-1uvAbqC3yxAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BXBJQO`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/Ef-tqYbgys5CnPZiNK9sesEBDSjgCz5-w-1uvAbqC3yxAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BXBJQO)
 
 ## Conclusiones
 
@@ -2870,6 +3806,29 @@ Para llevar a cabo este proyecto se usaron distintas herramientas como Visual St
 - Priorización de necesidades del usuario: La creación de User Stories y la definición del Product Backlog son pasos clave para identificar y clasificar las necesidades de los usuarios. Esto permite que el equipo se enfoque en resolver primero las necesidades más críticas, optimizando así el valor entregado al cliente.
 
 - Pruebas continuas y mitigación de riesgos: El éxito del proyecto también depende de la capacidad del equipo para abordar los riesgos funcionales mediante pruebas continuas y mejoras incrementales. Esto garantiza que los errores sean corregidos rápidamente, mejorando la calidad del producto final.
+
+- Para el desarrollo de este proyecto se emplearon diversas herramientas, entre ellas WebStorm para la programación y edición del código, junto con el control de versiones utilizando Git. La estructura del front-end se dividió en secciones individuales, permitiendo a cada miembro del equipo trabajar en su parte correspondiente. Posteriormente, un integrante del equipo consolidó todas las secciones en un solo proyecto, obteniendo así el resultado final esperado de manera coordinada y eficiente.
+
+- Durante el proceso, se evidenció una mejora significativa en la colaboración y en la organización del equipo. Cada miembro aportó su experiencia y conocimientos, lo que permitió optimizar tiempos y resolver los desafíos que se presentaron en la implementación de la interfaz. Además, la utilización de Firebase para el despliegue facilitó la visualización y revisión del proyecto en tiempo real, asegurando una entrega más ágil y efectiva.
+
+- La estructura modular aplicada al desarrollo del front-end permitió un mayor control sobre cada componente y una mejor capacidad de realizar ajustes en función del feedback recibido. Asimismo, la adopción de WebStorm como entorno de desarrollo se tradujo en una mayor productividad gracias a sus herramientas de depuración y soporte para tecnologías web.
+
+- A lo largo del sprint, el equipo identificó y resolvió problemas relacionados con la compatibilidad entre navegadores y la optimización de recursos, lo que resultó en un front-end más robusto y eficiente. El despliegue en Firebase también facilitó la detección y solución de errores de integración que surgieron durante las pruebas.
+
+
+## Video About-the-Team
+
+En este video, tenemos el honor de presentarles a nuestro equipo de **RideFind** y detallar cómo colaboramos durante el ciclo de desarrollo de nuestro proyecto. Cada miembro de nuestro equipo aporta una combinación única de habilidades y experiencias que enriquecen nuestro flujo de trabajo y permiten que el proyecto avance de manera coordinada y eficiente.
+
+Durante el video, cada integrante hablará sobre su rol específico, así como sobre las metodologías y herramientas que empleamos, como **Trello** para la gestión de tareas y **Slack** para una comunicación constante y rápida. Estas herramientas nos ayudan a mantener una colaboración fluida y efectiva, asegurando que todos estén alineados con los objetivos del sprint y del proyecto en general.
+
+Nos esforzamos por crear un entorno inclusivo y colaborativo que nos permite enfrentar desafíos, cumplir nuestras metas, y mejorar continuamente. Agradecemos su atención y esperamos que este video les brinde una visión clara de nuestro proceso de trabajo en equipo en **RideFind**.
+
+
+Enlace Video About the team:<br>
+[`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EbfxHhH3PnhHhP_uGm6GqgAB4yi0q11a1rddZ62E8tOoGA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=9PFyLg`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EbfxHhH3PnhHhP_uGm6GqgAB4yi0q11a1rddZ62E8tOoGA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=9PFyLg)
+
+<img src="./img/Chapter05/abouttheteam.png">
 
 ## Bibliografía
 
@@ -2881,34 +3840,89 @@ Para llevar a cabo este proyecto se usaron distintas herramientas como Visual St
 
 ## Anexos
 
+**Entrevistas de NeedFinding:**
 
-**Anexo 1:**
+**Anexo 1:**  
+**Entrevistas Usuarios que Buscan Alquilar Vehículos:**  
+- [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EcCSsXuECudMq43U96doDSoBjlRz9pEakJAKjz9886APtQ?e=TCRqC8`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EcCSsXuECudMq43U96doDSoBjlRz9pEakJAKjz9886APtQ?e=TCRqC8)  
+- [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EQAWSuW1CB9BhDIb-DEdFUgBE_27nMdsPVxCreJ9n0pLxQ?e=16i45B`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EQAWSuW1CB9BhDIb-DEdFUgBE_27nMdsPVxCreJ9n0pLxQ?e=16i45B)  
+- [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EdW4MG4fMRZFtuoBaQlOyW0Bv3gGBsH-9aUTnfLxTnVoUA?e=UWE5n8`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EdW4MG4fMRZFtuoBaQlOyW0Bv3gGBsH-9aUTnfLxTnVoUA?e=UWE5n8)  
 
-Entrevistas Usuarios que Buscan Alquilar Vehículos:<br>
+**Entrevistas Propietarios de Vehículos Alternativos:**  
+- [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1)  
+- [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EZot7z-5ZzxJiBx9pe2-4YMBjAaj3e8lpuOhQ7c0G4UFRQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dWx1gU`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EZot7z-5ZzxJiBx9pe2-4YMBjAaj3e8lpuOhQ7c0G4UFRQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dWx1gU)  
+- [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ES6SusUIAe1Evh6zgGRi5AoBH-SerCMW3tTJta2Bj9vpzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gWHAek`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ES6SusUIAe1Evh6zgGRi5AoBH-SerCMW3tTJta2Bj9vpzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gWHAek)  
 
-- https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EcCSsXuECudMq43U96doDSoBjlRz9pEakJAKjz9886APtQ?e=TCRqC8
-- https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EQAWSuW1CB9BhDIb-DEdFUgBE_27nMdsPVxCreJ9n0pLxQ?e=16i45B
-- https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EdW4MG4fMRZFtuoBaQlOyW0Bv3gGBsH-9aUTnfLxTnVoUA?e=UWE5n8 
+**Entrevistas De Validacion**
 
-Entrevistas Propetarios de vehiculos alternativos:<br>
-- https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EY2g8tRloDlJvXhdqOSyeD4BrqBakso8OSIHKpr3ULXWEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RJaTB1
-- https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EZot7z-5ZzxJiBx9pe2-4YMBjAaj3e8lpuOhQ7c0G4UFRQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dWx1gU
-- https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/ES6SusUIAe1Evh6zgGRi5AoBH-SerCMW3tTJta2Bj9vpzg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gWHAek
+**Entrevistas Usuarios que Buscan Alquilar Vehículos:**
+- [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/Ec1pMkKn51FHtGMaZSPEyXQBB5RzfwOrMp4OzekVHeg75A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aiJn1l`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/Ec1pMkKn51FHtGMaZSPEyXQBB5RzfwOrMp4OzekVHeg75A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aiJn1l)
+- [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EbaDZuYoyhBAtPkZafZxn1cBVhznDsq7rEP8RzJTWkRFhQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dmuiIf`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EbaDZuYoyhBAtPkZafZxn1cBVhznDsq7rEP8RzJTWkRFhQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dmuiIf)
+- [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EQGv0dWAFdhAh_rdB70r1uUBmWI27GwzT0mb8W8Eh7ikBw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ctb4pJ`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/EQGv0dWAFdhAh_rdB70r1uUBmWI27GwzT0mb8W8Eh7ikBw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ctb4pJ)
 
-**Anexo 2:**
-Presentación del Proyecto: https://www.canva.com/design/DAGQDRydqY8/or-NGszjIWSFbZ9EE5PpSw/edit?utm_content=DAGQDRydqY8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+**Entrevistas Propietarios de Vehículos Alternativos:**  
+- [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EYedwLZpMOJDvxzlF8-hvvcBSiub07St99Wtk6B9qQZ2IA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=02yujQ`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EYedwLZpMOJDvxzlF8-hvvcBSiub07St99Wtk6B9qQZ2IA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=02yujQ)
+- [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EVovaFoswaVDj7WbTx2lgfQBlU2EoMCYeTZwXbFjjRfBpA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ngg8ML`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EVovaFoswaVDj7WbTx2lgfQBlU2EoMCYeTZwXbFjjRfBpA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ngg8ML)
+- [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EQASYtkRwA9Lm3OHG9E0sNYBbmpsEsHuQyOlPKGi2s4GAg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SjbOdF`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b914_upc_edu_pe/EQASYtkRwA9Lm3OHG9E0sNYBbmpsEsHuQyOlPKGi2s4GAg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SjbOdF)
 
-**Anexo 3:**
-Project Figma:
- https://www.figma.com/design/3wujndmKi1aJfHe56S9odg/app-web-project?node-id=0-1&node-type=CANVAS&t=fMYzVqO9YaR2ms7B-0
+---
 
-**Anexo 4:**
-Landing Page:<br> https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/
+**Anexo 2:**  
+**Presentación del Proyecto:** <br>
 
-**Anexo 4:**
-Organizacion de Github:<br> https://github.com/upc-pre-202401-si730-ws51-RideLink
+**TB1 y TP1:** <br> 
+[https://www.canva.com/design/DAGQDRydqY8/or-NGszjIWSFbZ9EE5PpSw/edit?utm_content=DAGQDRydqY8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGQDRydqY8/or-NGszjIWSFbZ9EE5PpSw/edit?utm_content=DAGQDRydqY8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+**TB2:**<br>
+[https://www.canva.com/design/DAGVelSyb28/gs1W1NArEd_-D_YVPwg1Og/edit?utm_content=DAGVelSyb28&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGVelSyb28/gs1W1NArEd_-D_YVPwg1Og/edit?utm_content=DAGVelSyb28&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+---
+
+**Anexo 3:**  
+**Project Figma:**  
+[https://www.figma.com/design/3wujndmKi1aJfHe56S9odg/app-web-project?node-id=0-1&node-type=CANVAS&t=fMYzVqO9YaR2ms7B-0](https://www.figma.com/design/3wujndmKi1aJfHe56S9odg/app-web-project?node-id=0-1&node-type=CANVAS&t=fMYzVqO9YaR2ms7B-0)  
+
+---
+
+**Anexo 4:**  
+**Landing Page:**  
+[https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/](https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/)  
+
+---
 
 **Anexo 5:**
-Enlace Video Expoción:<br>
-- **TB1 :** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EeG_pPT3GlxJt_jKB_kG9Y4BkdnjGMNVLbZ0cDoxEUc5YQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NQ0l1T](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EeG_pPT3GlxJt_jKB_kG9Y4BkdnjGMNVLbZ0cDoxEUc5YQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NQ0l1T)
+**Front-End:**
+[https://ridefind-frontend.web.app/](https://ridefind-frontend.web.app/)
 
+---
+
+**Anexo 6:**  
+**Organización de Github:**  
+[https://github.com/upc-pre-202401-si730-ws51-RideLink](https://github.com/upc-pre-202401-si730-ws51-RideLink)  
+
+---
+
+**Anexo 7:**  
+**BackEnd:**  
+[https://ridefind-habtgfbff5fqddgw.eastus2-01.azurewebsites.net/index.html](https://ridefind-habtgfbff5fqddgw.eastus2-01.azurewebsites.net/index.html)
+
+---
+
+**Anexo 8:**
+Enlace Video Expoción:<br>
+- **TB1 :** [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/ESJuYjvw259JliV3vbPJbTYBFNbV8pTf_-WtJfhTErnx8Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=7htm5r`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/ESJuYjvw259JliV3vbPJbTYBFNbV8pTf_-WtJfhTErnx8Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=7htm5r)
+
+- **TB2 :** [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EbD56nc53ilKst9g7y-bCMoBmrbKRquuo6ygzXe0QqsVxw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=EyQIhv`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EbD56nc53ilKst9g7y-bCMoBmrbKRquuo6ygzXe0QqsVxw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=EyQIhv)
+
+**Anexo 9:**
+Enlace Video About The Product:<br>
+[`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/Ef-tqYbgys5CnPZiNK9sesEBDSjgCz5-w-1uvAbqC3yxAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BXBJQO`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113324_upc_edu_pe/Ef-tqYbgys5CnPZiNK9sesEBDSjgCz5-w-1uvAbqC3yxAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BXBJQO)
+
+---
+
+**Anexo 10:**
+
+Enlace Video About The Team:<br>
+[`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EbfxHhH3PnhHhP_uGm6GqgAB4yi0q11a1rddZ62E8tOoGA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=9PFyLg`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221518_upc_edu_pe/EbfxHhH3PnhHhP_uGm6GqgAB4yi0q11a1rddZ62E8tOoGA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=9PFyLg)
+
+---
