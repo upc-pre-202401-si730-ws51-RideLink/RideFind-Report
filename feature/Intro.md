@@ -55,10 +55,10 @@ Además, se han generado los artefactos necesarios utilizando las herramientas r
 - Se llevaron a cabo pruebas integrales para verificar que el consumo de servicios funcionara correctamente y cumpliera con los requerimientos del proyecto.
 - Se coordinaron reuniones periódicas para alinear los avances técnicos con las metas del Sprint 4 y asegurar el cumplimiento de los plazos establecidos.
 
+![Insight12](./img/Chapter01/insight12.png)
+![Insight13](./img/Chapter01/insight13.png)
 ![Insight14](./img/Chapter01/insight14.png)
 ![Insight15](./img/Chapter01/insight15.png)
-![Insight16](./img/Chapter01/insight16.png)
-![Insight17](./img/Chapter01/insight17.png)
 
 ---
 
