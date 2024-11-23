@@ -574,7 +574,7 @@ La API del backend se documenta mediante Swagger, facilitando el acceso a todos 
 
 Enlace a la documentación de la API en Swagger:
 
-Enlace del deployment del BackEnd: [https://ridefind-habtgfbff5fqddgw.eastus2-01.azurewebsites.net/index.html](https://ridefind-habtgfbff5fqddgw.eastus2-01.azurewebsites.net/index.html)
+Enlace del deployment del BackEnd: [https://ridefindapi.azurewebsites.net/index.html](https://ridefindapi.azurewebsites.net/index.html)
 
 Enlace del deployment del FrontEnd: [https://ridefind-frontend.web.app/](https://ridefind-frontend.web.app/)
 
@@ -623,7 +623,7 @@ Durante este sprint, se ha completado el desarrollo del backend de la aplicació
 
 - **MySQL for Azure:** Servicio de base de datos en la nube que utilizamos para almacenar y gestionar los datos de la aplicación. Esta solución proporcionó un entorno robusto para nuestras operaciones de backend.
 
-Enlace del deployment del BackEnd: [https://ridefind-habtgfbff5fqddgw.eastus2-01.azurewebsites.net/index.html](https://ridefind-habtgfbff5fqddgw.eastus2-01.azurewebsites.net/index.html)
+Enlace del deployment del Backend: [https://ridefindapi.azurewebsites.net/index.html](https://ridefindapi.azurewebsites.net/index.html)
 
 Enlace del deployment del FrontEnd: [https://ridefind-frontend.web.app/](https://ridefind-frontend.web.app/)
 
@@ -744,13 +744,16 @@ Anexo: Tablas de commits en el periodo de 1 mes.
 
 | Repository   [RideFind <br> BackEnd](https://github.com/upc-pre-202401-si730-ws51-RideLink/Ridefind-BackEnd)    | Branch    | Commit Id                              | Commit <br>Message     | Commit <br>Message Body                         | Commited <br>on (Date) |
 |:----------------:|:---------:|:--------------------------------------:|:-----------------------:|:-----------------------------------------------:|:------------------------:|
-| RideFind-BackEnd | develop   | 3e91732  | feat(shared): add initial backend structure and shared module |   | 03/11/2024              |
-| RideFind-BackEnd | feat/vehicle   | bb1ee8c  | feat(vehicle): add complete vehicle bounded context |   | 03/11/2024              |
-| RideFind-BackEnd | feat/userProfile  | 465f39  | feat(userProfile): add complete userProfile bounded context |   | 03/11/2024              |
-| RideFind-BackEnd | feat/order   | 0fc4ed2  | feat(order): add complete order bounded context |   | 03/11/2024              |
-| RideFind-BackEnd | feat/azure-settings  | bdd0a69 | feat(deploy): add deployment configuration files |   | 03/11/2024              |
-| RideFind-BackEnd | develop | 483edfd  | merge(azure-settings): integrate Azure deployment settings into develop |   | 03/11/2024              |
-| RideFind-BackEnd | main  | 9b4d0bd  | merge(azure-settings): merge Azure deployment settings from develop to main |   | 03/11/2024  
+| RideFind-BackEnd | develop        | d563e4f  | fix(develop): adjust configurations to ensure smooth merge   |      | 22/11/2024   |
+| RideFind-BackEnd | feat/vehicle   | b29e7a1  | feat(vehicle): add corrected bounded context for Vehicle     |     | 22/11/2024   |
+| RideFind-BackEnd | feat/profile   | 26384c2  | feat(profiles): add corrected bounded context for Profiles and remove outdated version    |     | 22/11/2024   |
+| RideFind-BackEnd | feat/IAM       | 23f7457  | feat(iam): add corrected bounded context for IAM     |     | 22/11/2024   |
+| RideFind-BackEnd | develop        | 8856c67  | feat(iam): merge corrected bounded context for IAM into develop     |     | 22/11/2024   |
+| RideFind-BackEnd | develop        | 4420e40  | feat(vehicle): merge corrected bounded context for Vehicle into develop     |     | 22/11/2024   |
+| RideFind-BackEnd | develop        | 32dd746  | feat(profiles): merge corrected bounded context for Profiles into develop     |     | 22/11/2024   |
+| RideFind-BackEnd | main           | 4e0bc9a  | merge(develop): add cloud deployment configuration to main     |     | 22/11/2024   |
+
+
 
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
@@ -775,13 +778,13 @@ Por último, se realizaron pruebas de integración exhaustivas para garantizar q
 
 Enlace a la documentación de la API en Swagger:
 
-Enlace del deployment del Backend: [https://pawfectcare-dnhqhvbmbxfgcqen.eastus2-01.azurewebsites.net/swagger-ui/index.html#/](https://pawfectcare-dnhqhvbmbxfgcqen.eastus2-01.azurewebsites.net/swagger-ui/index.html#/)
+Enlace del deployment del Backend: [https://ridefindapi.azurewebsites.net/index.html](https://ridefindapi.azurewebsites.net/index.html)
 
-Enlace del deployment del FrontEnd: [https://pawfect-care-app-web.web.app](https://pawfect-care-app-web.web.app/home)
+Enlace del deployment del FrontEnd: [https://ridefind-frontend.web.app/](https://ridefind-frontend.web.app/)
 
-Enlace del deployment de la Landing Page: [https://upc-pre-si729-2402-wx51-g4-aceitunitas.github.io/-PawfectCareLanding-Page.github.io/](https://upc-pre-si729-2402-wx51-g4-aceitunitas.github.io/-PawfectCareLanding-Page.github.io/)
+Enlace del deployment de la Landing Page: [https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/](https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/)
 
-Este despliegue asegura una base sólida para el funcionamiento de PawFect Care, dejando el backend, el frontend y la landing page listos para futuras integraciones y escalabilidad conforme crezcan las necesidades del proyecto.
+Este despliegue asegura una base sólida para el funcionamiento de RideFind, dejando el backend, el frontend y la landing page listos para futuras integraciones y escalabilidad conforme crezcan las necesidades del proyecto.
 
 
 **Swagger UI**
@@ -818,7 +821,7 @@ Durante este sprint, se ha completado el desarrollo del backend de la aplicació
 
 - **MySQL for Azure:** Servicio de base de datos en la nube que utilizamos para almacenar y gestionar los datos de la aplicación. Esta solución proporcionó un entorno robusto para nuestras operaciones de backend.
 
-Enlace del deployment del BackEnd: [https://ridefind-habtgfbff5fqddgw.eastus2-01.azurewebsites.net/index.html](https://ridefind-habtgfbff5fqddgw.eastus2-01.azurewebsites.net/index.html)
+Enlace del deployment del BackEnd: [https://ridefindapi.azurewebsites.net/index.html](https://ridefindapi.azurewebsites.net/index.html)
 
 Enlace del deployment del FrontEnd: [https://ridefind-frontend.web.app/](https://ridefind-frontend.web.app/)
 
@@ -833,30 +836,23 @@ Este enfoque integral asegura que tanto el frontend como el backend de la aplica
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
-En el Sprint 4, el equipo organizó el desarrollo del frontend y backend de la aplicación web utilizando ramas específicas para cada funcionalidad, siguiendo las convenciones de GitFlow. Este enfoque permitió a los desarrolladores trabajar de manera independiente en diferentes aspectos del proyecto, facilitando la colaboración y el mantenimiento del código.
+Durante el Sprint 4, el equipo se enfocó en mejorar la integración entre el frontend y el backend de la plataforma RideFind, implementando funcionalidades clave como el sistema de inicio de sesión (login) y la lectura de imágenes en el backend. Estas mejoras se desarrollaron dentro del bounded context IAM, utilizando Visual Studio Code para la programación y Git para el control de versiones, lo que aseguró un flujo de trabajo estructurado y colaborativo.
+
+En paralelo, el frontend fue actualizado para consumir las nuevas funcionalidades del backend, garantizando una experiencia de usuario más fluida e intuitiva. Estas actualizaciones incluyeron mejoras en la interfaz de usuario y la implementación de comunicación efectiva con los servicios del backend.
+
+Para coordinar el trabajo y mantener la alineación del equipo, se emplearon nuevamente Trello y Slack. Trello facilitó la gestión de tareas y el seguimiento de los objetivos del sprint, mientras que Slack permitió mantener una comunicación constante y ágil entre los integrantes. Las revisiones periódicas aseguraron que las funcionalidades desarrolladas cumplieran con los requisitos técnicos y funcionales establecidos.
+
+Al concluir el sprint, los avances se consolidaron en versiones integradas del backend y frontend, estableciendo una base sólida para futuras funcionalidades. La colaboración efectiva y el uso de herramientas adecuadas permitieron al equipo cumplir con los objetivos de este sprint y avanzar significativamente hacia un producto más completo y funcional.
 
 A continuación, se detallan las tareas asignadas a cada miembro del equipo, junto con las contribuciones realizadas a través de la plataforma GitHub:
 
-| Alumno                          | Actividad                                                                                                                                                                                        |  
-| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |  
-| **Gutierrez Garcia, Jose Eduardo**  | Desarrollo y despliegue del backend en la nube, garantizando la operatividad de la API y su integración con el frontend.                                                  |  
-| **Bastidas Bastidas, Diego Martin**  | Desarrollo del backend y soporte en la integración de datos, contribuyendo al diseño y funcionalidad de los módulos clave. |  
-| **Perez Garcia, David Alexander**   | Implementación de características tanto en el backend como en el frontend, mejorando la experiencia de usuario y asegurando la funcionalidad de la plataforma.                                         |  
-| **Chavez Uribe, Ario Joel**        | Desarrollo del frontend y diseño de la landing page, enfocándose en la usabilidad y estética para ofrecer una experiencia intuitiva.                                                                 |
-
-
-Este enfoque colaborativo permitió que el equipo integrara diversas perspectivas y habilidades, asegurando un progreso efectivo en el desarrollo de PawFect Care. Además, se utilizaron herramientas como GitHub para coordinar las tareas y realizar revisiones de código, fortaleciendo la calidad del producto final.
-
-A continuación, se mostrará la tabla de colaboradores en el repositorio de GitHub, con el objetivo de identificar a cada miembro del equipo.
-
-Tabla de integrantes:
-
 | Username (GitHub) | Nombre                         |
 | ----------------- | ------------------------------ |
-| ghostnotfound404  | Bastidas Bastidas, Diego Martin  |
-| feg06             | Chavez Uribe, Ario Joel  |
-| elcrackje         | Gutierrez Garcia, Jose Eduardo  |
-| davidalexd        | Perez Garcia, David Alexander   |
+| InjustShin        | Farid Sebastian Briceño De La Cruz     |
+| elcrackje         | Gutierrez Garcia, Jose Eduardo         |
+| JhonHuam          | Huamani Aguilar, Jhon Rony            |
+| JoelHuanca        | Huanca Zevallos, Cristhian Joel        |
+| Jefrey            | Sanchez Ignacio, Jefrey Martin         | 
 
 
 A continuación se mostrarán los gráficos de insights durante el sprint:
@@ -1277,7 +1273,7 @@ Enlace Video About the team:<br>
 
 **Anexo 7:**  
 **BackEnd:**  
-[https://ridefind-habtgfbff5fqddgw.eastus2-01.azurewebsites.net/index.html](https://ridefind-habtgfbff5fqddgw.eastus2-01.azurewebsites.net/index.html)
+[https://ridefindapi.azurewebsites.net/index.html](https://ridefindapi.azurewebsites.net/index.html)
 
 ---
 
