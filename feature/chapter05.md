@@ -24,33 +24,7 @@ Estas convenciones nos ayudan a mantener el código organizado, legible y cohere
 
 ![Gherkin5](img/Chapter05/feature05.png)
 
-#### 5.1.4. Software Deployment Configuration.
 
-Explicaremos cómo realizar el despliegue de nuestra Landing Page utilizando el servicio automatizado en la nube de GitHub Pages. A continuación, detallaremos los pasos necesarios para lograr este proceso.
-
-### 5.2. Landing Page, Services & Applications Implementation.
-#### 5.2.1. Sprint 1.
-#### 5.2.1.1. Sprint Planning 1.
-
-| Sprint #              | Sprint 1 |
-|-----------------------|----------|
-| **Sprint Planning Background** |          |
-| **Date**              | 09/07/2024 |
-| **Time**              | 19:00 horas (GMT-5) |
-| **Location**          | Virtual (Google Meet) |
-| **Prepared By**       | Gutierrez Garcia, Jose Eduardo |
-| **Attendees (to planning meeting)** | Briceño De La Cruz, Farid Sebastian  
-Gutierrez Garcia, Jose Eduardo  
-Huamani Aguilar, Jhon Rony  
-Huanca Zevallos, Cristhian Joel  
-Sanchez Ignacio, Jefrey Martin |
-| **Sprint 1 Review Summary** | Al este ser nuestro primer sprint de desarrollo no existe un review summary del sprint |
-| **Sprint 1 Retrospective Summary** | Ya que es nuestro primer sprint aún no identificamos ningun plane de mejora. |
-| **Sprint Goal & User Stories** |          |
-| **Sprint 1 Goal**     | Completar las principales secciones de la Landing Page de la aplicación RideFind, permitiendo a los usuarios explorar y familiarizarse con la plataforma. |
-| **Sprint 1 Velocity** | **8**  
-Se estima una capacidad de 8 Story Points para este sprint, tomando en cuenta las tareas relacionadas con el desarrollo de la Landing Page. |
-| **Sum of Story Points** | 8 |
 
 
 #### 5.2.1.2. Sprint Backlog 1.
