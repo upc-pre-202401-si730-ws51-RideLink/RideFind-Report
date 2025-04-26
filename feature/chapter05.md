@@ -1,15 +1,11 @@
-
-
 #### 5.1.2. Source Code Management.
 
 **Gestión del Código Fuente:**
 
 
-En esta sección, se detalla cómo gestionamos y supervisamos el desarrollo del código para el proyecto RideFind. Utilizamos GitHub como nuestra plataforma principal para la gestión del código fuente, complementada por Git como sistema de control de versiones. Además, seguimos el flujo de trabajo GitFlow para estructurar el desarrollo de manera eficiente.
+En esta sección, se detalla cómo manejamos y supervisamos el desarrollo del código para el proyecto. Utilizamos GitHub como nuestra plataforma principal para la gestión del código fuente, complementada por Git como sistema de control de versiones. Además, seguimos el flujo de trabajo GitFlow para estructurar el desarrollo de manera eficiente.
 
-- Repositorio GitHub para nuestra Landing Page:
-<b>https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind.github.io</b>
-
+- Repositorio GitHub para nuestra Landing Page:(pendiente)
 
 **Ramas Principales:**
 - **main:** Esta rama, a menudo llamada "master", contiene la versión más estable y final del proyecto, lista para ser desplegada en producción. Los cambios integrados en esta rama han pasado todas las pruebas y revisiones necesarias, y se consideran completamente preparados para su lanzamiento.
@@ -28,18 +24,12 @@ En esta sección, se detalla cómo gestionamos y supervisamos el desarrollo del 
 
 - **Hotfix Branches:** Se emplean para abordar errores críticos que requieren una solución urgente en producción. Estas ramas se crean a partir de la rama main, y una vez que el problema se resuelve, los cambios se fusionan tanto en la rama main como en la rama develop.
 
-Este enfoque estructurado con GitFlow nos permite gestionar el desarrollo del código de manera eficiente, facilitando la integración de nuevas características, la corrección de errores y la preparación de versiones estables para producción.
-
-
-
 **Commits Conventions:**
 
 En RideFind, los commits se nombran de acuerdo con el avance y el contenido específico del trabajo realizado. No seguimos una convención rígida para los nombres de los commits; en su lugar, los desarrolladores utilizan descripciones claras y concisas para reflejar las modificaciones implementadas. Esto nos permite una mayor flexibilidad a la hora de registrar el progreso, asegurando que cada commit tenga un nombre que represente con precisión el trabajo efectuado.
 
 #### 5.1.3. Source Code Style Guide & Conventions.
 n RideFind hemos implementado varias convenciones de estilo para asegurar un desarrollo de código claro y consistente en distintos lenguajes y tecnologías:
-
-<b>HTML y CSS:</b> <br>
 
 1. El tipo de documento se declara al inicio del archivo con `<!DOCTYPE html>`.
 
